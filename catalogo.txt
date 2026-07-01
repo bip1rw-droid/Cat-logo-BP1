@@ -55,7 +55,7 @@
 ###
 010074', '010075', '010076 | Daviña, Lila R. | Adquisición de la lectoescritura | Rosario | Homo Sapiens  | 1999 | ENSENANZA DE LA LENGUA' ;; 'METODOS DE ENSENANZA' ;; 'PSICOLOGIA DE LA EDUCACION' ;; 'TEORIAS DEL APRENDIZAJE' ;; 'CONSTRUCTIVISMO' ;; 'LIBROS DE LECTURA | 950-808-237-2
 ###
-010077', '010078', '010079 |  | Manual Bonaerense 4 | Buenos Aires | Aique | 1999 | LIBROS DE TEXTO' ;; 'ENSENANZA DE LA LENGUA' ;; 'ENSENANZA DE LAS CIENCIAS SOCIALES' ;; 'ENSENANZA DE LAS MATEMATICAS' ;; 'ACTIVIDADES DE APRENDIZAJE | 
+009435', '009436 | Cervantes Saavedra, Miguel de | Rinconete y Cortadillo | Buenos Aires | Kapelusz | 1980 | NOVELA PICAREZCA' ;; 'NARRATIVA ESPANOLA' ;; 'LITERATURA UNIVERSAL | 
 ###
 009120 | Borsani, María José | Accesibilidad  educativa en la secundaria | Rosario | Homo Sapiens | 2023 | EDUCACION SECUNDARIA' ;; 'CONSTRUCTIVISMO | 978-987-771-187-5
 ###
@@ -65,7 +65,7 @@
 ###
 010086', '010087 | Gradin, Mariano | El buen amor | Buenos Aires | Lenga | 2000 | LITERATURA ARGENTINA | 
 ###
-010088', '010089', '010090 |  | Programación profesional con Visual Basic | Madrid | Ayala | [1997] |  | 
+810088', '810089', '810090 |  | Programación profesional con Visual Basic | Madrid | Ayala | [1997] |  | 
 ###
 920091', '920092 |  | Leonardo da Vinci | Barcelona | Paraninfo | 2003 | EDUCACION ARTISTICA | 
 ###
@@ -73,13 +73,13 @@
 ###
 010095 |  | Planisferio | Buenos Aires | Kapelusz | 1997 | GEOGRAFIA | 
 ###
-0100096', '100097 |  | El mundo del siglo XVI | Chicago | Replogle Globes | 1997 | SIGLO DIECISEIS' ;; 'HISTORIA POLITICA' ;; 'GEOGRAFIA | 84-456-45-x
+009476 | Levitin, Daniel . J. | El cerebro musical | España | RBA Libros | 2014 | MUSICA' ;; 'PSICOLOGIA' ;; 'EMOCIONES' ;; 'CANCIONES | 978-84-9187-342-6
 ###
-100098', '100098 |  | Costa Rica | San José | Recope | 1999 | ENSENANZA DE LAS CIENCIAS SOCIALES | 
+800098 |  | Costa Rica | San José | Recope | 1999 | ENSENANZA DE LAS CIENCIAS SOCIALES | 
 ###
 920100', '920101 |  | Enciclopedia multimedia Aula Abierta  | Buenos Aires | El Péndulo | 1997 | EDUCACION' ;; 'ENCICLOPEDIAS | 
 ###
-100102', '100103', '100104 |  | Mapa de recursos minerales de Costa Rica | [San José], Costa Rica | UNED | 1982 | GEOGRAFIA | 
+800102', '800103', '800104 |  | Mapa de recursos minerales de Costa Rica | [San José], Costa Rica | UNED | 1982 | GEOGRAFIA | 
 ###
 009119 | García, Karina | Habilidades del siglo XXI | Ciudad Autónoma de Buenos Aires |  |  | APRENDIZAJE ESCOLAR' ;; 'TECNICAS DE ENSENANZA | 978.987-667-340-2
 ###
@@ -87,17 +87,17 @@
 ###
 910109', ' | Devaus, Jules | To arms! | Nueva York | Lenga | 1977 | MUSICA PARA PIANO' ;; 'PARTITURAS | 
 ###
-100111', '100112 | Strauss, Johann | Leyendas de los bosques de Viena | Madrid | Música moderna | [19--] | MUSICA PARA PIANO' ;; 'PARTITURAS | 
+800111', '800112 | Strauss, Johann | Leyendas de los bosques de Viena | Madrid | Música moderna | [19--] | MUSICA PARA PIANO' ;; 'PARTITURAS | 
 ###
 010113 |  | The world of ballet | San José [Costa Rica] | Indica | 1973 | MUSICA PARA PIANO' ;; 'MUSICA CLASICA | 
 ###
-010115', '010116 | Beethoven, Ludwing van | Sonatina para piano | Heredia, Costa Rica | Biblioteca Joaquín García Monge. Sección de Audiovisuales | 1987 | MUSICA PARA PIANO | 
+810115', '810116 | Beethoven, Ludwing van | Sonatina para piano | Heredia, Costa Rica | Biblioteca Joaquín García Monge. Sección de Audiovisuales | 1987 | MUSICA PARA PIANO | 
 ###
 910117', ' |  | La gallinita sabia | Chicago | Coronet Film | [1950] |  | 
 ###
  |  | Jardines internos y externos | Buenos Aires | Neumen | 2002 | ECOLOGIA' ;; 'JARDINERIA | 
 ###
- |  | Formación ciudadana: Etica y Valores | Montevideo | Arquetipo Grupo editorial | 2013 | FORMACION ETICA Y CIUDADANA' ;; 'VALORES UNIVERSALES' ;; 'DERECHOS HUMANOS' ;; 'SOCIEDAD' ;; 'MEDIO AMBIENTE | 978-9974-706-26-2
+009312 |  | Formación ciudadana: Etica y Valores | Montevideo | Arquetipo Grupo editorial | 2013 | FORMACION ETICA Y CIUDADANA' ;; 'VALORES UNIVERSALES' ;; 'DERECHOS HUMANOS' ;; 'SOCIEDAD' ;; 'MEDIO AMBIENTE | 978-9974-706-26-2
 ###
 010166 | Posse, Beatriz Elena | La situación económica en la Argentina | Buenos Aires | Lenga | 2002 | ECONOMIA' ;; 'PRODUCCION | 950-568-695-X
 ###
@@ -113,9 +113,9 @@
 ###
 009335 | Horn, Emily | Disculpe... Es usted una bruja? | CABA | Norma | 2025 | LITERATURA  INFANTIL Y JUVENIL' ;; 'LITERATURA AUSTRALIANA' ;; 'CUENTO | 978-987-545-861-1
 ###
-010132 |  | Energía y ecología | Buenos Aires | Fundación Cuidar | 1996 | ENERGIA' ;; 'PRODUCCION' ;; 'ECOLOGIA | 
+810132 |  | Energía y ecología | Buenos Aires | Fundación Cuidar | 1996 | ENERGIA' ;; 'PRODUCCION' ;; 'ECOLOGIA | 
 ###
-010133', '010134', '010135 |  | Mapa de recursos minerales de Costa Rica | [San José], Costa Rica | UNED | 1982 |  | 
+009477 | Lewis, Clive Staples | Las Cronicas de Narnia | CABA | Destino | 2014 | LITERATURA  INFANTIL Y JUVENIL' ;; 'NARRATIVA IRLANDESA' ;; 'NOVELA FANTASTICA' ;; 'CRIATURAS FANTASTICAS | 978-950-732-227-3
 ###
 010138 | Beraldi, Jorge | Mariposas azules |  |  | 2002 | FOTOGRAFIA | 
 ###
@@ -131,7 +131,7 @@
 ###
 910144', ' | Granados, Manuel | Didáctico de la guitarra flamenca | Barcelona | Ventilador Edicions | c1995 | EDUCACION ARTISTICA' ;; 'EDUCACION MUSICAL | 
 ###
-010146', '010147 | Beraldi, Jorge | Mendoza | Mendoza | Lenga | 2003 | MUSEOS' ;; 'IDENTIDAD' ;; 'FOTOGRAFIA | 
+910146', '910147 | Beraldi, Jorge | Mendoza | Mendoza | Lenga | 2003 | MUSEOS' ;; 'IDENTIDAD' ;; 'FOTOGRAFIA | 
 ###
 900148 |  | La novicia rebelde | California | Twentieth Century-Fox Film Corp. | 1965 |  | 
 ###
@@ -143,7 +143,7 @@
 ###
 010150 |  | El mago de Oz | Madrid | Warner Home Video | 1992 | AMISTAD' ;; 'PELICULA PARA NINOS | 
 ###
-010151 |  | Star wars | Madrid | Twentieth Century-Fox España | c1977 | CIENCIA FICCION' ;; 'AVENTURAS | 
+810151 |  | Star wars | Madrid | Twentieth Century-Fox España | c1977 | CIENCIA FICCION' ;; 'AVENTURAS | 
 ###
 010152 |  | Dumbo | Buenos Aires | Walt Disney Home Video | 2001 | CIRCO | 
 ###
@@ -157,7 +157,7 @@
 ###
 010155 | Staffora, Oscar | Las cuatro estaciones del alma |  |  | 2002 |  | 
 ###
-010156 | Inzúa, Juan Pablo | [Piedras de Humahuaca] |  |  | 2003 | GEOLOGIA | 
+009478 | Shua, Ana Maria | El libro de las mujeres | Buenos Aires | Alfaguara | 2005 | NARRATIVA' ;; 'ANTOLOGIA' ;; 'POESIA' ;; 'COPLAS' ;; 'MITOS' ;; 'LEYENDAS' ;; 'CUENTOS POPULARES' ;; 'MUJERES | 987-04-0208-9
 ###
 010157 | Fallas, Mauricio | [Iglesias de Salta] |  |  | 2003 | IGLESIAS | 
 ###
@@ -197,7 +197,7 @@
 ###
 012833 | Zielonka, Liliana | Música maestro  | Buenos Aires | Humanitas | 1992 | EDUCACION MUSICAL' ;; 'EDUCACION PREESCOLAR | 9505823169
 ###
-101638', '101640', '101641 | Adler, Alfred | Guiando al niño   | Buenos Aires | Paidós | 1977 | ORIENTACION EDUCACIONAL' ;; 'PSICOLOGIA DEL NINO | 
+009461', '009462 |  | Diccionario Historico Biografico de los Maestros del Chubut (1868-1930) | Rawson |  |  | DICCIONARIO' ;; 'BIOGRAFIAS ARGENTINAS' ;; 'CHUBUT' ;; 'HISTORIA  REGIONAL' ;; 'MAESTROS | 
 ###
 010078 | Adrados, Isabel | La orientación del niño   | Buenos Aires | Kapelusz | 1973 | ORIENTACION EDUCACIONAL' ;; 'PSICOLOGIA DEL NINO | 
 ###
@@ -221,7 +221,7 @@
 ###
 000066 | Aime, Susana M. | Lengua vosz en onda. Módulo 1 | Buenos Aires | Estrada | 1992 | LENGUAJE' ;; 'ENSENANZA DE LA LENGUA MATERNA' ;; 'LIBROS DE TEXTO | 9500104605
 ###
-100067 | Aime, Susana M. | Lengua vosz en onda. Módulo 1  | Buenos Aires | Estrada | 1992 | ENSENANZA DE LA LENGUA MATERNA' ;; 'LENGUAJE' ;; 'LIBROS DE TEXTO | 9500104605
+008703 |  | El mar de los Poetas | Rawson |  |  | POESIA' ;; 'ANTOLOGIA' ;; 'LITERATURA' ;; 'CHUBUT | 
 ###
 000068', '000069 | Aime, Susana M. | Lengua vosz en onda. Módulo 2 | Buenos Aires | Estrada | 1993 | ENSENANZA DE LA LENGUA MATERNA' ;; 'LENGUAJE' ;; 'LIBROS DE TEXTO | 9500104605
 ###
@@ -229,17 +229,17 @@
 ###
 000079', '000081', '000083 | Aime, Susana M. | Lengua, voz en creación  | Buenos Aires | Estrada | 1995 | ENSENANZA DE LA LENGUA MATERNA' ;; 'LENGUAJE' ;; 'LIBROS DE TEXTO | 950-01-0540-3
 ###
-000069 | Aime, Susana M. | Lengua vosz en onda. Módulo 2 | Buenos Aires | Estrada | 1992 | ENSENANZA DE LA LENGUA MATERNA' ;; 'LENGUAJE' ;; 'LIBROS DE TEXTO | 9500104605
+009459 |  | Historias de vida de maestros chubutenses | Trelew | Secretaria General de la Gobernación | 1996 | BIOGRAFIAS' ;; 'MAESTROS CHUBUTENSES' ;; 'REVISTA | 
 ###
 000070', '000071 | Aime, Susana M. | Lengua vosz en onda. Módulo 3  | Buenos Aires | Estrada | 1993 | ENSENANZA DE LA LENGUA MATERNA' ;; 'LENGUAJE' ;; 'LIBROS DE TEXTO | 9500104605
 ###
-000071 | Aime, Susana M. | Lengua vosz en onda. módulo 3   | Buenos Aires | Estrada | 1993 | ENSENANZA DE LA LENGUA MATERNA' ;; 'LENGUAJE' ;; 'LIBROS DE TEXTO | 9500104605
+009474 |  | Cartilla informativa  (01 a 13) 2014-2015 | Trelew |  | 2015 | CARTILLA INFORMATIVA' ;; 'SIMBOLOS NACIONALES' ;; 'ELECCION DE ABANDERADOS Y ESCOLTAS' ;; 'EDUCACION | 
 ###
 000277 | Aisenstein, Angela | Curriculum presente, ciencia ausente | Buenos Aires | Miño y Dávila | 1995 | EDUCACION FISICA | 9509467626
 ###
 013066', '013080', '013089 | Alderoqui, Silvia | Urbania 5 | Buenos Aires | Estrada | 1995 | CIENCIAS SOCIALES' ;; 'LIBROS DE TEXTO | 9500105677
 ###
-100817 | Alexander, Gerda | La  eutonía   | Barcelona | Paidós | 1983 | DESARROLLO MOTOR | 
+010451', '010817 | Alexander, Gerda | La  eutonia   | Barcelona | Paidós | 1983 | DESARROLLO MOTOR | 
 ###
 000197', '000198', '000281 | Alexandre, Mario | Instrucción cívica  | Buenos Aires | Civismo | 1994 | EDUCACION CIVICA | 9505143273
 ###
@@ -291,7 +291,7 @@
 ###
 012687 | Ander-Egg, Ezequiel | Cómo hacer reuniones eficaces  | Buenos Aires | Magisterio del Río de La Plata | 1992 | COMUNICACION' ;; 'REUNIONES | 950-550-083-1
 ###
-102688 | Ander-Egg, Ezequiel | Cómo elaborar un proyecto | Buenos Aires | Magisterio del Río de La Plata | 1993 | PROYECTOS | 9505501226
+001049 | Hancock, Jonathan | Manual practico para estimular y potenciar la memoria | Buenos Aires | La Isla | 2001 | PSICOLOGIA' ;; 'MEMORIA | 950-637-141-5
 ###
 012689 | Ander-Egg, Ezequiel | Interdisciplinariedad en educación | Buenos Aires | Magisterio del Río de La Plata | 1994 | PEDAGOGIA' ;; 'INTERDISCIPLINARIEDAD | 9505501250
 ###
@@ -471,7 +471,7 @@
 ###
 000781 | Montes, Enrique | Ciencias naturales | Buenos Aires | A-Z | 1997 | CIENCIAS BIOLOGICAS | 950-534-430-9
 ###
-102604 | Andrade de Asís, Clotilde Isabel | Cantares de siete notas  | Buenos Aires | Plus Ultra | 1985 | MUSICA' ;; 'EDUCACION MUSICAL | 
+012604 | Andrade de Asís, Clotilde Isabel | Cantares de siete notas  | Buenos Aires | Plus Ultra | 1985 | MUSICA' ;; 'EDUCACION MUSICAL | 
 ###
 012708 | André, Béatrice | La invención de la escritura  | Madrid | SM | 1990 | HISTORIA' ;; 'ESCRITURA' ;; 'LITERATURA INFANTIL' ;; 'INVENTOS' ;; 'RELATOS HISTORICOS | 84-34-82388-4
 ###
@@ -501,7 +501,7 @@
 ###
 000715 |  | Fuentes para la transformación curricular  | Buenos Aires | El Ministerio | 1996 | MATEMATICA | 
 ###
-103113', '103114 |  | Fuentes para la transformación curricular | Buenos Aires |  |  | CIENCIAS SOCIALES' ;; 'ENSENANZA DE LA GEOGRAFIA' ;; 'ENSENANZA DE LA HISTORIA | 
+013113', '013114 |  | Fuentes para la transformación curricular | Buenos Aires |  |  | CIENCIAS SOCIALES' ;; 'ENSENANZA DE LA GEOGRAFIA' ;; 'ENSENANZA DE LA HISTORIA | 
 ###
 013119', '001452 | Alonso, María Ernestina | La Argentina en el mundo contemporáneo, sociedades y territorios en cambio | Buenos Aires | Aique | 1998 | CIENCIAS SOCIALES' ;; 'HISTORIA NACIONAL' ;; 'LIBROS DE TEXTO | 950-701-416-0
 ###
@@ -511,7 +511,7 @@
 ###
 013116 |  | Fuentes para la transformación | Buenos Aires | El Ministerio | 1997 | INFORMATICA' ;; 'TECNOLOGIA | 
 ###
-103007', '103008', '103009 |  | La argentina se organiza | Buenos Aires | Gram Editoraón | 1995 | HISTORIA NACIONAL | 9879069099
+013007', '013008', '013009 |  | La argentina se organiza | Buenos Aires | Gram Editoraón | 1995 | HISTORIA NACIONAL | 9879069099
 ###
 000382 | Arnaiz, Pere | Aprendizaje de grupo en el aula | Barcelona | Graó | 1987 | ENSENANZA EN GRUPO' ;; 'DINAMICA DE GRUPO | 8485729463
 ###
@@ -563,7 +563,7 @@
 ###
 013148', '013280 | Foncuberta, Juan | Probabilidades y estadísticas | Buenos Aires | Conicet | 1996 | ESTADISTICA' ;; 'MATEMATICAS | 9506870195
 ###
-103151', '000930 | Boido, Guillermo | Pensamiento científico | Buenos Aires | Conicet | 1994 | PENSAMIENTO CIENTIFICO' ;; 'FALSACIONISMO' ;; 'METODO HIPOTETICO' ;; 'LEYES EMPIRICAS' ;; 'LEYES TEORICAS' ;; 'TECNOLOGIA CIENTIFICA' ;; 'PROCIENCIA | 9506920036
+013151 | Boido, Guillermo | Pensamiento científico | Buenos Aires | Conicet | 1994 | PENSAMIENTO CIENTIFICO' ;; 'FALSACIONISMO' ;; 'METODO HIPOTETICO' ;; 'LEYES EMPIRICAS' ;; 'LEYES TEORICAS' ;; 'TECNOLOGIA CIENTIFICA' ;; 'PROCIENCIA | 9506920036
 ###
 013145', '013282 | Foguelman, Dina | Ecología  | Buenos Aires | Conicet | 1994 | OBJETIVOS DEL CURSO' ;; 'ECOLOGIA' ;; 'ECOSISTEMAS' ;; 'NIVELES DE ORGANIZACION' ;; 'MEDIO AMBIENTE' ;; 'CONTAMINACION DEL AGUA' ;; 'AGUA' ;; 'PERFECCIONAMIENTO DOCENTE' ;; 'RED FEDERAL DE FORMACION DOCENTE CONTINUA' ;; 'PROCIENCIA' ;; 'CONICET | 9506920311
 ###
@@ -571,17 +571,17 @@
 ###
 013147 | Maiztegui, Alberto | Física   | Buenos Aires | Conicet | 1988 | FISICA' ;; 'MOVIMIENTO' ;; 'CINEMATICA' ;; 'CINEMATICA VECTORIAL' ;; 'DINAMICA' ;; 'FUERZAS' ;; 'PROPIEDADES DINAMICAS | 9506870128
 ###
-103144', '000933 | Verruno, Camilo | Prevención de adicciones  | Buenos Aires | Ministerio Cultura y Educación | 1995 | PREVENCION' ;; 'NARCOTRAFICO' ;; 'LEGISLACION | 950-687-023-3
+013144', '013279 | Verruno, Camilo | Prevención de adicciones  | Buenos Aires | Ministerio Cultura y Educación | 1995 | PREVENCION' ;; 'NARCOTRAFICO' ;; 'LEGISLACION | 950-687-023-3
 ###
-103146 | Santaló, Luis | Matemática  | Buenos Aires | Conicet | 1994 | ENSENANZA DE LAS MATEMATICAS | 9506870004
+013146 | Santaló, Luis | Matemática  | Buenos Aires | Conicet | 1994 | ENSENANZA DE LAS MATEMATICAS | 9506870004
 ###
 013149', '013150 | Varela, Leopoldo | Química de los compuestos de carbono | Buenos Aires | Conicet | 1987 | QUIMICA' ;; 'ACIDOS' ;; 'QUIMICA ORGANICA | 9506870071
 ###
 009401 | Lacunza, MAría Magdalena | Klofkyna lee y escribe | Buenos Aires | María Magdalena Lancuza | 1988 | ALFABETIZACION INICIAL' ;; 'LECTOESCRITURA' ;; 'LIBRO DE TEXTO PARA EL ALUMNO' ;; 'VOCALES' ;; 'ENSENANZA' ;; 'APRENDIZAJE' ;; 'GRAFISMOS' ;; 'TIPOS DE LETRAS' ;; 'EDUCACION' ;; 'LENGUA' ;; 'SISTEMAS DE ESCRITURA | 978-631-00-2717-3
 ###
-100436 | Baldisserri, Milena | El preescolar   | Madrid | Cincel | 1984 | EDUCACION PREESCOLAR | 
+010436 | Baldisserri, Milena | El preescolar   | Madrid | Cincel | 1984 | EDUCACION PREESCOLAR | 
 ###
-102970', '102968', '102969 | Bale, John | Didáctica de la geografía en la escuela primaria  | Madrid | Morata | 1994 | ENSENANZA DE LA GEOGRAFIA' ;; 'DIDACTICA' ;; 'GEOGRAFIA | 8471123363
+012970', '012968 | Bale, John | Didáctica de la geografía en la escuela primaria  | Madrid | Morata | 1994 | ENSENANZA DE LA GEOGRAFIA' ;; 'DIDACTICA' ;; 'GEOGRAFIA | 8471123363
 ###
 102591 | Balestra, René | Sociología de la cooperación  | Buenos Aires | Intercoop | 1979 | COOPERATIVAS | 
 ###
@@ -595,7 +595,7 @@
 ###
 011432', '011433 | Bantock, G. | La escuela en la sociedad industrial  | Buenos Aires | Paidós | 1971 | PROCESOS PSICOPEDAGOGICOS | 9505812930
 ###
-101694', '101695', '011696', '011697 | Bany, Mary A. | La dinámica de grupo en la educación   | Madrid | Aguilar | 1980 | DINAMICA DE GRUPO' ;; 'ENSENANZA EN GRUPO | 
+011696', '011697 | Bany, Mary A. | La dinámica de grupo en la educación   | Madrid | Aguilar | 1980 | DINAMICA DE GRUPO' ;; 'ENSENANZA EN GRUPO | 
 ###
 010329', '010330 | Bareilles, Oscar | El folklore musical en la escuela  | Buenos Aires | Kapelusz | 1977 | MUSICA' ;; 'ENSENANZA' ;; 'EDUCACION MUSICAL | 
 ###
@@ -631,7 +631,7 @@
 ###
 000440', '000442', '000458', '000469 | Bayer, Osvaldo | La patagonia rebelde  | Buenos Aires | Planeta | 1992-1997 | HISTORIA NACIONAL' ;; 'HISTORIA | 
 ###
-100362', '011699', '011700 | Beal, George | Conducción y acción dinámica del grupo | Buenos Aires | Kapelusz | 1964 | DINAMICA DE GRUPO' ;; 'ESTRUCTURA DEL GRUPO | 
+011699', '011700 | Beal, George | Conducción y acción dinámica del grupo | Buenos Aires | Kapelusz | 1964 | DINAMICA DE GRUPO' ;; 'ESTRUCTURA DEL GRUPO | 
 ###
 010590', '010592 | Beard, Ruth | Psicología evolutiva de Piaget   | Buenos Aires | Kapelusz | 1982 | PSICOLOGIA EVOLUTIVA' ;; 'PSICOLOGIA DEL NINO | 
 ###
@@ -653,7 +653,7 @@
 ###
 013024', '013025 | Bergadá Mugica, Elsa | Así aprendemos | Buenos Aires | Edicial |  | MATEMATICAS' ;; 'LIBROS DE TEXTO | 9505062524
 ###
-013064 | Bergadá Mugica, Elsa | Así aprendemos | Buenos Aires | Edicial | 1997. | MATEMATICAS' ;; 'LIBROS DE TEXTO | 950-5062-28-1
+013064', '013060 | Bergadá Mugica, Elsa | Así aprendemos | Buenos Aires | Edicial | 1997. | MATEMATICAS' ;; 'LIBROS DE TEXTO | 950-5062-28-1
 ###
 000711 | Hernández, José | El gaucho Martín Fierro | Buenos Aires | Buro | 1998 | LITERATURA NACIONAL' ;; 'POESIAS' ;; 'POESIA GAUCHESCA' ;; 'LITERATURA ARGENTINA' ;; 'LITERATURA GAUCHESCA' ;; 'POESIA EPICA | 
 ###
@@ -667,7 +667,7 @@
 ###
 010552', '010553 | Berlo, David K. | El proceso de la comunicación | Buenos Aires | El Ateneo | 1982 | TEORIA DE LA INFORMACION' ;; 'COMUNICACION | 
 ###
-102585 | Bernard, Michel | El cuerpo | Buenos Aires | Paidós | 1985 | CUERPO HUMANO | 
+012585 | Bernard, Michel | El cuerpo | Buenos Aires | Paidós | 1985 | CUERPO HUMANO | 
 ###
 012540 | Bernardo, Mane | Títeres para jardineras | Buenos Aires | Estrada | 1987 | TITERES' ;; 'EDUCACION PREESCOLAR | 
 ###
@@ -751,13 +751,13 @@
 ###
 011143', '011144 | Brauner, Charles J | Problemas de educación y filosofía  | Buenos Aires | Paidós | 1969 | FILOSOFIA DE LA EDUCACION | 
 ###
-100363 | Bréar, C | De las manipulaciones al cálculo   | Buenos Aires | Kapelusz | 1969 | ENSENANZA DE LAS MATEMATICAS' ;; 'DIDACTICA' ;; 'CALCULO | 
+010363 | Bréar, C | De las manipulaciones al cálculo   | Buenos Aires | Kapelusz | 1969 | ENSENANZA DE LAS MATEMATICAS' ;; 'DIDACTICA' ;; 'CALCULO | 
 ###
 011447', '011450 | Brembeck, Cole S | Ambiente y rendimiento escolar  | Buenos Aires | Paidós | 1975 | INFLUENCIA DEL AMBIENTE' ;; 'AMBIENTE EDUCACIONAL' ;; 'RENDIMIENTO DEL ALUMNO | 
 ###
 011455 | Brembeck, Cole S | La comunidad y la escuela  | Buenos Aires | Paidós | 1975 | ASPECTOS SOCIALES' ;; 'RELACION ESCUELA-COMUNIDAD' ;; 'SISTEMAS SOCIALES | 
 ###
-101832', '101833', '101834', '101835 | Brembeck, Cole S | El maestro y la escuela   | Buenos Aires | Paidós | 1976 | PERFIL PROFESIONAL DEL DOCENTE' ;; 'PAPEL DEL DOCENTE' ;; 'PROBLEMAS SOCIALES | 
+101833', '101834 | Brembeck, Cole S | El maestro y la escuela   | Buenos Aires | Paidós | 1976 | PERFIL PROFESIONAL DEL DOCENTE' ;; 'PAPEL DEL DOCENTE' ;; 'PROBLEMAS SOCIALES | 
 ###
 010346 | Bremer, John | La escuela sin paredes  | Buenos Aires | El Ateneo | 1975 | PROYECTOS MODELOS | 
 ###
@@ -791,11 +791,11 @@
 ###
 000313 | Butelman, Ida | Psicopedagogía institucional | Buenos Aires | Paidós | 1991 | INSTITUCIONES EDUCACIONALES' ;; 'PROCESOS PSICOPEDAGOGICOS | 9501246191
 ###
-010350 | Cabib, Sofía L.P. | Manual teórico práctico de psicología educacional | Buenos Aires | Kapelusz | 1981 | PSICOLOGIA DE LA EDUCACION | 
+010354 | Cabib, Sofía L.P. | Manual teórico práctico de psicología educacional | Buenos Aires | Kapelusz | 1981 | PSICOLOGIA DE LA EDUCACION | 
 ###
 000422 | Cailleux, Andre | La tierra y su historia | Buenos Aires | El Ateneo | 1981 | CIENCIAS DE LA TIERRA | 
 ###
-100446 | Calecki, Monique | Técnicas de bienestar para niños | Buenos Aires | Paidós | 1986 | EXPRESION CORPORAL' ;; 'NINOS | 
+010446 | Calecki, Monique | Técnicas de bienestar para niños | Buenos Aires | Paidós | 1986 | EXPRESION CORPORAL' ;; 'NINOS | 
 ###
 012590 | Caletti, Alberto Mario | Administración de las cooperativas | Buenos Aires | Intercoop | 1979 | COOPERATIVAS | 
 ###
@@ -811,7 +811,7 @@
 ###
 013050', '013051 | Cantón, Darío | Argentina | Buenos Aires | Paidós | 1994 | HISTORIA NACIONAL' ;; 'DEMOCRACIA | 9501277062
 ###
-100358 | Caplow, Theodore | Sociedad y futuro  | Buenos Aires | Ediciones Aragón | 1978 | SOCIOLOGIA' ;; 'DESARROLLO SOCIAL | 
+010358 | Caplow, Theodore | Sociedad y futuro  | Buenos Aires | Ediciones Aragón | 1978 | SOCIOLOGIA' ;; 'DESARROLLO SOCIAL | 
 ###
 011083', '011084 | Capul, Maurice | Los grupos reeducativos | Buenos Aires | El Ateneo | 1972 | GRUPOS' ;; 'CENTROS DE REEDUCACION | 
 ###
@@ -845,7 +845,7 @@
 ###
 012208 | Carvajal Rojas, Enrique | La ciencia que vivimos | Buenos Aires | Kapelusz | 1980 | BIOLOGIA' ;; 'CIENCIAS BASICAS' ;; 'DIDACTICA' ;; 'ENSENANZA PRIMARIA' ;; 'PROYECTOS | 
 ###
-102875 | Cash, Terry | Sonido  | Buenos Aires | Sigmar | 1991 | CIENCIAS' ;; 'EXPERIMENTOS CIENTIFICOS' ;; 'CIENCIAS BASICAS | 
+012875 | Cash, Terry | Sonido  | Buenos Aires | Sigmar | 1991 | CIENCIAS' ;; 'EXPERIMENTOS CIENTIFICOS' ;; 'CIENCIAS BASICAS | 
 ###
 000385 | Caspari, Irene | Micro Isis a su alcance   | Buenos Aires | Novedades Educativas | 1997 | BIBLIOTECAS ESCOLARES | 9879191129
 ###
@@ -871,7 +871,7 @@
 ###
 012857 | Céspedes, Cora | Pro-a 7 | Buenos Aires | A-Z | 1995 | LIBROS DE TEXTO' ;; 'LENGUAJE | 955-34287-X
 ###
-100605 | Condemarín, Mabel | Madurez escolar | Santiago de Santiago de Chile | Andrés Bello | 1981 | MADUREZ PARA EL APRENDIZAJE | 
+010605 | Condemarín, Mabel | Madurez escolar | Santiago de Santiago de Chile | Andrés Bello | 1981 | MADUREZ PARA EL APRENDIZAJE | 
 ###
 010298', '000201 | Chanan, Gabriel | Para qué la escuela | Madrid | Cincel | 1982 | PEDAGOGIA' ;; 'CULTURA | 
 ###
@@ -899,9 +899,9 @@
 ###
 000045 |  | Descubramos nuestra forma de ser y nuestra manera de vivir  | Santiago de Chile | Ministerio de cultura y Educación | 1990 | DESARROLLO DEL NINO' ;; 'JUEGO | 
 ###
-100337', '100338', '100339', '100340', '100341', '100993', '100994', '100995', '100996', '100997 | Chinoy, Ely | Introducción a la sociología | Buenos Aires | Paidós | 1980 | SOCIOLOGIA | 
+010337', '010338', '010339 | Chinoy, Ely | Introduccion a la sociologia | Buenos Aires | Paidós | 1980 | SOCIOLOGIA | 
 ###
-100998', '100999', '101000', '101001 | Chinoy, Ely | La sociedad | México | Fondo de Cultura Económica | 1981 | SOCIOLOGIA | 
+010998', '010999 | Chinoy, Ely | La sociedad | México | Fondo de Cultura Económica | 1981 | SOCIOLOGIA | 
 ###
 000314 | Chomsky, Noam | La nueva sintáxis | Barcelona | Paidós | 1988 | LINGUISTICA' ;; 'SINTAXIS | 84750094716
 ###
@@ -991,9 +991,9 @@
 ###
 000319 |  | Del proyecto educativo a la programación de aula | Barcelona | Graó | 1996 | PLANIFICACION' ;; 'DIDACTICA' ;; 'PLANIFICACION DEL PROGRAMA | 8478270558
 ###
-100318 | Demarchi, Elida M. | Expresión corporal | Buenos Aires | kapelusz | 1977 |  | 
+010318 | Demarchi, Elida M. | Expresión corporal | Buenos Aires | kapelusz | 1977 |  | 
 ###
-100816 | Demo, Pedro | Investigación participante | Buenos Aires | Kapelusz | 1985 | INVESTIGACION | 
+010816 | Demo, Pedro | Investigación participante | Buenos Aires | Kapelusz | 1985 | INVESTIGACION | 
 ###
 010454', '010830 | Denis, Daniel | El cuerpo enseñado | Buenos Aires | Paidós | 1980 | EDUCACION FISICA' ;; 'PEDAGOGIA | 
 ###
@@ -1029,7 +1029,7 @@
 ###
 011613', '011612 | Means, Richard K. | Metodología y educación  | Buenos Aires | Paidós | 1981 | PEDAGOGIA' ;; 'METODOS EDUCACIONALES' ;; 'EDUCACION' ;; 'TECNICAS GRUPALES' ;; 'GRUPOS' ;; 'MATERIALES DE APOYO' ;; 'TECNICAS DE ENSENANZA' ;; 'ENCUESTA' ;; 'RELATOS' ;; 'ROLES' ;; 'SOCIODRAMA | 
 ###
-000378', '103206 | Weissmann, Hilda | Didáctica de las ciencias naturales   | Buenos Aires | Paidós | 1993 | DIDACTICA' ;; 'CIENCIAS NATURALES | 950-12-2113-X
+000378 | Weissmann, Hilda | Didáctica de las ciencias naturales   | Buenos Aires | Paidós | 1993 | DIDACTICA' ;; 'CIENCIAS NATURALES | 950-12-2113-X
 ###
 000566 | Dido, Juan Carlos | Taller de periodismo, 150 actividades   | Buenos Aires | Novedades Educativas | 1996 | PERIODISMO' ;; 'MEDIOS DE COMUNICACION | 987911616X
 ###
@@ -1059,7 +1059,7 @@
 ###
 012982', '012984 | Dolto, Francoise | La causa de los adolescentes  | Buenos Aires | Seix Barral | 1998 | ADOLESCENTES' ;; 'PSICOLOGIA DEL NINO | 9507310126
 ###
-102537 | Dolto, Francoise | Psicoanálisis y pediatría   | Buenos Aires | Siglo XXI | 1974 | PEDIATRIA' ;; 'OBSERVACION | 
+012537 | Dolto, Francoise | Psicoanálisis y pediatría   | Buenos Aires | Siglo XXI | 1974 | PEDIATRIA' ;; 'OBSERVACION | 
 ###
 012278 | Dominguez, B. | Recuperación primer nivel  | Buenos Aires | Kapelusz | 1979 | CLASES DE RECUPERACION' ;; 'DIFICULTADES EN EL APRENDIZAJE' ;; 'ALUMNOS DE APRENDIZAJE LENTO | 
 ###
@@ -1085,7 +1085,7 @@
 ###
 000022', '004556 | Drennen, Olga | Sombras y temblores  | Buenos Aires | Quipu | 1993 | CUENTOS' ;; 'CUENTOS DE SUSPENSO' ;; 'CUENTOS DE TERROR' ;; 'LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'LITERATURA ARGENTINA' ;; 'TERROR | 950-9187-80-1
 ###
-102237 | Dropsy, Jacques | Vivir en su cuerpo   | Buenos Aires | Paidós | 1982 | RELACIONES HUMANAS | 
+012237 | Dropsy, Jacques | Vivir en su cuerpo   | Buenos Aires | Paidós | 1982 | RELACIONES HUMANAS | 
 ###
 011710 | Dunstan, Irene Z. | Cómo crear buenos hábitos, seguridad y aptitud física en el niño  | Buenos Aires | Paidós | 1980 | AMBIENTE SOCIAL' ;; 'FORMACION DE HABITOS | 
 ###
@@ -1125,7 +1125,7 @@
 ###
 010260 | Efron, Alexander | El mundo de la enegía nuclear  | Buenos Aires | Bell | 1971 | FISICA NUCLEAR' ;; 'FISICA | 
 ###
-100132 | Efron, Alexander | El mundo de la mecánica  | Buenos Aires | Bell | 1971 | MECANICA' ;; 'FISICA | 
+010132 | Efron, Alexander | El mundo de la mecánica  | Buenos Aires | Bell | 1971 | MECANICA' ;; 'FISICA | 
 ###
 010256 | Efron, Alexander | El mundo del calor  | Buenos Aires | Bell | 1971 | FISICA | 
 ###
@@ -1149,25 +1149,25 @@
 ###
 010264 | Enciso, Berta | La biblioteca | México | El colegio de México | 1983 |  | 
 ###
-000031', '008307 | Ende, Michael | La historia interminable | Buenos Aires | Alfaguara | 2006 | NOVELAS' ;; 'NOVELAS DE AVENTURAS' ;; 'LITERATURA INFANTIL' ;; 'LITERATURA ALEMANA' ;; 'LITERATURA JUVENIL | 997-04.0431-6
+000031', '008307', '008275 | Ende, Michael | La historia interminable | Buenos Aires | Alfaguara | 2006 | NOVELAS' ;; 'NOVELAS DE AVENTURAS' ;; 'LITERATURA INFANTIL' ;; 'LITERATURA ALEMANA' ;; 'LITERATURA JUVENIL | 997-04.0431-6
 ###
 013082 | Ende, Michael | Momo | Buenos Aires | Alfaguara | 1997 | CUENTOS' ;; 'CUENTOS FANTASTICOS' ;; 'LITERATURA JUVENIL' ;; 'LITERATURA ALEMANA | 84-204-3211-3
 ###
 010609', '010613 | Engelmayer, Otto | Psicología evolutiva de la infancia y de la adolescencia | Buenos Aires | Kapelusz | 1970 | PSICOLOGIA EVOLUTIVA' ;; 'PSICOLOGIA DEL NINO' ;; 'ADOLESCENCIA | 
 ###
-103016', '103017', '103018 |  | Entre dictaduras y democracias | Buenos Aires | Libros del Quirquincho | 1995 | HISTORIA NACIONAL | 9507370585
+013016', '013017', '013018 |  | Entre dictaduras y democracias | Buenos Aires | Libros del Quirquincho | 1995 | HISTORIA NACIONAL | 9507370585
 ###
 012960', '012961 |  | La enseñanza de las ciencias sociales | Madrid | Aprendizaje Visor | 1989 | CIENCIAS SOCIALES' ;; 'ENSENANZA DE LA HISTORIA' ;; 'ENSENANZA DE LA GEOGRAFIA' ;; 'DIDACTICA | 847774047X
 ###
 000125 | Giordano, María | Enseñar y aprender ciencias naturales | Buenos Aires | Troquel | 1991 | BIOLOGIA' ;; 'ENSENANZA DE LA CIENCIA | 950163051X
 ###
-100968', '100969', '100970', '100971 | Meyer, Francois | Epistemología de la biología | Buenos Aires | Paidós | 1979 | BIOLOGIA | 
+010970', '010971 | Meyer, Francois | Tratado de logica y conocimiento cientifico | Buenos Aires | Paidós | 1979 | BIOLOGIA | 
 ###
-100972 | Gréco, Pierre | Epistemología de las ciencias del hombre | Buenos Aires | Paidós | 1979 | CIENCIAS SOCIALES | 
+010972 | Greco, Pierre | Tratado de logica y conocimiento cientifico | Buenos Aires | Paidós | 1979 | CIENCIAS SOCIALES | 
 ###
-100964', '100965', '100966', '100967 | Piaget, Jean | Epistemología de la física  | Buenos Aires | Paidós | 1979 | FISICA | 
+010964', '010965 | Piaget, Jean | Epistemología de la física  | Buenos Aires | Paidós | 1979 | FISICA | 
 ###
-100960', '100961', '100962', '100963 | Piaget, Jean | Epistemología de la matemática  | Buenos Aires | Paidós | 1979 | MATEMATICAS | 
+010960', '010961 | Piaget, Jean | Tratado de logica y conocimiento cientifico | Buenos Aires | Paidós | 1979 | MATEMATICAS | 
 ###
 010729', '010730 | Erikson, Erik H. | Infancia y sociedad  | Buenos Aires | Paidós | 1980 | PSICOLOGIA DEL NINO' ;; 'PROBLEMAS SOCIALES | 
 ###
@@ -1185,11 +1185,11 @@
 ###
 013182', '000307 | Solves, Hebe | La escuela una utopía cotidiana  | Buenos Aires | Paidós | 1994 | REUNIONES' ;; 'PARTICIPACION DEL DOCENTE' ;; 'MATERIAL DE LECTURA' ;; 'MEDIOS DE COMUNICACION' ;; 'EXTENSION CULTURAL' ;; 'RELACION ESCUELA-COMUNIDAD' ;; 'PROYECTO DE AULA | 9501261026
 ###
-100447 | Esparza, Alicia | La psicomotricidad en el jardín de infantes  | Buenos Aires | Paidós | 1986 | EDUCACION PREESCOLAR' ;; 'DESTREZAS PSICOMOTRICES | 
+010447 | Esparza, Alicia | La psicomotricidad en el jardín de infantes  | Buenos Aires | Paidós | 1986 | EDUCACION PREESCOLAR' ;; 'DESTREZAS PSICOMOTRICES | 
 ###
 010137 | Espich, James E. | Cómo preparar temas con instrucción programada  | Buenos Aires | Librería de las Naciones | 1971 | ENSENANZA PROGRAMADA | 
 ###
-010733', '010734', '010735', '010736 | Osterrieth, P.A. | Los estadios en la psicología del niño  | Buenos Aires | Nueva Visión | 1982 | PSICOLOGIA EVOLUTIVA' ;; 'PSICOLOGIA DEL NINO | 
+010732', '010734', '010735', '010736 | Osterrieth, P.A. | Los estadios en la psicología del niño  | Buenos Aires | Nueva Visión | 1982 | PSICOLOGIA EVOLUTIVA' ;; 'PSICOLOGIA DEL NINO | 
 ###
 010308', '010309 |  | Evaluación  | Buenos Aires | Kapelusz | 1970 | EVALUACION' ;; 'ELABORACION DE PRUEBAS' ;; 'PRUEBAS OBJETIVAS | 
 ###
@@ -1229,7 +1229,7 @@
 ###
 012281', '012282 | Feathrstone, W.B. | Cómo enseñar al escolar y al estudiante lentos | Buenos Aires | Paidós | 1964 | ALUMNOS DE APRENDIZAJE LENTO' ;; 'DIFICULTADES EN EL APRENDIZAJE | 
 ###
-100614 | Feldenkrais, Moshe | Autoconciencia por el movimiento | Buenos Aires | Paidós | 1985 |  | 
+010615', '010450 | Feldenkrais, Moshe | Autoconciencia por el movimiento | Buenos Aires | Paidós | 1985 |  | 
 ###
 011928', '011929 | Feldman, Erich | Teoría de los medios masivos de comunicación | Buenos Aires | Kapelusz | 1977 | MEDIOS DE COMUNICACION | 
 ###
@@ -1259,7 +1259,7 @@
 ###
 010320 | Fesquet, Alberto E.J. | El laboratorio escolar | Buenos Aires | Kapelusz | 1974 | LABORATORIOS' ;; 'EXPERIMENTOS DE LABORATORIO | 
 ###
-101010', '101011', '101012', '101013 | Festinger, León | Los métodos de investigación en las ciencias sociales | Buenos Aires | Paidós | 1979 | INVESTIGACION' ;; 'CIENCIAS SOCIALES' ;; 'METODOLOGIA DE LA INVESTIGACION' ;; 'EXPERIMENTOS DE LABORATORIO' ;; 'MUESTREO' ;; 'ANALISIS ESTADISTICO' ;; 'RECOPILACION DE DATOS' ;; 'ANALISIS DE DATOS | 
+011012', '011013 | Festinger, León | Los metodos de investigacion en las ciencias sociales | Buenos Aires | Paidós | 1979 | INVESTIGACION' ;; 'CIENCIAS SOCIALES' ;; 'METODOLOGIA DE LA INVESTIGACION' ;; 'EXPERIMENTOS DE LABORATORIO' ;; 'MUESTREO' ;; 'ANALISIS ESTADISTICO' ;; 'RECOPILACION DE DATOS' ;; 'ANALISIS DE DATOS | 
 ###
 010900 | Filloux, Jean Claude | La personalidad | Buenos Aires | Eudeba | 1982 | PSICOLOGIA' ;; 'PERSONALIDAD' ;; 'CONDUCTA' ;; 'DESARROLLO DE LA INDIVIDUALIDAD' ;; 'CULTURA | 
 ###
@@ -1285,11 +1285,11 @@
 ###
 000286 | Dallera, Osvaldo | La formación ética y ciudadana en la educación general básica  | Buenos Aires | Novedades Educativas | 1997. |  | 9879191021
 ###
-010623', '100624', '010625', '100626 | Fraisse, Paul | Motivación, emoción y personalidad | Buenos Aires | Paidós | 1979 | MOTIVACION' ;; 'PERSONALIDAD' ;; 'PSICOLOGIA DEL NINO | 
+010623', '010625 | Fraisse, Paul | Motivación, emoción y personalidad | Buenos Aires | Paidós | 1979 | MOTIVACION' ;; 'PERSONALIDAD' ;; 'PSICOLOGIA DEL NINO | 
 ###
 000233 | Fraisse, Paul | Psicología del ritmo  | Madrid | Morata | 1976 | PERCEPCION' ;; 'PSICOLOGIA' ;; 'MUSICA | 8471121654
 ###
-100901', '100902', '100903', '100904 | Fraisse, Paul | La percepción  | Buenos Aires | Paidós | 1979 | PERCEPCION' ;; 'PSICOLOGIA | 
+010904 | Fraisse, Paul | La percepciOn  | Buenos Aires | Paidós | 1979 | PERCEPCION' ;; 'PSICOLOGIA | 
 ###
 012823 | Oyola, Carlos A. | Fracaso escolar el éxito prohibido   | Buenos Aires | Aique | 1995 | FRACASO' ;; 'FACTORES DE FRACASO' ;; 'INFORME DE INVESTIGACION' ;; 'ZONAS URBANAS | 950701246X
 ###
@@ -1301,19 +1301,19 @@
 ###
 010424 | Freire, Paulo | La educación como práctica de la libertad  | Buenos Aires | Siglo Veintiuno | 1985 | PRINCIPIOS EDUCACIONALES' ;; 'METAS EDUCACIONALES | 
 ###
-100737', '100738', '100739', '100740 | Freud, Anna | Psicoanálisis del desarrollo del niño y del adolescente  | Buenos Aires | Paidós | 1980 | PSICOLOGIA DEL NINO' ;; 'PSICOLOGIA' ;; 'ADOLESCENCIA | 
+010737', '010738', '010740 | Freud, Anna | Psicoanálisis del desarrollo del niño y del adolescente  | Buenos Aires | Paidós | 1980 | PSICOLOGIA DEL NINO' ;; 'PSICOLOGIA' ;; 'ADOLESCENCIA | 
 ###
 011301', '010091 | Hannoun, Hubert | El niño conquista el medio   | Buenos Aires | Kapelusz | 1980 | PSICOLOGIA DE LA EDUCACION | 
 ###
-102467 | Freud, Anna | El yo y los mecanismos de defensa  | Buenos Aires | Paidós | 1986 | PSICOLOGIA | 
+012467 | Freud, Anna | El yo y los mecanismos de defensa  | Buenos Aires | Paidós | 1986 | PSICOLOGIA | 
 ###
 011719', '011720 | Frey, Gerhart | El trabajo en grupos en la escuela primaria  | Buenos Aires | Kapelusz | 1980 | DINAMICA DE GRUPO' ;; 'ENSENANZA EN GRUPO' ;; 'GRUPOS' ;; 'ENSENANZA PRIMARIA | 
 ###
-100083 | Friedlander, Walter A. | Conceptos y métodos del servicio social | Buenos Aires | Kapelusz | 1969 | TRABAJO SOCIAL' ;; 'SERVICIOS SOCIALES' ;; 'SOCIOLOGIA | 
+000183 | Friedlander, Walter A. | Conceptos y métodos del servicio social | Buenos Aires | Kapelusz | 1969 | TRABAJO SOCIAL' ;; 'SERVICIOS SOCIALES' ;; 'SOCIOLOGIA | 
 ###
 000290 | Frigerio, Graciela | El análisis de la institución educativa | Buenos Aires | Santillana | 1996 | INSTITUCIONES EDUCACIONALES | 9504603408
 ###
-012600', '009434 |  | Fuerte San José   | Rawson |  | 1974 | HISTORIA | 
+012600', '009496 |  | Fuerte San José   | Rawson |  | 1974 | HISTORIA | 
 ###
 010259 |  | Educación para la salud  | Buenos Aires | Kapelusz | 1976 | EDUCACION SANITARIA' ;; 'SALUD | 
 ###
@@ -1349,13 +1349,13 @@
 ###
 011159 | Clausse, Arnould | Iniciación en las ciencias de la educación | Buenos Aires | Kapelusz | 1977 | CIENCIAS DE LA EDUCACION | 
 ###
-100313', '102354', '102355', '102356', '102357 |  | Club de actividades sociales | Buenos Aires | Kapelusz | 1977 | CLUBES' ;; 'ACTIVIDADES FUERA DE PROGRAMA' ;; 'MUSEOS' ;; 'EXCURSIONES DE ESTUDIOS' ;; 'BIBLIOTECAS' ;; 'PERIODISMO | 
+102354 |  | Club de actividades sociales | Buenos Aires | Kapelusz | 1977 | CLUBES' ;; 'ACTIVIDADES FUERA DE PROGRAMA' ;; 'MUSEOS' ;; 'EXCURSIONES DE ESTUDIOS' ;; 'BIBLIOTECAS' ;; 'PERIODISMO | 
 ###
 000434 | Cogswell, David | Chomsky para principiantes | Buenos Aires | Era Naciente | 1997 | LINGUISTICA' ;; 'BIOGRAFIAS | 9876025387
 ###
-100717', '100718', '100719', '100720 | Collin, G. | Compendio de psicología infantil | Buenos Aires | Kapelusz | 1978 | PSICOLOGIA DEL NINO' ;; 'PSICOLOGIA EVOLUTIVA | 
+010717', '010718 | Collin, G. | Compendio de psicología infantil | Buenos Aires | Kapelusz | 1978 | PSICOLOGIA DEL NINO' ;; 'PSICOLOGIA EVOLUTIVA | 
 ###
-100116 | Comas, Margarita | El método de proyectos en las escuelas urbanas | Buenos Aires | Losada | 1968 | ENSENANZA PRIMARIA' ;; 'ESCUELAS URBANAS | 
+010116 | Comas, Margarita | El método de proyectos en las escuelas urbanas | Buenos Aires | Losada | 1968 | ENSENANZA PRIMARIA' ;; 'ESCUELAS URBANAS | 
 ###
 102595 | Condemarín, Mabel | Hurganito | Santiago de Santiago de Chile | Universitaria | 1984 | INICIACION EN LA LECTURA' ;; 'DISLEXIA' ;; 'ENSENANZA DE LA ESCRITURA | 
 ###
@@ -1411,13 +1411,13 @@
 ###
 100252 | Cousinet, Roger | Un nuevo método de trabajo libre por grupos  | Buenos Aires | Losada | 1969 | ACTIVIDADES EN GRUPO' ;; 'ENSENANZA EN GRUPO' ;; 'TRABAJO EN EQUIPO | 
 ###
-100992 | Cousinet, Roger | La vida social de los niños   | Buenos Aires | Nova | 1980 | APRENDIZAJE' ;; 'NINOS' ;; 'SOCIOLOGIA | 
+010992 | Cousinet, Roger | La vida social de los niños   | Buenos Aires | Nova | 1980 | APRENDIZAJE' ;; 'NINOS' ;; 'SOCIOLOGIA | 
 ###
 012588 | Cracogna, Dante | Legislación cooperativa   | Buenos Aires | Intercoop | 1979 | COOPERATIVAS' ;; 'LEGISLACION | 
 ###
 011336', '011337 | Cronbach, Lee J. | Sicología educativa  | México | Pax | 1975 | PSICOLOGIA DE LA EDUCACION' ;; 'PSICOLOGIA | 
 ###
-103019', '103021', '103020 | Bertoni, Lilia Ana | Cronología1418-1983 | Buenos Aires | Libros del Quirquincho | 1995 | HISTORIA NACIONAL | 9507370931
+013021', '013020 | Bertoni, Lilia Ana | Cronología1418-1983 | Buenos Aires | Libros del Quirquincho | 1995 | HISTORIA NACIONAL | 9507370931
 ###
 000202 | Cuenca, Manuel | Educación para el ocio | Bogotá | Cincel | 1983 | ACTIVIDADES ESCOLARES' ;; 'ESTUDIANTES | 8470463187
 ###
@@ -1487,7 +1487,7 @@
 ###
 010687', '010688 | Harris, Dale B. | El test de Goodenough | Barcelona | Paidós | 1981 | PSICOMETRIA' ;; 'TESTS | 
 ###
-100774 | Harrow, Anita J. | Taxonomía del dominio psicomotor | Buenos Aires | El Ateneo | 1981 | OBJETIVOS PSICOMOTORES' ;; 'DESTREZAS PSICOMOTRICES | 
+010774 | Harrow, Anita J. | Taxonomía del dominio psicomotor | Buenos Aires | El Ateneo | 1981 | OBJETIVOS PSICOMOTORES' ;; 'DESTREZAS PSICOMOTRICES | 
 ###
 100127 | Haveman, Robert H. | El sector público | Buenos Aires | Amorrortu | 1972 | POLITICAS ECONOMICAS | 
 ###
@@ -1521,11 +1521,11 @@
 ###
 011079', '011080 | Highet, Gilbert | El arte de enseñar | Buenos Aires | Paidós | 1978 | METAS EDUCACIONALES | 
 ###
-010922 | Hilgard, Ernest R. | Teorías del aprendizaje | México | Trillas | 1980 | TEORIAS DEL APRENDIZAJE' ;; 'APRENDIZAJE' ;; 'PSICOLOGIA' ;; 'PROCESOS PSICOPEDAGOGICOS | 
+010922', '010923 | Hilgard, Ernest R. | Teorías del aprendizaje | México | Trillas | 1980 | TEORIAS DEL APRENDIZAJE' ;; 'APRENDIZAJE' ;; 'PSICOLOGIA' ;; 'PROCESOS PSICOPEDAGOGICOS | 
 ###
 011976', '011977 | Hildreth, Gertrude | Socialización y disciplina | Buenos Aires | Paidós | 1966 | SOCIALIZACION' ;; 'DISCIPLINA' ;; 'CONFLICTOS' ;; 'COOPERACION' ;; 'SOCIEDAD' ;; 'NINOS REFUGIADOS' ;; 'LIDERAZGO' ;; 'GUERRA' ;; 'EDUCACION FORMAL' ;; 'PROBLEMAS DISCIPLINARIOS | 
 ###
-100918', '100919', '100920', '100921 | Hill, Winfred F. | Teorías contemporáneas del aprendizaje | Buenos Aires | Paidós | 1980 | PROCESOS PSICOPEDAGOGICOS' ;; 'PSICOLOGIA' ;; 'TEORIAS DEL APRENDIZAJE | 
+010918', '010920 | Hill, Winfred F. | Teorías contemporáneas del aprendizaje | Buenos Aires | Paidós | 1980 | PROCESOS PSICOPEDAGOGICOS' ;; 'PSICOLOGIA' ;; 'TEORIAS DEL APRENDIZAJE | 
 ###
 001188 | Lion, Carina | Historias al margen | Buenos Aires | A-Z | 1994 | DISCRIMINACION SOCIAL' ;; 'MUJERES | 9505342748
 ###
@@ -1605,13 +1605,13 @@
 ###
 010111 | Larrea, Julio | Las pruebas, la evaluación y la promoción escolares | Buenos Aires | Losada | 1967 | EVALUACION DEL ALUMNO' ;; 'PRUEBAS ESCOLARES' ;; 'PROMOCION DEL ALUMNO | 
 ###
-100444 | Le Boulch, Jean | La educación psicomotriz en la escuela primaria | Buenos Aires | Paidós | 1986 | DESTREZAS PSICOMOTRICES' ;; 'PSICOMOTRICIDAD' ;; 'ENSENANZA PRIMARIA | 
+010444 | Le Boulch, Jean | La educación psicomotriz en la escuela primaria | Buenos Aires | Paidós | 1986 | DESTREZAS PSICOMOTRICES' ;; 'PSICOMOTRICIDAD' ;; 'ENSENANZA PRIMARIA | 
 ###
-100266 | Le Boulch, Jean | Hacia una ciencia del movimiento humano | Buenos Aires | Paidós | 1985 | DESTREZAS PSICOMOTRICES' ;; 'PSICOMOTRICIDAD | 
+010266', '010452 | Le Boulch, Jean | Hacia una ciencia del movimiento humano | Buenos Aires | Paidós | 1985 | DESTREZAS PSICOMOTRICES' ;; 'PSICOMOTRICIDAD | 
 ###
 012092', '012094 | Horrocks, Edna M. | Lectura, ortografía y composición en la escuela primaria | Buenos Aires | Paidós | 1982 | LECTURA' ;; 'ORTOGRAFIA' ;; 'REDACCION' ;; 'ENSENANZA PRIMARIA' ;; 'MEJORA DE LA ESCRITURA | 
 ###
-102750 |  | Leer y escribir | Buenos Aires | Estrada | 1993 | MATERIAL DE LECTURA' ;; 'LIBROS DE TEXTO | 950-01-0385-0
+012750 |  | Leer y escribir | Buenos Aires | Estrada | 1993 | MATERIAL DE LECTURA' ;; 'LIBROS DE TEXTO | 950-01-0385-0
 ###
 012747 |  | Leer y narrar | Buenos Aires | Estrada | c1993 | MATERIAL DE LECTURA' ;; 'LIBROS DE TEXTO | 950-01-0384-2
 ###
@@ -1621,7 +1621,7 @@
 ###
 012168', '012171 | Leif, Joseph | Didáctica del cálculo, de las lecciones de cosas y de las ciencias  aplicadas  | Buenos Aires | Kapelusz | 1980 | CALCULO' ;; 'DIDACTICA' ;; 'CIENCIAS BASICAS | 
 ###
-100791', '100792', '100793', '100794', '100795', '100796', '100797', '100798 | Leif, Joseph | Psicología y educación del niño  | Buenos Aires | Kapelusz | 1969 | PSICOLOGIA EVOLUTIVA' ;; 'PSICOLOGIA DEL NINO' ;; 'PROCESOS PSICOPEDAGOGICOS' ;; 'DESARROLLO AFECTIVO | 
+100791', '100795 | Leif, Joseph | Psicología y educación del niño  | Buenos Aires | Kapelusz | 1969 | PSICOLOGIA EVOLUTIVA' ;; 'PSICOLOGIA DEL NINO' ;; 'PROCESOS PSICOPEDAGOGICOS' ;; 'DESARROLLO AFECTIVO | 
 ###
 012822 | Leiras, Marcelo | Los derechos del niño en la escuela  | Buenos Aires | Unicef | 1994 | DERECHOS HUMANOS' ;; 'DERECHO A LA EDUCACION | 
 ###
@@ -1669,9 +1669,9 @@
 ###
 012759 | Llarás Samitier, Manuel | Rumbo a la patagonia  | Buenos Aires | Plus Ultra | 1994 | NOVELAS' ;; 'NOVELAS HISTORICAS' ;; 'LITERATURA JUVENIL' ;; 'LITERATURA ARGENTINA | 950-21-0658-X
 ###
-102989', '102990', '102991 | Bertoni, Lilia Ana | Llegaron los españoles | Buenos Aires | Gram Editoraón | 1995 | HISTORIA NACIONAL | 987906903X
+012989', '012990', '012991 | Bertoni, Lilia Ana | Llegaron los españoles | Buenos Aires | Gram Editoraón | 1995 | HISTORIA NACIONAL | 987906903X
 ###
-100956', '100957', '100959 | Piaget, Jean | Lógica  | Buenos Aires | Paidós | 1979 | LOGICA | 
+010956', '010958 | Piaget, Jean | Tratado de logica y conocimiento cientifico  | Buenos Aires | Paidós | 1979 | LOGICA | 
 ###
 010121 | Lombardo-Radice, J. | Líneas generales de filosofía de la educación | Buenos Aires | Losada | 1965 | FILOSOFIA DE LA EDUCACION | 
 ###
@@ -1851,15 +1851,15 @@
 ###
 103261 | Gay, Aquiles | La educación tecnológica | Buenos Aires | Conicet | 1997 | TECNOLOGIA' ;; 'CIENCIAS' ;; 'TECNICA' ;; 'PROYECTO TECNOLOGICO' ;; 'AULA TALLER' ;; 'ENERGIA' ;; 'MEDIO AMBIENTE | 9506870403
 ###
-103273 | Burucúa, José Emilio | Historia de la idea de progreso | Buenos Aires | Conicet | 1996 | PENSAMIENTO CIENTIFICO' ;; 'CIENCIAS' ;; 'FILOSOFIA' ;; 'FORMACION  DOCENTE' ;; 'FILOSOFIA | 9506870349
+013273 | Burucúa, José Emilio | Pensamiento científico | Buenos Aires | Conicet | 1996 | PENSAMIENTO CIENTIFICO' ;; 'CIENCIAS' ;; 'FILOSOFIA' ;; 'FORMACION  DOCENTE' ;; 'FILOSOFIA | 9506870349
 ###
-103271 | Schuster, Félix G. | Métodos y conocimientos en ciencias sociales Humanismo y ciencia | Buenos Aires | Conicet | 1997 | PENSAMIENTO CIENTIFICO' ;; 'CIENCIA' ;; 'CIENCIAS SOCIALES' ;; 'FORMACION DE FORMADORES' ;; 'FILOSOFIA | 9506870357
+013271', '000895 | Schuster, Félix G. | Métodos y conocimientos en ciencias sociales Humanismo y ciencia | Buenos Aires | Conicet | 1997 | PENSAMIENTO CIENTIFICO' ;; 'CIENCIA' ;; 'CIENCIAS SOCIALES' ;; 'FORMACION DE FORMADORES' ;; 'FILOSOFIA | 9506870357
 ###
 013257 | Vitagliano, Miguel | Lecturas críticas sobre la narrativa argentina | Buenos Aires | Conicet | 1997 | NARRATIVA ARGENTINA' ;; 'ENSENANZA DE LA LITERATURA' ;; 'FORMACION  DOCENTE' ;; 'CRITICA LITERARIA | 950-687-032-2
 ###
 010110 | Lay, W.H. | Manual de pedagogía | Buenos Aires | Losada | 1967 | PEDAGOGIA | 
 ###
-103267 | Boido, Guillermo  | Pensamiento Científico  | Buenos Aires | Conicet | 1994 | PENSAMIENTO CIENTIFICO' ;; 'FALSACIONISMO' ;; 'METODO HIPOTETICO' ;; 'LEYES EMPIRICAS' ;; 'LEYES TEORICAS' ;; 'TECNOLOGIA CIENTIFICA' ;; 'PROCIENCIA | 9506920036
+013267 | Boido, Guillermo | Pensamiento Científico  | Buenos Aires | Conicet | 1994 | PENSAMIENTO CIENTIFICO' ;; 'FALSACIONISMO' ;; 'METODO HIPOTETICO' ;; 'LEYES EMPIRICAS' ;; 'LEYES TEORICAS' ;; 'TECNOLOGIA CIENTIFICA' ;; 'PROCIENCIA | 9506920036
 ###
 010453', '010267 | Le Boulch, Jean | La educación por el movimiento en la edad escolar  | Buenos Aires | Paidós | 1981 | EDUCACION FISICA | 
 ###
@@ -1901,9 +1901,9 @@
 ###
 013255', '000936 | Foncuberta, Juan | Algebra | Buenos Aires | Conicet | 1998 | ALGEBRA' ;; 'ORIGENES' ;; 'ECUACIONES LINEALES' ;; 'TRANSFORMACIONES LINEALES EN EL PLANO' ;; 'AUTOVALORES' ;; 'VECTORES' ;; 'PRODUCTO VECTORIAL | 9506870411
 ###
-103272 | Flichman, Eduardo | Pensamiento científico III.La polémica epistemológica actual | Buenos Aires | Conicet | 1995 | FALSACIONISMO' ;; 'PROGRAMAS DE INVESTIGACION' ;; 'CIENCIAS' ;; 'VERDAD' ;; 'REVOLUCIONES CIENTIFICAS | 9506870195
+013272 | Flichman, Eduardo | Pensamiento científico III.La polémica epistemológica actual | Buenos Aires | Conicet | 1995 | FALSACIONISMO' ;; 'PROGRAMAS DE INVESTIGACION' ;; 'CIENCIAS' ;; 'VERDAD' ;; 'REVOLUCIONES CIENTIFICAS | 9506870195
 ###
-103268', '000931 | Boido, Guillermo | Pensamiento científico II | Buenos Aires | Conicet | 1998 | PENSAMIENTO CIENTIFICO' ;; 'RED FEDERAL DE FORMACION DOCENTE CONTINUA' ;; 'CONICET' ;; 'PROCIENCIA' ;; 'TEORIA DE LA EVOLUCION' ;; 'FILOSOFIA' ;; 'GEOMETRIA' ;; 'RELIGION' ;; 'POLITICA | 9506920036
+013268', '000931 | Boido, Guillermo | Pensamiento científico II | Buenos Aires | Conicet | 1998 | PENSAMIENTO CIENTIFICO' ;; 'RED FEDERAL DE FORMACION DOCENTE CONTINUA' ;; 'CONICET' ;; 'PROCIENCIA' ;; 'TEORIA DE LA EVOLUCION' ;; 'FILOSOFIA' ;; 'GEOMETRIA' ;; 'RELIGION' ;; 'POLITICA | 9506920036
 ###
 011227', '011228 | García Hoz, Victor | Principios de pedagogía sistemática  | Madrid | Rialp | 1981 | PEDAGOGIA | 
 ###
@@ -1943,7 +1943,7 @@
 ###
 010784', '010785 | Gesell, Arnold | El niño de 11 y 12 años  | Buenos Aires | Paidós | 1982 | PSICOLOGIA EVOLUTIVA' ;; 'PSICOLOGIA DEL NINO | 
 ###
-100936', '100937', '100938', '100939 | Gianella de Salama, Alicia | Lógica simbólica y elementos de metodología de la ciencia  | Buenos Aires | El Ateneo | 1982 | LOGICA' ;; 'METODOLOGIA' ;; 'CIENCIA' ;; 'INVESTIGACION CIENTIFICA | 
+010938', '010939', '010937 | Gianella de Salama, Alicia | Logica simbolica y elementos de metodologia de la ciencia  | Buenos Aires | El Ateneo | 1982 | LOGICA' ;; 'METODOLOGIA' ;; 'CIENCIA' ;; 'INVESTIGACION CIENTIFICA | 
 ###
 011025', '011026 | Gibb, Jack R. | Manual de dinámica de grupos  | Buenos Aires | Humanitas | 1982 | DINAMICA DE GRUPO' ;; 'CONDUCTA DEL GRUPO | 
 ###
@@ -1951,7 +1951,7 @@
 ###
 011364 | Gillham, Helen L. | Cómo ayudar a los niños a aceptarse a sí mismos y a aceptar a los demás  | Buenos Aires | Paidós | 1982 | PSICOLOGIA DEL NINO' ;; 'CONDUCTA INFANTIL' ;; 'ADAPTACION DEL ALUMNO | 
 ###
-102525', '102526 | Giúdice de Bavone, Elida A. | Crecer, jugando con el cuerpo | Buenos Aires | Estrada | 1987 | JUEGO | 
+012525', '012526 | Giúdice de Bavone, Elida A. | Crecer, jugando con el cuerpo | Buenos Aires | Estrada | 1987 | JUEGO | 
 ###
 010459 | Glanzmann, Cecilia G. | Carpeta de actividades del estudio dirigido al estudio independiente | Buenos Aires | Marymar | 1987 |  | 
 ###
@@ -2009,7 +2009,7 @@
 ###
 012519 | González Cuberes, María Teresa | El taller de los talleres  | Buenos Aires | Estrada | 1988 | TALLERES (METODO PEDAGOGICO) | 
 ###
-101002', '101003', '101004', '101005', '101006', '101007', '101008', '101009 | Goode, William J. | Métodos de investigación social  | Buenos Aires | Trillas | 1980 | SOCIOLOGIA' ;; 'METODOS' ;; 'ENTREVISTAS' ;; 'RECOPILACION DE DATOS | 
+011002', '011003 | Goode, William J. | Métodos de investigación social  | Buenos Aires | Trillas | 1980 | SOCIOLOGIA' ;; 'METODOS' ;; 'ENTREVISTAS' ;; 'RECOPILACION DE DATOS | 
 ###
 011952 | Gooddllad, John I. | La escuela sin grados   | Buenos Aires | El Ateneo | 1976 | ORGANIZACION ESCOLAR' ;; 'ESCUELA SIN GRADOS | 
 ###
@@ -2175,9 +2175,9 @@
 ###
 011108', '011109 | Mayer, Frederick | Historia del pensamiento pedagógico | Buenos Aires | Kapelusz | 1967 | HISTORIA DE LA EDUCACION' ;; 'HISTORIA' ;; 'PEDAGOGIA | 
 ###
-011750 | Mead, Margaret | Educación y cultura | Buenos Aires | Paidós | 1972 | ANTROPOLOGIA DE LA EDUCACION' ;; 'CULTURA' ;; 'EDUCACION | 
+011750', '011749 | Mead, Margaret | Educación y cultura | Buenos Aires | Paidós | 1972 | ANTROPOLOGIA DE LA EDUCACION' ;; 'CULTURA' ;; 'EDUCACION | 
 ###
-100359 | Mead, Margaret | Experiencias personales y científicas de una antropóloga  | Buenos Aires | Paidós |  | ANTROPOLOGIA | 
+010359 | Mead, Margaret | Experiencias personales y cientificas de una antropologa  | Buenos Aires | Paidós |  | ANTROPOLOGIA | 
 ###
 011040', '012686 | Graves, Donald H. | Estructurar un aula donde se lea y se escriba  | Buenos Aires | Aique | 1992 | ENSENANZA DE LA ESCRITURA' ;; 'MEJORA DE LA ESCRITURA' ;; 'ENTREVISTA' ;; 'ENSENANZA DE LA LECTURA' ;; 'HABITO DE LECTURA' ;; 'LECTURA CORRECTIVA' ;; 'ANIMACION A LA LECTURA | 950701117X
 ###
@@ -2317,9 +2317,9 @@
 ###
 000072 | Milone, Jorge O. | Química  V   | Buenos Aires | Estrada | 1994 | QUIMICA' ;; 'LIBROS DE TEXTO | 950-01-0123-8
 ###
-100224', '100527', '100528', '100529', '100530 | Mira y López, Emilio | Cómo estudiar y cómo aprender  | Buenos Aires | Kapelusz | 1965 | METODOS DE ESTUDIO' ;; 'ESTUDIO INDIVIDUAL | 
+010528', '010529 | Mira y López, Emilio | Como estudiar y como aprender  | Buenos Aires | Kapelusz | 1965 | METODOS DE ESTUDIO' ;; 'ESTUDIO INDIVIDUAL | 
 ###
-100086', '100229 | Mira y López, Emilio | Doctrinas psicoanáliticas   | Buenos Aires | Kapelusz | 1965 | PSICOLOGIA | 
+001086', '010229 | Mira y López, Emilio | Doctrinas psicoanáliticas   | Buenos Aires | Kapelusz | 1965 | PSICOLOGIA | 
 ###
 012551 | Mira y López, Lola | Educación preescolar  | Buenos Aires | Troquel | 1970 | EDUCACION PREESCOLAR | 
 ###
@@ -2333,17 +2333,17 @@
 ###
 012596 | Molina de Cogorno, Graciela E. | Lengua y literatura 1 | Buenos Aires | Troquel | 1983 | LENGUAJE' ;; 'LIBROS DE TEXTO' ;; 'GRAMATICA | 950-16-6236-5
 ###
-100417', '000249 | Molina de Costallat, Dalila M. | La entidad psicomotriz   | Buenos Aires | Losada | 1984 | DESTREZAS PSICOMOTRICES' ;; 'CONDUCTA INFANTIL' ;; 'DESARROLLO DEL NINO' ;; 'DEFICIENTES MENTALES' ;; 'COORDINACION SENSOMOTRIZ' ;; 'EDUCACION ESPECIAL | 
+010417', '000249 | Molina de Costallat, Dalila M. | La entidad psicomotriz   | Buenos Aires | Losada | 1984 | DESTREZAS PSICOMOTRICES' ;; 'CONDUCTA INFANTIL' ;; 'DESARROLLO DEL NINO' ;; 'DEFICIENTES MENTALES' ;; 'COORDINACION SENSOMOTRIZ' ;; 'EDUCACION ESPECIAL | 
 ###
-100818', '100819', '100820', '100821', '100822', '100823', '100824', '100825', '100826', '100827', '100828', '100829 | Molina de Costallat, Dalila M. | Psicomotricidad  | Buenos Aires | Losada | 1981 | DESTREZAS PSICOMOTRICES' ;; 'COORDINACION SENSOMOTRIZ' ;; 'DESARROLLO DEL NINO' ;; 'EXPRESION CORPORAL' ;; 'EDUCACION ESPECIAL' ;; 'DEFICIENTES MENTALES' ;; 'JUEGOS EDUCATIVOS | 
+010820', '010823', '010826 | Molina de Costallat, Dalila M. | Psicomotricidad  | Buenos Aires | Losada | 1981 | DESTREZAS PSICOMOTRICES' ;; 'COORDINACION SENSOMOTRIZ' ;; 'DESARROLLO DEL NINO' ;; 'EXPRESION CORPORAL' ;; 'EDUCACION ESPECIAL' ;; 'DEFICIENTES MENTALES' ;; 'JUEGOS EDUCATIVOS | 
 ###
 011474', '004338 | Mollo, Suzanne | La escuela en la sociedad   | Buenos Aires | Kapelusz | 1977 | MODELOS EDUCACIONALES' ;; 'SOCIOLOGIA DE LA EDUCACION' ;; 'PEDAGOGIA' ;; 'SOCIEDAD' ;; 'ESCUELA' ;; 'ALUMNOS | 
 ###
-103084 | Montes, Graciela | El golpe y los chicos  | Buenos Aires | Gramón-Colihue | 1996 | HISTORIA ARGENTINA' ;; 'RELATOS HISTORICOS' ;; 'LITERATURA INFANTIL' ;; 'DERECHOS HUMANOS' ;; 'DERECHOS DEL NINO | 987-9069-70-6
+013084 | Montes, Graciela | El golpe y los chicos  | Buenos Aires | Gramón-Colihue | 1996 | HISTORIA ARGENTINA' ;; 'RELATOS HISTORICOS' ;; 'LITERATURA INFANTIL' ;; 'DERECHOS HUMANOS' ;; 'DERECHOS DEL NINO | 987-9069-70-6
 ###
 000026 | Montes, Graciela | Otroso   | Buenos Aires | Alfaguara | 1994 | CUENTOS' ;; 'CUENTOS DE AVENTURAS' ;; 'LITERATURA JUVENIL' ;; 'LITERATURA ARGENTINA | 950-511-153-3
 ###
-102895 | Montes, Rosalía | Lengua 5 cinco | Buenos Aires | Aique | 1992 | LENGUAJE' ;; 'LIBROS DE TEXTO | 9507010726
+012895 | Montes, Rosalía | Lengua 5 cinco | Buenos Aires | Aique | 1992 | LENGUAJE' ;; 'LIBROS DE TEXTO | 9507010726
 ###
 012906 | Montes, Rosalía | Lengua 7 | Buenos Aires | Aique | 1992 | LENGUAJE' ;; 'LIBROS DE TEXTO | 950-701-084-X
 ###
@@ -2365,7 +2365,7 @@
 ###
 012730 | Pardo Belgrano, María Ruth | Lexicón de literatura infantil juvenil | Buenos Aires | Plus Ultra | 1979 | DICCIONARIOS' ;; 'LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL | 
 ###
-102746 | Pardo Belgrano, María Ruth | Vuela que te vuela | Buenos Aires | Plus Ultra | 1994 | LECTURA' ;; 'LIBROS DE TEXTO | 9502111494
+012746 | Pardo Belgrano, María Ruth | Vuela que te vuela | Buenos Aires | Plus Ultra | 1994 | LECTURA' ;; 'LIBROS DE TEXTO | 9502111494
 ###
 012698 | Pardo de de Sande, Irma N. | Didáctica de la matemática para la escuela primaria | Buenos Aires | El Ateneo | 1992 | ENSENANZA DE LAS MATEMATICAS' ;; 'DIDACTICA' ;; 'GEOMETRIA' ;; 'CONCEPTOS GEOMETRICOS' ;; 'CONCEPTOS MATEMATICOS | 9500257750
 ###
@@ -2377,7 +2377,7 @@
 ###
 010242 | Parkhurst, Helen | Exploración del mundo infantil | Buenos Aires | Kapelusz | 1956 | PSICOLOGIA DEL NINO' ;; 'CONDUCTA INFANTIL | 
 ###
-100286 | Parsons, Chris | Cómo estudiar con eficacia | Madrid | Cincel | 1981 | METODOS DE ESTUDIO' ;; 'ESTUDIO INDIVIDUAL | 
+010286 | Parsons, Chris | Como estudiar con eficacia | Madrid | Cincel | 1981 | METODOS DE ESTUDIO' ;; 'ESTUDIO INDIVIDUAL | 
 ###
 012559', '012560 | Pasel, Susana | Aula-taller | Buenos Aires | Aique | 1989 | TALLERES ESCOLARES' ;; 'TALLERES (METODO PEDAGOGICO) | 
 ###
@@ -2399,7 +2399,7 @@
 ###
 010420 | Penchansky de Bosch, Lydia | Evaluación en el  jardín de infantes  | Buenos Aires | Librería del colegio | 1983 | EDUCACION PREESCOLAR' ;; 'EVALUACION | 
 ###
-102538 | Penchansky de Bosch, Lydia | El jardín de infantes de hoy   | Buenos Aires | Librería del colegio | 1988 | EDUCACION PREESCOLAR' ;; 'ARTICULACION | 
+012538 | Penchansky de Bosch, Lydia | El jardín de infantes de hoy   | Buenos Aires | Librería del colegio | 1988 | EDUCACION PREESCOLAR' ;; 'ARTICULACION | 
 ###
 000255 | Penchansky de Bosch, Lydia | El jardín de infantes de hoy  | Buenos Aires | Librería del colegio | 1983 | EDUCACION PREESCOLAR' ;; 'ARTICULACION | 9505484
 ###
@@ -2409,9 +2409,9 @@
 ###
 010532', '010533', '010534 | Pérez Alvarez, Sergio | Metodología para la elaboración de monografías y tesis  | Buenos Aires | Eudeba | 1982 | ELABORACION DE INFORMES' ;; 'MONOGRAFIAS' ;; 'METODOLOGIA DE LA INVESTIGACION | 
 ###
-102574 | Perez Alvarez, Sergio | Taller didáctico   | Buenos Aires | Braga | 1985 | EDUCACION PREESCOLAR' ;; 'TALLERES ESCOLARES | 9509095303
+012574 | Perez Alvarez, Sergio | Taller didáctico   | Buenos Aires | Braga | 1985 | EDUCACION PREESCOLAR' ;; 'TALLERES ESCOLARES | 9509095303
 ###
-010179', '010539 | Perez Taboada de Tappata, Nilda | Estudio dirigido   | Buenos Aires | Troquel | 1981 | METODOS DE ESTUDIO' ;; 'ESTUDIO INDIVIDUAL | 
+010179', '000005 | Perez Taboada de Tappata, Nilda | Estudio dirigido   | Buenos Aires | Troquel | 1981 | METODOS DE ESTUDIO' ;; 'ESTUDIO INDIVIDUAL | 
 ###
 000367 | Unamuno, Miguel | El peronismo de la derrota  | Buenos Aires | Centro Editor de América Latina | 1984 | HISTORIA NACIONAL | 9502500830
 ###
@@ -2423,13 +2423,13 @@
 ###
 011980 | Phillips, E. Lakin | La disciplina, el rendimiento escolar y la salud mental del alumno  | Buenos Aires | Paidós | 1975 | DISCIPLINA' ;; 'RENDIMIENTO DEL ALUMNO' ;; 'SALUD MENTAL' ;; 'ALUMNOS | 
 ###
-100952', '100953', '100954', '100955 | Piaget, Jean | Naturaleza y métodos de la epistemología  | Buenos Aires | Paidós | 1979 | CIENCIAS | 
+010953', '010955 | Piaget, Jean | Tratado de logica y conocimiento cientifico | Buenos Aires | Paidós | 1979 | CIENCIAS | 
 ###
 010841', '010842', '010843 | Piaget, Jean | Psicología del niño  | Madrid | Morata | 1981 | PSICOLOGIA DEL NINO | 
 ###
 011408', '011409 | Piaget, Jean | Psicología y pedagogía  | Barcelona | Ariel | 1981 | PSICOPEDAGOGIA' ;; 'PROCESOS PSICOPEDAGOGICOS | 
 ###
-100666', '100667', '100668', '100669', '100670 | Piaget, Jean | Psicología de la inteligencia  | Buenos Aires | Psique | 1981 | INTELIGENCIA' ;; 'PSICOLOGIA DEL NINO' ;; 'PSICOLOGIA | 
+010666', '000244 | Piaget, Jean | Psicología de la inteligencia  | Buenos Aires | Psique | 1981 | INTELIGENCIA' ;; 'PSICOLOGIA DEL NINO' ;; 'PSICOLOGIA | 
 ###
 010859 | Piaget, Jean | Seis estudios de psicología  | Barcelona | Planeta | 1985 | PSICOLOGIA EVOLUTIVA' ;; 'PSICOLOGIA DEL NINO | 
 ###
@@ -2445,15 +2445,15 @@
 ###
 012971', '012972', '012973 | Pluckrose, Henry | Enseñanza y aprendizaje de la historia   | Madrid | Morata | 1996 | CIENCIAS SOCIALES' ;; 'DIDACTICA' ;; 'ENSENANZA DE LA HISTORIA | 8471123800
 ###
-100976', '100977', '100978', '100979 | Piaget, Jean | Clasificación de las ciencias y principales corrientes de la  epistemología contemporánea  | Buenos Aires | Paidós | 1979 | CIENCIAS | 
+010976 | Piaget, Jean | Tratado de logica y conocimiento cientifico | Buenos Aires | Paidós | 1979 | CIENCIAS | 
 ###
 010849', '010850', '010851 | Piaget, Jean | La formación del símbolo en el niño   | Buenos Aires | Fondo de Cultura Económica | 1980 | PSICOLOGIA DEL NINO' ;; 'JUEGO' ;; 'DESARROLLO DEL NINO | 
 ###
 012175', '012174 | Piaget, Jean | Génesis del número en el niño  | Buenos Aires | Guadalupe | 1982 | ENSENANZA DE LAS MATEMATICAS' ;; 'CALCULO' ;; 'DESARROLLO DEL NINO' ;; 'PSICOLGIA DEL NINO | 
 ###
-100944', '100945', '100946', '100947', '100948', '100949', '100950', '100951 | Piaget, Jean | Introducción a la epistemología genética  | Buenos Aires | Paidós | 1978 | GENETICA | 
+010951 | Piaget, Jean | Introducción a la epistemología genética  | Buenos Aires | Paidós | 1978 | GENETICA | 
 ###
-100657', '100658', '100659 | Piaget, Jean | Memoria e inteligencia  | Buenos Aires | El Ateneo | 1978 | INTELIGENCIA' ;; 'MEMORIA | 
+010657', '010659 | Piaget, Jean | Memoria e inteligencia  | Buenos Aires | El Ateneo | 1978 | INTELIGENCIA' ;; 'MEMORIA | 
 ###
 000244 | Piaget, Jean | Psicología de la inteligencia  | Buenos Aires | Psique | 1977 | INTELIGENCIA' ;; 'PSICOLOGIA | 
 ###
@@ -2531,7 +2531,7 @@
 ###
 012755 | Insúa, Haydee | Observo y aprendo 7 | Buenos Aires | La Obra | 1992 | LENGUAJE' ;; 'MATEMATICAS' ;; 'CIENCIAS' ;; 'CIENCIAS SOCIALES' ;; 'ENSENANZA DE LA CIENCIA' ;; 'LIBROS DE TEXTO | 950-915-524-1
 ###
-100862', '100863', '100865 | Reca, Telma | Personalidad y conducta del niño | Buenos Aires | El Ateneo | 1976 | CONDUCTA INFANTIL' ;; 'ADAPTACION DEL ALUMNO' ;; 'PROBLEMAS DE PERSONALIDAD' ;; 'COMPORTAMIENTO DEL ALUMNO' ;; 'DIFICULTADES EN EL APRENDIZAJE | 
+010862', '010865 | Reca, Telma | Personalidad y conducta del niño | Buenos Aires | El Ateneo | 1976 | CONDUCTA INFANTIL' ;; 'ADAPTACION DEL ALUMNO' ;; 'PROBLEMAS DE PERSONALIDAD' ;; 'COMPORTAMIENTO DEL ALUMNO' ;; 'DIFICULTADES EN EL APRENDIZAJE | 
 ###
 000403 |  | Integración escolar | Buenos Aires | Espacio | 1997 | INTEGRACION ESCOLAR' ;; 'FAMILIA' ;; 'ESPACIOS INTERINSTITUCIONALES' ;; 'EDUCACION ESPECIAL' ;; 'ESCUELAS PRIMARIAS' ;; 'DEFICIENCIAS MENTALES' ;; 'SORDOS' ;; ' | 9508020601
 ###
@@ -2557,9 +2557,9 @@
 ###
 011240', '011241 | Keilhacker, Martín | Pedagogía de la época técnica | Buenos Aires | Kapelusz | 1980 | PEDAGOGIA' ;; 'SOCIOLOGIA' ;; 'TECNOLOGIA' ;; 'SIGLO DIECINUEVE' ;; 'SIGLO DIECIOCHO' ;; 'SIGLO VEINTE' ;; 'INDUSTRIALIZACION' ;; 'ADAPTACION SOCIAL' ;; 'EDUCACION' ;; 'CULTURA | 
 ###
-100924', '100925', '100926', '100927', '100928', '100929', '100930', '100931 | Keller, Fred S. | Aprendizaje | Buenos Aires | Paidós | 1979 | APRENDIZAJE' ;; 'TEORIAS DEL APRENDIZAJE | 
+010931 | Keller, Fred S. | Aprendizaje | Buenos Aires | Paidós | 1979 | APRENDIZAJE' ;; 'TEORIAS DEL APRENDIZAJE | 
 ###
-000433 | Kellogg, Rhonda | Análisis de la expresión plástica del preescolar | Madrid | Cincel | 1979 | EDUCACION PREESCOLAR' ;; 'ARTE' ;; 'CONDUCTA INFANTIL' ;; 'PRUEBAS MENTALES' ;; 'INFLUENCIA DEL AMBIENTE' ;; 'PSICOLOGIA DEL NINO | 8470460781
+010433 | Kellogg, Rhonda | Analisis de la expresion plastica del preescolar | Madrid | Cincel | 1979 | EDUCACION PREESCOLAR' ;; 'ARTE' ;; 'CONDUCTA INFANTIL' ;; 'PRUEBAS MENTALES' ;; 'INFLUENCIA DEL AMBIENTE' ;; 'PSICOLOGIA DEL NINO | 8470460781
 ###
 000248 | Kelly, Francis J. | Psicología educacional   | Buenos Aires | Paidós | 1972 | PSICOLOGIA DE LA EDUCACION' ;; 'TEORIAS DEL APRENDIZAJE' ;; 'DESARROLLO FISICO' ;; 'DESARROLLO DEL LENGUAJE' ;; 'PRUEBAS DE INTELIGENCIA' ;; 'DESARROLLO COGNOSCITIVO' ;; 'TEORIAS DE LA PERSONALIDAD' ;; 'SOCIALIZACION' ;; 'TECNOLOGIA EDUCACIONAL' ;; 'CIENCIAS DE LA CONDUCTA | 
 ###
@@ -2587,17 +2587,17 @@
 ###
 012502', '013198 | Pampillo, Gloria | El taller de escritura   | Buenos Aires | Plus Ultra | 1985 | ENSENANZA DE LA ESCRITURA' ;; 'TALLERES (METODO PEDAGOGICO) | 
 ###
-100980 | Popper, Karl R. | La lógica de la investigación científica  | Madrid | Tecnos | 1980 | INVESTIGACION CIENTIFICA' ;; 'LOGICA' ;; 'PROBABILIDAD | 
+010980', '010981 | Popper, Karl R. | La logica de la investigacion cientifica  | Madrid | Tecnos | 1980 | INVESTIGACION CIENTIFICA' ;; 'LOGICA' ;; 'PROBABILIDAD | 
 ###
 012249', '012250 | Porcher, Louis | La escuela paralela  | Buenos Aires | Kapelusz | 1979 | MEDIOS DE COMUNICACION SOCIAL' ;; 'EDUCACION NO FORMAL' ;; 'TELEVISION' ;; 'CINE | 
 ###
 010285 | Porcher, Louis | Medios audiovisuales   | Madrid | Cincel-Kapelusz | 1980 | ENSENANZA AUDIOVISUAL' ;; 'AUXILIARES AUDIOVISUALES' ;; 'TECNICAS DIDACTICAS' ;; 'TELEVISION' ;; 'LENGUAJE' ;; 'CIENCIAS SOCIALES' ;; 'EDUCACION ARTISTICA' ;; 'CIENCIAS' ;; 'EDUCACION PREESCOLAR' ;; 'RADIO EDUCATIVA' ;; 'CINE | 
 ###
-100932', '100933', '100934', '100935 | Pribram, Karl H. | Biología del aprendizaje  | Buenos Aires | Paidós | 1976 | APRENDIZAJE' ;; 'FISIOLOGIA' ;; 'PROCESO COGNOSCITIVO | 
+010932', '010935 | Pribram, Karl H. | Biología del aprendizaje  | Buenos Aires | Paidós | 1976 | APRENDIZAJE' ;; 'FISIOLOGIA' ;; 'PROCESO COGNOSCITIVO | 
 ###
 012938 | Prieto Castillo, Daniel | Educar con sentido   | Buenos Aires | Novedades Educativas | 1995 | APRENDIZAJE' ;; 'DIFICULTADES EN EL APRENDIZAJE' ;; 'PROCESO DE APRENDIZAJE | 9879529448
 ###
-012950', '012951 | Castorina, José Antonio | Problemas en psicología genética  | Buenos Aires | Miño y Dávila | 1989 | PSICOLOGIA' ;; 'GENETICA' ;; 'DESARROLLO DEL NINO' ;; 'PSICOLOGIA DEL NINO' ;; 'EDUCACION DE ADULTOS | 
+012558 | Castorina, José Antonio | Problemas en psicología genética  | Buenos Aires | Miño y Dávila | 1989 | PSICOLOGIA' ;; 'GENETICA' ;; 'DESARROLLO DEL NINO' ;; 'PSICOLOGIA DEL NINO' ;; 'EDUCACION DE ADULTOS | 
 ###
 012107', '012108', '012110 | Sánchez, Benjamín | Lenguaje oral ; diagnóstico, enseñanza y recuperación | Buenos Aires | Kapelusz | 1971 | LENGUAJE' ;; 'EXPRESION ORAL | 
 ###
@@ -2609,7 +2609,7 @@
 ###
 000404 | Pruzzo de Di Pego, Vilma | Biografía del fracaso escolar   | Buenos Aires | Espacio  | 1997 | FACTORES DE FRACASO' ;; 'ESTUDIOS DE CASOS' ;; 'DIFICULTADES EN EL APRENDIZAJE' ;; 'PROCESOS PSICOPEDAGOGICOS' ;; 'RENDIMIENTO DEL ALUMNO' ;; 'TECNICAS DE EVALUACION' ;; 'EVALUACION DEL ALUMNO' ;; 'DIFICULTAD EN LA LECTURA' ;; 'MEJORA DE LA ESCRITURA' ;; 'RELACION ALUMNO-DOCENTE' ;; 'FRACASO ESCOLAR | 9508020555
 ###
-012556', '012675', '012954', '012953 | Castorina, José Antonio | Psicología genética  | Buenos Aires | Miño y Dávila | 1984 | PSICOLOGIA' ;; 'GENETICA' ;; 'PROCESOS PSCIOPEAGOGICOS' ;; 'PROCESO DE APRENDIZAJE | 
+012442', '012443 | Castorina, José Antonio | Psicología genética  | Buenos Aires | Miño y Dávila | 1984 | PSICOLOGIA' ;; 'GENETICA' ;; 'PROCESOS PSCIOPEAGOGICOS' ;; 'PROCESO DE APRENDIZAJE | 
 ###
 012694 | Coll, César Salvador | Psicología genética y aprendizajes escolares   | Buenos Aires | Siglo Veintiuno | 1992 | PSICOLOGIA' ;; 'APRENDIZAJE' ;; 'GENETICA' ;; 'EDUCACION PREESCOLAR' ;; 'ESCRITURA' ;; 'MATEMATICAS' ;; 'PROCESO DE APRENDIZAJE | 8432304662
 ###
@@ -2629,7 +2629,7 @@
 ###
 012867 |  | El puente de la ortografía 3 | Buenos Aires | Santillana | 1990 | LIBROS DE TEXTO' ;; 'LENGUAJE' ;; 'ENSENANZA' ;; 'ORTOGRAFIA | 950-46-0134-0
 ###
-012861 |  | El puente de la ortografía4 | Buenos Aires | Santillana | 1990 | LIBROS DE TEXTO' ;; 'LENGUAJE' ;; 'ENSENANZA' ;; 'ORTOGRAFIA | 950-46-0135-9
+012861 |  | El puente de la ortografía 4 | Buenos Aires | Santillana | 1990 | LIBROS DE TEXTO' ;; 'LENGUAJE' ;; 'ENSENANZA' ;; 'ORTOGRAFIA | 950-46-0135-9
 ###
 012859 |  | El puente de la ortografía 5 | Buenos Aires | Santillana | 1990 | LIBROS DE TEXTO' ;; 'LENGUAJE' ;; 'ENSENANZA' ;; 'ORTOGRAFIA | 9504601367
 ###
@@ -2643,7 +2643,7 @@
 ###
 011231 | Pulpeiro, Sylvia | Comunicación entre padres y maestras en el jardín de infantes   | Buenos Aires | Latina | 1978 | RELACION PADRES-DOCENTE' ;; 'ENTREVISTAS' ;; 'REUNIONES | 
 ###
-100301 | Pzellinsky de Reichman, Mónica G. | La metodología juego-trabajo en el jardín de infantes   | Buenos Aires | Pac | 1982 | JUEGO' ;; 'TRABAJO' ;; 'EDUCACION PREESCOLAR | 9501301141
+010301 | Pzellinsky de Reichman, Mónica G. | La metodología juego-trabajo en el jardín de infantes   | Buenos Aires | Pac | 1982 | JUEGO' ;; 'TRABAJO' ;; 'EDUCACION PREESCOLAR | 9501301141
 ###
 012816 |  | Qué sigue | Buenos Aires | Kapelusz | 1995 | LIBROS DE TEXTO' ;; 'LECTOESCRITURA' ;; 'ENSENANZA DE LAS MATEMATICAS' ;; 'CIENCIAS SOCIALES' ;; 'BIOLOGIA | 9501301141
 ###
@@ -2651,7 +2651,7 @@
 ###
 012817 |  | Qué sigue | Buenos Aires | Tesis | 1993 | LIBROS DE TEXTO' ;; 'ENSENANZA DE LAS MATEMATICAS' ;; 'BIOLOGIA' ;; 'CIENCIAS SOCIALES | 9507180389
 ###
-102995', '102996', '102997 | Bertoni, Lilia Ana | Qué pasó el 25 de mayo | Buenos Aires | Colihue | 1995 | HISTORIA NACIONAL | 9879069056
+012995', '012996', '012997 | Bertoni, Lilia Ana | Qué pasó el 25 de mayo | Buenos Aires | Colihue | 1995 | HISTORIA NACIONAL | 9879069056
 ###
 010299', '010300 | Quevedo, Aída R. de | Lecto-escritura   | Buenos Aires | Pac | 1985 | EDUCACION PREESCOLAR' ;; 'JUEGO' ;; 'TRABAJO' ;; 'EDUCACION PREESCOLAR | 
 ###
@@ -2709,7 +2709,7 @@
 ###
 012569 | Sastre, Genoveva | Descubrimiento y construcción de conocimientos   | Buenos Aires | Gedisa | 1985 | PEDAGOGIA' ;; 'APRENDIZAJE MEDIANTE EL DESCUBRIMIENTO' ;; 'PROCESO DE APRENDIZAJE' ;; 'CONCEPTOS ARITMETICOS' ;; 'EDUCACION PREESCOLAR | 
 ###
-012980', '102979 | Savater, Fernando | Etica para Amador | Buenos Aires | Ariel | 1991 | ETICA | 95099122025
+012980 | Savater, Fernando | Etica para Amador | Buenos Aires | Ariel | 1991 | ETICA | 95099122025
 ###
 012974', '012975 | Savater, Fernando | Política para Amador | Buenos Aires | Espasa Calpe | 1996 | FORMACION POLITICA | 9509122033
 ###
@@ -2719,7 +2719,7 @@
 ###
 011934', '011935 | Schwab, Joseph J. | Un enfoque práctico para la planificación del currículo | Buenos Aires | El Ateneo | 1974 | PLANIFICACION ESCOLAR | 
 ###
-100940', '100941', '100942', '100943 | Scheffler, Israel | Bases y condiciones del conocimiento | Buenos Aires | Paidós | 1970 | DESARROLLO COGNOSCITIVO' ;; 'OBJETIVOS COGNOSCITIVOS | 
+010940', '010941 | Scheffler, Israel | Bases y condiciones del conocimiento | Buenos Aires | Paidós | 1970 | DESARROLLO COGNOSCITIVO' ;; 'OBJETIVOS COGNOSCITIVOS | 
 ###
 011186', '011187 | Schfflen, Israel | El lenguaje de la educación | Buenos Aires | El Ateneo | 1970 | FILOSOFIA DE LA EDUCACION | 
 ###
@@ -2729,9 +2729,9 @@
 ###
 000016 | Schiefelbein, Ernesto | Guías de aprendizaje para una escuela deseable | Santiago de Santiago de Chile | UNICEF | 1994 | MATERIAL DIDACTICO' ;; 'ACTIVIDADES DE APRENDIZAJE' ;; 'GUIAS' ;; 'ACTIVIDADES DE LA CLASE | 
 ###
-100360 | Schneider, Louis | Cómo la sociología ve el mundo | Buenos Aires | Paidós | 1979 | SOCIOLOGIA | 
+010360 | Schneider, Louis | Como la sociologia ve el mundo | Buenos Aires | Paidós | 1979 | SOCIOLOGIA | 
 ###
-010147 | Schoch, Rudolf | Educación musical  | Buenos Aires | Kapelusz | 1966 | EDUCACION MUSICAL | 
+910146', '910147 | Beraldi, Jorge | Mendoza | Mendoza | Lenga | 2003 | MUSEOS' ;; 'IDENTIDAD' ;; 'FOTOGRAFIA | 
 ###
 000235 | Schoch, Rudolf | La educación musical en la escuela  | Buenos Aires | Kapelusz | 1964 | EDUCACION MUSICAL | 
 ###
@@ -2741,7 +2741,7 @@
 ###
 011937 | Scuorzo, Herbert | Manual práctico de medios audiovisuales  | Buenos Aires | Kapelusz | 1980 | ENSENANZA AUDIOVISUAL' ;; 'COMUNICACION AUDIOVISUAL | 
 ###
-101014', '101015', '101016', '101017 | Selltiz, Claire | Métodos de investigación en las relaciones sociales  | Madrid | Rialp | 1980 | METODOLOGIA DE LA INVESTIGACION' ;; 'CIENCIAS SOCIALES | 
+011014', '011015 | Selltiz, Claire | Metodos de investigacion en las relaciones sociales  | Madrid | Rialp | 1980 | METODOLOGIA DE LA INVESTIGACION' ;; 'CIENCIAS SOCIALES | 
 ###
 000392 | Shakespeare, William | La tragedia de Romeo y Julieta Hamlet, príncipe de Dinamarca | Madrid | Club Internacional del libro | 1997 | LITERATURA UNIVERSAL | 8482650130
 ###
@@ -2763,11 +2763,11 @@
 ###
 011194', '011195 | Smith, Othanel B. | Lenguaje y conceptos en la educación | Buenos Aires | El Ateneo | 1971 | FILOSOFIA DE LA EDUCACION' ;; 'APRENDIZAJE' ;; 'IGUALDAD DE EDUCACION | 
 ###
-100676', '100677', '100678', '100679 | Smith, Karl U. | La conducta del hombre | Buenos Aires | Eudeba | 1963 | PSICOLOGIA GENERAL' ;; 'CIENCIAS DE LA CONDUCTA | 
+010678', '010679 | Smith, Karl U. | La conducta del hombre | Buenos Aires | Eudeba | 1963 | PSICOLOGIA GENERAL' ;; 'CIENCIAS DE LA CONDUCTA | 
 ###
 011414', '011415 | Smith, Robert M. | El maestro y el diagnóstico de las dificultades escolares | Buenos Aires | Paidós | 1971 | PSICOLOGIA DE LA EDUCACION' ;; 'PRUEBAS DE DIAGNOSTICO' ;; 'DIFICULTADES EN EL APRENDIZAJE | 
 ###
-100672', '100673', '100674', '100675 | Smith, Wendell l. | Cómo se aprende el comportamiento | Buenos Aires | Paidós | 1973 | COMPORTAMIENTO' ;; 'PSICOLOGIA' ;; 'PROCESO COGNOSCITIVO | 
+010672', '010675 | Smith, Wendell l. | Cómo se aprende el comportamiento | Buenos Aires | Paidós | 1973 | COMPORTAMIENTO' ;; 'PSICOLOGIA' ;; 'PROCESO COGNOSCITIVO | 
 ###
 012245 | Sobrevila, Marcelo A. | Didáctica de la educación técnica | Buenos Aires | Kapelusz | 1968 | ENSENANZA TECNICA | 
 ###
@@ -2783,7 +2783,7 @@
 ###
 013094 |  | Soltar las alas 5 EGB | Buenos Aires | Anaya-Aique | 1996 |  | 84-207-7675-0
 ###
-103095 |  | Soltar las alas 6 EGB | Buenos Aires | Anaya-Aique | 1996 |  | 84-207-7676-9
+013095 |  | Soltar las alas 6 EGB | Buenos Aires | Anaya-Aique | 1996 |  | 84-207-7676-9
 ###
 012607 | Solves, Hebe | Taller literario | Buenos Aires | Plus Ultra | 1987 | TALLERES ESCOLARES' ;; 'ANIMACION A LA LECTURA | 
 ###
@@ -2815,7 +2815,7 @@
 ###
 010733 | Standop, Ewald | Cómo preparar monografías e informes | Buenos Aires | Kapelusz | 1980 | ELABORACION DE INFORMES | 
 ###
-102711 | Starico de Accomo, Mabel Nelly | Investigando 1 | Buenos Aires | Magisterio del Río de La Plata | 1992 | LIBROS DE TEXTO' ;; 'ENSENANZA DE LA LECTURA' ;; 'ENSENANZA DE LA ESCRITURA | 9505500882
+012711 | Starico de Accomo, Mabel Nelly | Investigando 1 | Buenos Aires | Magisterio del Río de La Plata | 1992 | LIBROS DE TEXTO' ;; 'ENSENANZA DE LA LECTURA' ;; 'ENSENANZA DE LA ESCRITURA | 9505500882
 ###
 012712 | Starico de Accomo, Mabel Nelly | El cuaderno de investigando 1 | Buenos Aires | Magisterio del Río de La Plata | 1992 | LIBROS DE TEXTO' ;; 'ENSENANZA DE LA LECTURA' ;; 'ENSENANZA DE LA ESCRITURA | 950-550-0882
 ###
@@ -2825,7 +2825,7 @@
 ###
 011161', '011554 | Stocker, Karl | Principios de didáctica moderna  | Buenos Aires | Kapelusz | 1965 | DIDACTICA | 
 ###
-102221 | Stokos, Patricia | La expresión corporal y el niño  | Buenos Aires | Ricordi Américana | 1967 |  | 
+012221 | Stokos, Patricia | La expresión corporal y el niño  | Buenos Aires | Ricordi Américana | 1967 |  | 
 ###
 010680', '010682 | Stone, L J. | Psicología y psicopatología del desarrollo   | Buenos Aires | Hormé | 1980 | PSICOPATOLOGIA' ;; 'PSICOLOGIA EVOLUTIVA' ;; 'PSICOLOGIA DEL NINO | 
 ###
@@ -2925,7 +2925,7 @@
 ###
 012877 |  | Vacaciones santillana matemática 7 | Buenos Aires | Santillana | 1996 | MATEMATICAS' ;; 'LIBROS DE TEXTO | 950-46-0053-0
 ###
-104428 | Van Dalen, Deobold B. | Manual de técnica de la investigación educacional  | Barcelona | Paidós | 1981 | INVESTIGACION EDUCACIONAL | 
+014428 | Van Dalen, Deobold B. | Manual de técnica de la investigación educacional  | Barcelona | Paidós | 1981 | INVESTIGACION EDUCACIONAL | 
 ###
 011918 | Vargas, Julie S. | Redacción de objetivos conductuales  | México | Trillas | 1979 | OBJETIVOS DE LA FORMACION' ;; 'CONDUCTA INFANTIL | 
 ###
@@ -2935,7 +2935,7 @@
 ###
 012669 | Vattuone, Lucy F. de | Nuestro medio 3 | Buenos Aires | El Ateneo | 1992 | LIBROS DE TEXTO' ;; 'BIOLOGIA | 950-02-5801-3
 ###
-100684 | Vayer, Pierre | El niño frente al mundo   | Barcelona | Científico Médica | 1977 | DESTREZAS PSICOMOTRICES' ;; 'PERSONALIDAD | 
+010684 | Vayer, Pierre | El niño frente al mundo   | Barcelona | Científico Médica | 1977 | DESTREZAS PSICOMOTRICES' ;; 'PERSONALIDAD | 
 ###
 000084 | Vázquez de Tapia, Nelly | Jugando con matemática 2 | Buenos Aires | Estrada | 1995 | MATEMATICAS' ;; 'LIBROS DE TEXTO | 9500102927
 ###
@@ -2995,7 +2995,7 @@
 ###
 011442', '011443 | Weinstein, Gerald | La enseñanza por el afecto   | Buenos Aires | Paidós | 1973 | PSICOLOGIA' ;; 'PEDAGOGIA | 
 ###
-100988', '100989', '100990', '100991 | Weiss, Carol H. | Investigación evaluativa   | México | Trillas | 1982 | EVALUACION' ;; 'EVALUACION DEL ALUMNO' ;; 'METODOS DE EVALUACION' ;; 'TECNICAS DE EVALUACION | 
+010988', '010989 | Weiss, Carol H. | Investigación evaluativa   | México | Trillas | 1982 | EVALUACION' ;; 'EVALUACION DEL ALUMNO' ;; 'METODOS DE EVALUACION' ;; 'TECNICAS DE EVALUACION | 
 ###
 012684 | Weissmann, Hilda | Los alimentos  | Buenos Aires | Colihue | 1985 | CIENCIAS' ;; 'BIOLOGIA' ;; 'ALIMENTOS' ;; 'EDUCACION PARA LA SALUD' ;; 'SISTEMA DIGESTIVO' ;; 'LIBROS DE TEXTO | 950581321X
 ###
@@ -3015,7 +3015,7 @@
 ###
 101919 | Eilson, L. Craig | El currículo abierto   | Buenos Aires | El Ateneo | 1979 |  | 
 ###
-102509 | Winnicott, D. W. | Realidad y juego  | Buenos Aires | Gedisa | 1987 | PSICOLOGIA DEL NINO' ;; 'JUEGO' ;; 'CREATIVIDAD | 
+012509 | Winnicott, D. W. | Realidad y juego  | Buenos Aires | Gedisa | 1987 | PSICOLOGIA DEL NINO' ;; 'JUEGO' ;; 'CREATIVIDAD | 
 ###
 011490', '011491 | Yauch, Wilbur A. | Las relaciones humanas y la escuela  | Buenos Aires | Paidós | 1969 | RELACIONES HUMANAS' ;; 'RELACION ESCUELA-COMUNIDAD' ;; 'RELACION PADRES-DOCENTE' ;; 'RELACIONES ENTRE PARES' ;; 'RELACIONES LABORALES | 
 ###
@@ -3043,7 +3043,7 @@
 ###
 010432 | Rama, Germán | Educación, participación y estilos de desarrollo en América Latina | Buenos Aires | Kapelusz | 1986 | EDUCACION Y DESARROLLO' ;; 'DESARROLLO ECONOMICO' ;; 'MODELOS EDUCACIONALES' ;; 'POLITICAS DE EDUCACION | 
 ###
-100984', '100985', '100986', '100987 | Ramón y Cajal, Santiago | Los tónicos de la voluntad | Madrid | Espasa Calpe | 1971 | INVESTIGACION CIENTIFICA | 
+010986', '010987 | Ramón y Cajal, Santiago | Los tónicos de la voluntad | Madrid | Espasa Calpe | 1971 | INVESTIGACION CIENTIFICA | 
 ###
 010419 | Raths, Louis E. | Cómo enseñar a pensar | Buenos Aires | Paidós | 1986 | ESTUDIO INDIVIDUAL' ;; 'METODOS DE ESTUDIO | 
 ###
@@ -3083,7 +3083,7 @@
 ###
 011411', '011412 | Ricks, David F. | Personalidad y educación  | Buenos Aires | Paidós | 1975 | PROCESOS PSICOPEDAGOGICOS' ;; 'DESARROLLO DE LA PERSONALIDAD' ;; 'PERSONALIDAD | 
 ###
-100303 | Rigal, Robert | Motricidad  | Madrid | Augusto E. Pila Teleña | 1979 | DESTREZAS PSICOMOTRICES' ;; 'DESARROLLO MOTOR' ;; 'FISIOLOGIA' ;; 'PERCEPCION | 8485514076
+010303 | Rigal, Robert | Motricidad  | Madrid | Augusto E. Pila Teleña | 1979 | DESTREZAS PSICOMOTRICES' ;; 'DESARROLLO MOTOR' ;; 'FISIOLOGIA' ;; 'PERCEPCION | 8485514076
 ###
 012680 | Rinderknecht, Patricia | Manual de juegos I  | Buenos Aires | Bonum | 1976 | JUEGOS INFANTILES | 9505071779
 ###
@@ -3133,7 +3133,7 @@
 ###
 011154', '011156 | Rogers, Carl R. | Libertad y creatividad en la educación   | Buenos Aires | Paidós | 1980 | CREATIVIDAD' ;; 'INNOVACIONES EDUCACIONALES | 
 ###
-102582', '102583', '102584', '100671 | Rogers, Carl R. | El proceso de convertirse en persona   | Buenos Aires | Paidós | 1982 | PSICOPATOLOGIA' ;; 'PSICOLOGIA' ;; 'PSICOTERAPIA | 
+012582', '012583 | Rogers, Carl R. | El proceso de convertirse en persona   | Buenos Aires | Paidós | 1982 | PSICOPATOLOGIA' ;; 'PSICOLOGIA' ;; 'PSICOTERAPIA | 
 ###
 000131 | Ekstein, Rudolf | Historia del psicoanálisis VI  | Buenos Aires | Paidós | 1968 | HISTORIA' ;; 'PSICOLOGIA | 
 ###
@@ -3165,7 +3165,7 @@
 ###
 000423 | Rousseau, Pierre | Del átomo a la estrella  | Buenos Aires | El Ateneo | 1978 | BIOLOGIA | 
 ###
-100257 | Rudik, P.A. | Psicología de la educación física y del deporte  | Buenos Aires | Stadium | 1982 | EDUCACION FISICA' ;; 'PSICOLOGIA' ;; 'ACTIVIDADES DEPORTIVAS | 
+000257 | Rudik, P.A. | Psicología de la educación física y del deporte  | Buenos Aires | Stadium | 1982 | EDUCACION FISICA' ;; 'PSICOLOGIA' ;; 'ACTIVIDADES DEPORTIVAS | 
 ###
 000810 | Santos Guerra, Miguel Angel | La evaluación   | Málaga | Aljibe | 1998 | EVALUACION' ;; 'EVALUACION DE MATERIALES DIDACTICOS' ;; 'EVALUACION INTERNA' ;; 'EVALUACION DEL ALUMNO' ;; 'EVALUACION DEL DOCENTE' ;; 'CRITERIOS DE EVALUACION | 848867176
 ###
@@ -3391,7 +3391,7 @@
 ###
 000411 | Carpena, Elías | Los trotadores  | Buenos Aires | Huemul | 1973 | RELATOS' ;; 'LITERATURA ARGENTINA | 
 ###
-102797 | Nanni de Smania, Estela | Día de visitas, un caso requetecurioso  | Buenos Aires | Colihue | 1990 | CUENTOS' ;; 'CUENTOS MARAVILLOSOS' ;; 'LITERATURA INFANTIL' ;; 'LITERATURA ARGENTINA | 950-581-422-4
+012797 | Nanni de Smania, Estela | Día de visitas, un caso requetecurioso  | Buenos Aires | Colihue | 1990 | CUENTOS' ;; 'CUENTOS MARAVILLOSOS' ;; 'LITERATURA INFANTIL' ;; 'LITERATURA ARGENTINA | 950-581-422-4
 ###
 000345 | Pérez Galdós, Benito | Marianela  | Buenos Aires | Huemul | 1970 | NOVELAS' ;; 'LITERATURA ESPANOLA | 
 ###
@@ -3449,7 +3449,7 @@
 ###
 000359 | Vasconcelos, José Mauro de | Lejos de la tierra  | Buenos Aires | El Ateneo | 1979 | NOVELAS' ;; 'LITERATURA JUVENIL' ;; 'LITERATURA BRASILERA | 
 ###
-102795 | Devetach, Laura | La gran pelea  | Buenos Aires | Colihue | 1989 | LITERATURA ARGENTINA' ;; 'LITERATURA INFANTIL' ;; 'CUENTOS' ;; 'CUENTOS DE ANIMALES | 950-581-440-2
+012795 | Devetach, Laura | La gran pelea  | Buenos Aires | Colihue | 1989 | LITERATURA ARGENTINA' ;; 'LITERATURA INFANTIL' ;; 'CUENTOS' ;; 'CUENTOS DE ANIMALES | 950-581-440-2
 ###
 000347 | Cervantes Saavedra, Miguel de | Novelas ejemplares  | Buenos Aires | Sopena | 1956 | LITERATURA UNIVERSAL' ;; 'LITERATURA ESPANOLA' ;; 'NOVELAS | 
 ###
@@ -3565,7 +3565,7 @@
 ###
 001190 |  | Literatura al sur | Trelew | Ediciones del Desierto | 1996 | LITERATURA PATAGONICA' ;; 'LITERATURA JUVENIL' ;; 'LITERATURA DE CHUBUT' ;; 'CUENTOS' ;; 'ANTOLOGIAS | 987-95908
 ###
-102749 | Noguera, Graciela Mónica | Vuelicarpeta | Buenos Aires | Plus Ultra | 1994 | LENGUA | 
+012749 | Noguera, Graciela Mónica | Vuelicarpeta | Buenos Aires | Plus Ultra | 1994 | LENGUA | 
 ###
 000534', '000535 |  | Chubut | Buenos Aires | Universidad Nacional de la Patagonia San Juan Bosco | 1996 | HISTORIA PATAGONICA' ;; 'LITERATURA PATAGONICA' ;; 'TURISMO' ;; 'HABITAT' ;; 'PUEBLOS ORIGINARIOS DE ARGENTINA' ;; 'COLONIA GALESA | 955-763-017-1
 ###
@@ -3587,7 +3587,7 @@
 ###
 001016 | Evans, Clery A. | Jhon Daniel Evans "El molinero" | Buenos Aires | Dirección de impresiones oficiales | 1994 | HISTORIA DE CHUBUT | 950-43-6008-4
 ###
-103215 | Masera, Ricardo | La meseta patagónica del Somuncura | Viedma | Secretaria de Estado de Acción Social de Rio Negro | 1998 | GEOGRAFIA PATAGONICA | 987-97315-0-6
+013215 | Masera, Ricardo | La meseta patagónica del Somuncura | Viedma | Secretaria de Estado de Acción Social de Rio Negro | 1998 | GEOGRAFIA PATAGONICA | 987-97315-0-6
 ###
 002296 |  | Situación y evolución social provincial | Buenos Aires | Indec | 1997 |  | 
 ###
@@ -3775,13 +3775,13 @@
 ###
 900057 |  | Tango | Buenos Aires | Secretaría de Cultura de la Nación |  | ANTROPOLOGIA SOCIAL' ;; 'ANTROPOLOGIA CULTURAL | 
 ###
-100384', '009302', '006359 | Vazquez de Tapia, Nelly | Matemática 1 | Buenos Aires | Estrada |  | MATEMATICAS' ;; 'LIBROS DE TEXTO | 
+010384', '009302', '006359 | Tapia, Nelly | Matemática 1 | Buenos Aires | Estrada |  | MATEMATICAS' ;; 'LIBROS DE TEXTO | 
 ###
-100386', '000093', '009303 | Vazquez de Tapia, Nelly | Matemática 2 | Buenos Aires | Estrada | 1980 | MATEMATICAS' ;; 'LIBROS DE TEXTO | 
+000093', '009303 | Vazquez de Tapia, Nelly | Matemática 2 | Buenos Aires | Estrada | 1980 | MATEMATICAS' ;; 'LIBROS DE TEXTO | 
 ###
 001027', '009304 | Vazquez de Tapia, Nelly | Matemática 3 | Buenos Aires | Estrada | 1984 | MATEMATICAS' ;; 'LIBROS DE TEXTO | 
 ###
-100200 | Trejo, Cesar A. | Matemática moderna 3 | Buenos Aires | Eudeba | 1969 | MATEMATICAS' ;; 'LIBROS DE TEXTO | 
+000200 | Trejo, Cesar A. | Matemática moderna 3 | Buenos Aires | Eudeba | 1969 | MATEMATICAS' ;; 'LIBROS DE TEXTO | 
 ###
 000908 |  | Ciencias Sociales 7 | Buenos Aires | Santillana | 1998 | HISTORIA' ;; 'GEOGRAFIA' ;; 'FORMACION ETICA Y CIUDADANA | 950-46-0526-5
 ###
@@ -3859,7 +3859,7 @@
 ###
 001081', '001254 |  | Viajeros dos mil 3 | Buenos Aires | Puerto de Palos | 2001 | LIBROS DE TEXTO' ;; 'LENGUA' ;; 'MATEMATICAS' ;; 'CIENCIAS SOCIALES' ;; 'CIENCIAS NATURALES' ;; 'TECNOLOGIA | 987-9273-63-X
 ###
-001101', '002293 |  | Viajeros dos mil 3 | Buenos Aires | Puerto de Palos | 2001 | LENGUA' ;; 'MATEMATICAS' ;; 'CIENCIAS SOCIALES' ;; 'CIENCIAS NATURALES' ;; 'TECNOLOGIA' ;; 'LIBROS DE TEXTO | 
+002293 |  | Viajeros dos mil 3 | Buenos Aires | Puerto de Palos | 2001 | LENGUA' ;; 'MATEMATICAS' ;; 'CIENCIAS SOCIALES' ;; 'CIENCIAS NATURALES' ;; 'TECNOLOGIA' ;; 'LIBROS DE TEXTO | 
 ###
 900080 |  | Matemática e informática Ciencias Naturales Física y Química |  |  |  | INFORMATICA' ;; 'FISICA' ;; 'QUIMICA' ;; 'MATEMATICAS' ;; 'CIENCIAS NATURALES | 
 ###
@@ -3963,9 +3963,9 @@
 ###
 001004', '003276 | Maas, Pablo | Economía | Buenos Aires | Aique | 2002 | ECONOMIA' ;; 'LIBROS DE TEXTO | 950-701-858-1
 ###
-102919 | Chovis, Francisco | Contabilidad 4º curso | Buenos Aires | El Ateneo | 1979 | ECONOMIA' ;; 'LIBROS DE TEXTO' ;; 'CONTABILIDAD | 
+012919 | Chovis, Francisco | Contabilidad 4º curso | Buenos Aires | El Ateneo | 1979 | ECONOMIA' ;; 'LIBROS DE TEXTO' ;; 'CONTABILIDAD | 
 ###
-102924 | Cholvis, Francisco | Contabilidad 5º curso | Buenos Aires | El Ateneo | 1979 | ECONOMIA' ;; 'LIBROS DE TEXTO' ;; 'CONTABILIDAD | 
+012924 | Cholvis, Francisco | Contabilidad 5º curso | Buenos Aires | El Ateneo | 1979 | ECONOMIA' ;; 'LIBROS DE TEXTO' ;; 'CONTABILIDAD | 
 ###
 000452 | Valladares, Chiche | Las cuentas de Benjamín 2 | Buenos Aires | El Ateneo | 1995 | MATEMATICAS | 950-02-7379-9
 ###
@@ -3995,7 +3995,7 @@
 ###
 002308 | Vazquez de Tapia, Nelly | Jugando con matemática 3 | Buenos Aires | Estrada | 1979 | MATEMATICAS' ;; 'ENSENANZA DE LAS MATEMATICAS' ;; 'LIBROS DE TEXTO | 
 ###
-102662 |  | El puente de la matemática 6 | Buenos Aires | Santillana | 1992 | MATEMATICAS' ;; 'ENSENANZA DE LAS MATEMATICAS' ;; 'LIBROS DE TEXTO | 950-46-0165-0
+012662 |  | El puente de la matemática 6 | Buenos Aires | Santillana | 1992 | MATEMATICAS' ;; 'ENSENANZA DE LAS MATEMATICAS' ;; 'LIBROS DE TEXTO | 950-46-0165-0
 ###
 003035', '012663 |  | El puente de la matemática 7 | Buenos Aires | Santillana | 1992 | MATEMATICAS' ;; 'ENSENANZA DE LAS MATEMATICAS' ;; 'LIBROS DE TEXTO' ;; 'ACTIVIDAD DEL ALUMNO' ;; 'ACTIVIDADES DE ENSENANZA | 950-46-0164-2
 ###
@@ -4019,9 +4019,9 @@
 ###
 009305 | Vazquez de Tapia, Nelly | Aprendex matemática 6 | Buenos Aires | Estrada | 1986 | MATEMATICAS' ;; 'ENSENANZA PRIMARIA' ;; 'LIBROS DE TEXTO | 950-01-0183-1
 ###
-103284 | Guzman, Miguel de | Matemáticas II | Madrid | Anaya | 1989 | MATEMATICAS' ;; 'LIBROS DE TEXTO | 84-207-3317-2
+013284 | Guzman, Miguel de | Matemáticas II | Madrid | Anaya | 1989 | MATEMATICAS' ;; 'LIBROS DE TEXTO | 84-207-3317-2
 ###
-103283 | Guzman, Miguel de | Matemática I | Madrid | Anaya | 1989 | MATEMATICAS' ;; 'LIBROS DE TEXTO | 84-207-3286-9
+013283 | Guzman, Miguel de | Matemática I | Madrid | Anaya | 1989 | MATEMATICAS' ;; 'LIBROS DE TEXTO | 84-207-3286-9
 ###
 000600 | Migloria de Weiss, Susana | Papeles animados | Buenos Aires | Santillana | 1997 | LENGUA' ;; 'LIBROS DE TEXTO | 950-46-0491-9
 ###
@@ -4047,7 +4047,7 @@
 ###
 000641 | Alcántara, Ricardo | El misterio de las letras | Barcelona | Edebe | 1991 | LENGUA' ;; 'LIBROS DE TEXTO | 84-236-2470-6
 ###
-102809 | Goldberg, Mirta | El trébol azul de primero | Buenos Aires | Aique | 1995 | LIBROS DE TEXTO' ;; 'ESCRITURA' ;; 'LECTURA' ;; 'LENGUAJE | 950-701-166-8
+012809 | Goldberg, Mirta | El trébol azul de primero | Buenos Aires | Aique | 1995 | LIBROS DE TEXTO' ;; 'ESCRITURA' ;; 'LECTURA' ;; 'LENGUAJE | 950-701-166-8
 ###
 100413 | Goitía de Berasategui, María Ester | Yo solito | Brasil | Estrada | 1982 | LENGUA' ;; 'LIBROS DE TEXTO | 
 ###
@@ -4145,7 +4145,7 @@
 ###
 013140 | Bustinza, Juan Antonio | De la prehistoria al siglo XV | Buenos Aires | A-Z | 1996 | LIBROS DE TEXTO | 950-534-367-1
 ###
-103120 | Alonso, María Ernestina | América en el mundo contemporáneo | Buenos Aires | Aique | 1997 | LIBROS DE TEXTO' ;; 'CIENCIAS SOCIALES | 950-701-423-3
+013120 | Alonso, María Ernestina | América en el mundo contemporáneo | Buenos Aires | Aique | 1997 | LIBROS DE TEXTO' ;; 'CIENCIAS SOCIALES | 950-701-423-3
 ###
 000303 | Alonso, María Ernestina | Historia | Buenos Aires | Aique | 1997 | LIBROS DE TEXTO | 950-701-369-5
 ###
@@ -4153,7 +4153,7 @@
 ###
 000304 | Fernández Caso, María Victoria | Geografía | Buenos Aires | Aique | 1997 | LIBROS DE TEXTO | 950-701-358-X
 ###
-103101 | Fernández Caso, María Victoria | Geografía general | Buenos Aires | Aique | 1996 | LIBROS DE TEXTO' ;; 'GEOGRAFIA' ;; 'ESPACIO URBANO' ;; 'ESPACIO RURAL | 950-701-282-6
+013101 | Fernández Caso, María Victoria | Geografía general | Buenos Aires | Aique | 1996 | LIBROS DE TEXTO' ;; 'GEOGRAFIA' ;; 'ESPACIO URBANO' ;; 'ESPACIO RURAL | 950-701-282-6
 ###
 000709', '000729 | Alonso, María Ernestina | Los derechos económicos y sociales | Buenos Aires | Troquel | 1998 | FORMACION ETICA Y CIUDADANA | 950-16-6479-1
 ###
@@ -4169,7 +4169,7 @@
 ###
 012878 | Sonnoli, Felisa | Un libro que divierte | Buenos Aires | Magisterio del Río de la Plata | 1993 | LIBROS DE TEXTO | 950-550-093-9
 ###
-103100 |  | La medialuna | Buenos Aires | Aique | 1997 | CIENCIAS' ;; 'LENGUA' ;; 'LIBROS DE TEXTO | 950-701-367-9
+013100 |  | La medialuna | Buenos Aires | Aique | 1997 | CIENCIAS' ;; 'LENGUA' ;; 'LIBROS DE TEXTO | 950-701-367-9
 ###
 001090 |  | Activa 5 | Buenos Aires | Puerto de Palos | 2001 | MATEMATICAS' ;; 'LENGUA' ;; 'LIBROS DE TEXTO | 987-547-012-0
 ###
@@ -4193,7 +4193,7 @@
 ###
 000571 |  | Sentir Chubut | Rawson | Alfa, Centro Literario | [199?] |  | 950-99689-1-9
 ###
-000860', '000861 |  | Atlas de la Provincia del Chubut | Buenos Aires | Ministerio de Cultura y Educación. Plan Social Educativo del Ministerio de Cultura y educación de la Nación | 1994 | GEOGRAFIA | 950-43-5712-1
+000860', '000861', '003691 |  | Atlas de la Provincia del Chubut | Buenos Aires | Ministerio de Cultura y Educación. Plan Social Educativo del Ministerio de Cultura y educación de la Nación | 1994 | GEOGRAFIA | 950-43-5712-1
 ###
 000893 |  | Terminalidad de primaria para adultos | Buenos Aires | Ministerio de Cultura y Educación de la Nación | 1999 | EDUCACION DE ADULTOS' ;; 'CIENCIAS SOCIALES' ;; 'GEOGRAFIA' ;; 'SOCIEDAD' ;; 'CULTURA' ;; 'CAPITALISMO' ;; 'EDUCACION CIVICA' ;; 'PARTIDOS POLITICOS' ;; 'SUFRAGIO FEMENINO' ;; 'IMPERIALISMO' ;; 'SIGLO VEINTE | 950-00-0042-3
 ###
@@ -4331,7 +4331,7 @@
 ###
 000433 | Whitman, walt | Hojas de hierba | España | Andrómeda | 1995 | LITERATURA | 950-722-048-8
 ###
-010233', '010143 | Ravera, Alfredo | Apreciación de los resultados de la acción educativa | Buenos Aires | Kapelusz | 1953 | EVALUACION DEL ALUMNO' ;; 'PRUEBAS DE CONOCIMIENTOS' ;; 'PRUEBAS DE RENDIMIENTO | 
+910142', ' | Bach, Richard | Juan Salvador Gaviota | Montevideo | Crunre | 2000 | LITERATURA | 
 ###
 000005 | Ciccolella,Pablo | Geografía argentina | Buenos Aires | Aique | 1995 | GEOGRAFIA' ;; 'GEOGRAFIA  ARGENTINA' ;; 'LIBROS DE TEXTO | 950-701-217-6
 ###
@@ -4587,17 +4587,17 @@
 ###
 001369 | Iglesias Díaz, Calo | Educar para la paz desde el conflicto | Rosario | Homo Sapiens  | 1999 | EDUCACION PARA LA PAZ' ;; 'DISCIPLINA' ;; 'PROBLEMAS SOCIALES' ;; 'ESPANA | 950-808-245-3
 ###
-103005', '103004', '103006 | Bertoni, Lilia Ana | Los tiempos de Rosas 7 | Buenos Aires | Colihue | 1995 | HISTORIA ARGENTINA | 987-9069-08-0
+013005', '013004', '013006 | Bertoni, Lilia Ana | Los tiempos de Rosas 7 | Buenos Aires | Colihue | 1995 | HISTORIA ARGENTINA | 987-9069-08-0
 ###
-102994', '102992', '102993 | Bertoni, Lilia Ana | Cuando fuimos virreinato | Buenos Aires | Colihue | 1995 | HISTORIA ARGENTINA | 987-9069-04-8
+012994', '012992', '012993 | Bertoni, Lilia Ana | Cuando fuimos virreinato | Buenos Aires | Colihue | 1995 | HISTORIA ARGENTINA | 987-9069-04-8
 ###
-103000', '102999', '102998 | Bertoni, Lilia Ana | Los tiempos de San Martín | Buenos Aires | Colihue | 1995 | HISTORIA ARGENTINA | 987-9069-06-4
+013000', '012999', '012998 | Bertoni, Lilia Ana | Los tiempos de San Martín | Buenos Aires | Colihue | 1995 | HISTORIA ARGENTINA | 987-9069-06-4
 ###
-103002', '103001', '103003 | Bertoni, Lilia Ana | Los tiempos de Rivadavia | Buenos Aires | Colihue | 1995 | HISTORIA ARGENTINA | 987-9069-07-2
+013002', '013001', '013003 | Bertoni, Lilia Ana | Los tiempos de Rivadavia | Buenos Aires | Colihue | 1995 | HISTORIA ARGENTINA | 987-9069-07-2
 ###
-103011', '013010', '103012 | Bertoni, Lilia Ana | Los tiempos de los inmigrantes | Buenos Aires | Colihue | 1995 | HISTORIA ARGENTINA | 987-9069-10-2
+013011', '013012 | Bertoni, Lilia Ana | Los tiempos de los inmigrantes | Buenos Aires | Colihue | 1995 | HISTORIA ARGENTINA | 987-9069-10-2
 ###
-103013', '103014', '103015 | Bertoni, Lilia Ana | Los tiempos de Perón | Buenos Aires | Colihue | 1995 | HISTORIA ARGENTINA | 987-9069-12-9
+013013', '013014', '013015 | Bertoni, Lilia Ana | Los tiempos de Perón | Buenos Aires | Colihue | 1995 | HISTORIA ARGENTINA | 987-9069-12-9
 ###
 010519', '010518 | Manzo, Abelardo  J. | Manual para la preparación de monografías | Buenos Aires | Humanitas | 1981 | MONOGRAFIAS | 
 ###
@@ -4793,7 +4793,7 @@
 ###
 000553 | Gimeno Sacristán, José | El curriculum | Madrid | Morata | 1996 | POLITICA EDUCATIVA' ;; 'APRENDIZAJE ESCOLAR' ;; 'ROL DEL DOCENTE | 84-7112-326-6
 ###
-001477', '007943 |  | Introducción bibliotecológica | Buenos Aires | Biblioteca Nacional de Maestros | 2003 | BIBLIOTECOLOGIA' ;; 'PROCESOS TECNICOS' ;; 'GLOSARIO | 1668-5695
+ |  | Introducción bibliotecológica | Buenos Aires | Biblioteca Nacional de Maestros | 2003 | BIBLIOTECOLOGIA' ;; 'PROCESOS TECNICOS' ;; 'GLOSARIO | 1668-5695
 ###
 001478 |  | Bibliotecas | Buenos Aires | Biblioteca Nacional de Maestros | 2004 | BIBLIOTECOLOGIA' ;; 'BIBLIOTECAS ESCOLARES | 1668-5695
 ###
@@ -4867,7 +4867,7 @@
 ###
 100556', '100558 | Piéron, Henri | Psicología | Buenos Aires | Kapelusz | 1974 | PSICOLOGIA | 
 ###
-010557', '100559 | Piéron, Henri | Psicología | Buenos Aires | Kapelusz | 1974 | PSICOLOGIA | 
+010557 | Piéron, Henri | Psicología | Buenos Aires | Kapelusz | 1974 | PSICOLOGIA | 
 ###
 000159 | Bellak, Leopoldo | Test de apercepción infantil | Buenos Aires | Paidós | 1991 | TEST DE INTELIGENCIA | 950-12-6014-3
 ###
@@ -5295,7 +5295,7 @@
 ###
 009440 |  | Trelew |  |  | 1992 | FUENTES HISTORICAS' ;; 'TRELEW' ;; 'CHUBUT | 
 ###
-009428 |  | Uso y tratamiento de los Símbolos Nacionales | Trelew | Ministerio de Educación | 2015 | INSTITUCIONES EDUCATIVAS | 
+009428 |  | Uso y tratamiento de los Símbolos Nacionales | Trelew | Ministerio de Educación | 2015 | INSTITUCIONES EDUCATIVAS' ;; 'ABANDERADOS Y ESCOLTAS | 
 ###
 001737 |  | Guía de las Aves Playeras y Marinas Migratorias del Sur de América del Sur |  | Escuelas Hermanas de Aves Playeras | 2005 | ECOLOGIA' ;; 'GUIAS' ;; 'HABITAT' ;; 'AVES | 
 ###
@@ -5305,7 +5305,7 @@
 ###
 001746', '002442', '003041 |  | Miradas interdisciplinarias sobre la violencia en las escuelas | Buenos Aires | Ministerio de Educación, Ciencia y Tecnología de la Nación | 2006 | ADOLESCENCIA' ;; 'ADOLESCENTES' ;; 'POBREZA' ;; 'PROBLEMAS SOCIALES' ;; 'PROBLEMAS DE LA JUVENTUD' ;; 'VIOLENCIA' ;; 'CONFLICTO' ;; 'MARGINACION SOCIAL' ;; 'ESCUELAS SECUNDARIAS' ;; 'JUVENTUD' ;; 'INTEGRACION ESCOLAR' ;; 'INTEGRACION SOCIAL' ;; 'RELACION ESCUELA-ALUMNOS' ;; 'RELACION ALUMNO-DOCENTE' ;; 'DISCRIMINACION BASADA EN EL GENERO' ;; 'PROBLEMAS DE LA JUVENTUD' ;; 'PAPEL DE LA ESCUELA' ;; 'PAPEL DE LA FAMILIA' ;; 'PAPEL DEL ALUMNO' ;; 'PAPEL DEL DOCENTE | 950-00-0559-X
 ###
-001749', '103141 | Oszlak, Oscar | La formación del estado argentino | Buenos Aires | Planeta Argentina | 1997 | HISTORIA ARGENTINA | 950-742-829-1
+001749', '013141 | Oszlak, Oscar | La formación del estado argentino | Buenos Aires | Planeta Argentina | 1997 | HISTORIA ARGENTINA | 950-742-829-1
 ###
 001747 | Harlen, Wynne | La enseñanza y aprendizaje de las ciencias | Madrid | Morata | 1994 | ENSENANZA DE LA CIENCIA' ;; 'CIENCIA' ;; 'EVALUACION' ;; 'ROL DEL DOCENTE' ;; 'EVALUACION DEL ALUMNO' ;; 'EVALUACION DE UN PROCESO EXPERIMENTAL | 84-7112-331-2
 ###
@@ -5767,7 +5767,7 @@
 ###
 002049 | Grumberg, Ana | Música en zapatillas | Buenos Aires | Longseller | 2001 | MUSICA' ;; 'ENSENANZA' ;; 'EXPERIENCIA DEL DOCENTE' ;; 'ANECDOTAS' ;; 'TALLERES' ;; 'ESTRATEGIAS' ;; 'EDUCACION MUSICAL' ;; 'ADULTOS | 987-550-017-8
 ###
-100184 | Ander-Egg, Ezequiel | Técnicas de investigación social | Buenos Aires | Humanitas | 1983 | TECNICAS' ;; 'INVESTIGACION SOCIAL' ;; 'TESTS' ;; 'ENTREVISTAS' ;; 'MUESTREO' ;; 'RECOPILACION DE DATOS' ;; 'CUESTIONARIOS' ;; 'METODO CIENTIFICO | 950-582-082-8
+010184 | Ander-Egg, Ezequiel | Técnicas de investigación social | Buenos Aires | Humanitas | 1983 | TECNICAS' ;; 'INVESTIGACION SOCIAL' ;; 'TESTS' ;; 'ENTREVISTAS' ;; 'MUESTREO' ;; 'RECOPILACION DE DATOS' ;; 'CUESTIONARIOS' ;; 'METODO CIENTIFICO | 950-582-082-8
 ###
 001850 | Liguori, Liliana | Didáctica de las ciencias naturales: enseñar ciencias naturales: | Rosario | Homo Sapiens | 2005 | CIENCIAS NATURALES' ;; 'FORMACION  DOCENTE' ;; 'TEORIA' ;; 'PROYECTOS' ;; 'DIDACTICA' ;; 'INTEGRACION DE AREAS | 950-808-448-0
 ###
@@ -5799,7 +5799,7 @@
 ###
 001843 | Gavilán, Mirta | La transformación de la orientación vocacional | Rosario | Homo Sapiens | 2006 | TEORIA DE LA ORIENTACION' ;; 'ORIENTACION EDUCACIONAL' ;; 'HISTORIA | 950-808-483-9
 ###
-001847 | Echeverría, Hugo Darío | La transformación de la orientación vocacional | Rosario | Homo Sapiens | 2006 | INVESTIGACION EDUCACIONAL' ;; 'CRITERIOS DE INVESTIGACION' ;; 'METODOLOGIA DE LA EDUCACION' ;; 'PROYECTOS DE INVESTIGACION | 
+001847 | Echeverría, Hugo Darío | Los diseños de investigacion y su implementacion en Educacion | Rosario | Homo Sapiens | 2005 | INVESTIGACION EDUCACIONAL' ;; 'CRITERIOS DE INVESTIGACION' ;; 'METODOLOGIA DE LA EDUCACION' ;; 'PROYECTOS DE INVESTIGACION | 950-808-460-X
 ###
 001848 | Avendaño, Fernando | El desarrollo de la lengua oral en el aula | Rosario | Homo Sapiens | 2006 | DESARROLLO DEL LENGUAJE' ;; 'EXPRESION ORAL' ;; 'TEORIAS' ;; 'COMUNICACION VERBAL' ;; 'ESTRATEGIAS METODOLOGICAS' ;; 'EVALUACION' ;; 'ENSENANZA DE LA EXPRESION ORAL' ;; 'DESARROLLO DEL NINO' ;; 'ENSENANZA DE LA LENGUA MATERNA | 950-808-492-8
 ###
@@ -6435,9 +6435,9 @@
 ###
 001111 |  | Matemática 5 E.G.B. | Buenos Aires | Santillana | 2000 | MATEMATICAS' ;; 'LIBROS DE TEXTO' ;; 'ENSENANZA PRIMARIA | 950-46-0808-6
 ###
-100385', '002307 | Vazquez de Tapia, Nelly | Matemática 1 | Buenos Aires | Estrada | 1980 | MATEMATICAS' ;; 'LIBROS DE TEXTO' ;; 'ACTIVIDADES DE APRENDIZAJE | 
+010385', '002307 | Vazquez de Tapia, Nelly | Matemática 1 | Buenos Aires | Estrada | 1980 | MATEMATICAS' ;; 'LIBROS DE TEXTO' ;; 'ACTIVIDADES DE APRENDIZAJE | 
 ###
-000094', '100387 | Vazquez de Tapia, Nelly | Matemática  | Buenos Aires | Estrada | 1984 | MATEMATICAS' ;; 'LIBROS DE TEXTO' ;; 'ACTIVIDADES DE APRENDIZAJE | 950-01-0208-0
+000094', '010387', '008862 | Vazquez de Tapia, Nelly | Matemática  | Buenos Aires | Estrada | 1984 | MATEMATICAS' ;; 'LIBROS DE TEXTO' ;; 'ACTIVIDADES DE APRENDIZAJE | 950-01-0208-0
 ###
 001070', '004674 |  | Curso para supervisores y directores de instituciones educativas | Buenos Aires | Ministerio de Cultura y Educación de la Nación | 1998 | DIRECTORES' ;; 'GESTION EDUCATIVA' ;; 'GESTION INSTITUCIONAL | 950-00-0183-7
 ###
@@ -6647,9 +6647,9 @@
 ###
 002388 | Petroni, María del Carmen | Letras de imprenta | Buenos Aires | Hola Chicos | 2006 | NIVEL INICIAL' ;; 'ENSENANZA DE LA ESCRITURA | 987-1061-47-1
 ###
-000261', '013128', '000753', '003046 |  | Los CBC en la escuela  | Buenos Aires | Ministerio de Cultura y Educación de la Nación | 1996 |  | 
+000261', '000753', '003046 |  | Los CBC en la escuela  | Buenos Aires | Ministerio de Cultura y Educación de la Nación | 1996 |  | 
 ###
-000264', '003047', '003129', '000263', '000751 |  | Los CBC en la escuela  | Buenos Aires | Ministerio de Cultura y Educación de la Nación | 1996 |  | 
+003047', '013129', '000264', '000751', '000263 |  | Los CBC en la escuela  | Buenos Aires | Ministerio de Cultura y Educación de la Nación | 1996 |  | 
 ###
 013127', '000259', '002504', '000752 |  | Los CBC en la escuela  | Buenos Aires | Ministerio de Cultura y Educación de la Nación | 1996 |  | 
 ###
@@ -6703,7 +6703,7 @@
 ###
 008764', '008763 | Harf, Ruth | Estrategias para la acción directiva | Buenos Aires | Novedades Educativas | 2008 | DIRECCION ESCOLAR' ;; 'DIRECTORES' ;; 'ASESORAMIENTO DEL DOCENTE' ;; 'ASESORES PEDAGOGICOS | 978-987-538-194-0
 ###
-002396', '001867', '009402 | Cangelosi, Daniel | La integración del niño discapacitado visual | Buenos Aires | Novedades Educativas | 2006 | EDUCACION ESPECIAL' ;; 'EDUCACION DE CIEGOS' ;; 'INTEGRACION ESCOLAR' ;; 'DISCAPACIDAD' ;; 'CIEGOS' ;; 'FAMILIA' ;; 'ADAPTACION DEL ALUMNO' ;; 'PAPEL DEL DOCENTE | 987-538-176-4
+002396', '001867', '009519 | Cangelosi, Daniel | La integración del niño discapacitado visual | Buenos Aires | Novedades Educativas | 2006 | EDUCACION ESPECIAL' ;; 'EDUCACION DE CIEGOS' ;; 'INTEGRACION ESCOLAR' ;; 'DISCAPACIDAD' ;; 'CIEGOS' ;; 'FAMILIA' ;; 'ADAPTACION DEL ALUMNO' ;; 'PAPEL DEL DOCENTE | 987-538-176-4
 ###
 002397 | Aznar, Andrea S. | Son o se hacen? | Buenos Aires | Novedades Educativas | 2008 | DISCAPACIDAD' ;; 'INTEGRACION ESCOLAR' ;; 'EDUCACION ESPECIAL | 978-987-538-212-1
 ###
@@ -6899,7 +6899,7 @@
 ###
 002546', '002592', '003274 |  Bahamonde, Nora | Ciencias Naturales 6 | Buenos Aires | Ministerio de Educación, Ciencia y Tecnología | 2008 | CIENCIAS NATURALES' ;; 'SERES VIVOS' ;; 'UNIVERSO' ;; 'COMBUSTION' ;; 'MATERIALES' ;; 'ESTRELLAS' ;; 'ENERGIA' ;; 'FISICA' ;; 'TIERRA' ;; 'ENERGIA' ;; 'CIENCIAS (NIVEL PRIMARIO)' ;; 'ACTIVIDADES DE APRENDIZAJE' ;; 'ENSENANZA PRIMARIA' ;; 'AULAS' ;; 'HONGOS' ;; 'NUTRICION' ;; 'NUTRICION VEGETAL | 978-950-00-0630-9
 ###
-002544', '002596', '002597', '003616', '005239 |  | Ciencias Sociales 4 | Buenos Aires | Ministerio de Educación, Ciencia y Tecnología | 2007 | CIENCIAS SOCIALES' ;; 'SOCIEDADES' ;; 'ESPACIO URBANO' ;; 'ESPACIO RURAL' ;; 'INMIGRACION EN ARGENTINA' ;; 'MAPAS' ;; 'CIENCIAS (NIVEL PRIMARIO)' ;; 'ABORIGENES ARGENTINOS' ;; 'MAPAS' ;; 'HISTORIA ARGENTINA | 978-950-00-0573-9
+002544', '002597', '003616', '005239 |  | Ciencias Sociales 4 | Buenos Aires | Ministerio de Educación, Ciencia y Tecnología | 2007 | CIENCIAS SOCIALES' ;; 'SOCIEDADES' ;; 'ESPACIO URBANO' ;; 'ESPACIO RURAL' ;; 'INMIGRACION EN ARGENTINA' ;; 'MAPAS' ;; 'CIENCIAS (NIVEL PRIMARIO)' ;; 'ABORIGENES ARGENTINOS' ;; 'MAPAS' ;; 'HISTORIA ARGENTINA | 978-950-00-0573-9
 ###
 001015 | Ferrari, Alicia | Corre y canta | Esquel | Secretaría de Cultura y Educación |  | MUSICA' ;; 'CHUBUT' ;; 'PARTITURAS | 
 ###
@@ -7887,7 +7887,7 @@
 ###
 012932 | Rouquié, Alain | Poder militar y sociedad política en la Argentina | Buenos Aires | Hyspamerica | 1986 | HISTORIA ARGENTINA' ;; 'HISTORIA POLITICA' ;; 'HISTORIA POLITICA ARGENTINA' ;; 'HISTORIA MILITAR' ;; 'FUERZAS ARMADAS' ;; 'SOCIOLOGIA POLITICA | 950-614-531-8
 ###
-000744', '000743 |  | Premio Nacional a la innovación social 1996 | [Buenos Aires] | CENOC | 1997 | FACTORES SOCIALES' ;; 'SERVICIOS SOCIALES' ;; 'DESARROLLO COMUNITARIO' ;; 'DESARROLLO SOCIAL | 987-9679-3-7
+000743 |  | Premio Nacional a la innovación social 1996 | [Buenos Aires] | CENOC | 1997 | FACTORES SOCIALES' ;; 'SERVICIOS SOCIALES' ;; 'DESARROLLO COMUNITARIO' ;; 'DESARROLLO SOCIAL | 987-9679-3-7
 ###
 000744 |  | Premio Nacional a la innovación social 1995 | [Buenos Aires] | CENOC | 1996 | FACTORES SOCIALES' ;; 'SERVICIOS SOCIALES' ;; 'DESARROLLO COMUNITARIO' ;; 'DESARROLLO SOCIAL | 987-96079
 ###
@@ -8753,7 +8753,7 @@
 ###
 003823', '007735 | Tomsin, Ana Laura | Ciencias Naturales 4 | Buenos Aires | Longseller | 2011 | ECOLOGIA' ;; 'MEDIO AMBIENTE' ;; 'LIBROS DE TEXTO' ;; 'METALES' ;; 'FUERZAS' ;; 'SERES VIVOS' ;; 'REPRODUCCION' ;; 'REPRODUCCION ANIMAL' ;; 'REPRODUCCION VEGETAL' ;; 'TIERRA' ;; 'TECNOLOGIA' ;; 'CIENCIAS NATURALES | 978-987-683-016-4
 ###
-009406 | Llenas, Ana | Diario de las emociones | CABA | Paidós | 2025 | EDUCACION SEXUAL INTEGRAL' ;; 'LIBROS DE TEXTO' ;; 'EMOCIONES' ;; 'DIARIO PERSONAL | 978-950-12-9719-5
+009406 | Llenas, Anna | Diario de las emociones | CABA | Paidós | 2025 | EDUCACION SEXUAL INTEGRAL' ;; 'LIBROS DE TEXTO' ;; 'EMOCIONES' ;; 'DIARIO PERSONAL | 978-950-12-9719-5
 ###
 003825 | Tomsin, Ana Laura | Ciencias Naturales 6 | Buenos Aires | Longseller | 2011 | MATERIA' ;; 'MEDIO AMBIENTE' ;; 'LIBROS DE TEXTO' ;; 'MATERIALES' ;; 'FUERZAS' ;; 'SERES VIVOS' ;; 'REPRODUCCION' ;; 'NUTRICION' ;; 'UNIVERSO' ;; 'TIERRA' ;; 'TECNOLOGIA' ;; 'CIENCIAS NATURALES' ;; 'LUZ' ;; 'REPRODUCCION HUMANA | 978-987-683-050-8
 ###
@@ -9105,7 +9105,7 @@
 ###
 004068', '006113 | Valentino, Esteban | El cuerpo de Isidoro | Buenos Aires | Sudamericana | 2010 | NINEZ' ;; 'SEXUALIDAD' ;; 'SEXUALIDAD INFANTIL' ;; 'EDUCACION SEXUAL' ;; 'LITERATURA INFANTIL' ;; 'EMBARAZO | 950-07-2380-8
 ###
-003987', '006067 | Cabal, Graciela | La señora planchita | Buenos Aires | Sudamericana | 2011 | CUENTOS' ;; 'LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'COSTUMBRES' ;; 'TRADICIONES | 950-07-2495-2
+003987 | Cabal, Graciela | La señora planchita | Buenos Aires | Sudamericana | 2011 | CUENTOS' ;; 'LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'COSTUMBRES' ;; 'TRADICIONES | 950-07-2495-2
 ###
 004033 | Saramago, José | La flor más grande del mundo | Madrid | Alfaguara | 2007 | CUENTOS' ;; 'LITERATURA ARGENTINA' ;; 'LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'NARRATIVA | 987-84-204-4354-6
 ###
@@ -9123,7 +9123,7 @@
 ###
 004102', '006110 | Czarny, Marcela | Decir sí, decir no | Buenos Aires | Chicos.Net | 2011 | NINEZ' ;; 'SEXUALIDAD' ;; 'SEXUALIDAD INFANTIL' ;; 'EDUCACION SEXUAL' ;; 'MATERIAL DIDACTICO' ;; 'RELACIONES' ;; 'ABUSO SEXUAL INFANTIL | 978-987-21631-5-0
 ###
-004099', '006112 | Czarny, Marcela | Los secretos de Julieta | Buenos Aires | Chicos.Net | 2011 | NINEZ' ;; 'SEXUALIDAD' ;; 'SEXUALIDAD INFANTIL' ;; 'EDUCACION SEXUAL' ;; 'MATERIAL DIDACTICO' ;; 'RELACIONES' ;; 'ABUSO SEXUAL INFANTIL' ;; 'RELACION PADRES-HIJOS | 978-987-21631-6-7
+004099', '006112', '009548', '009544 | Czarny, Marcela | Los secretos de Julieta | Buenos Aires | Chicos.Net | 2011 | NINEZ' ;; 'SEXUALIDAD' ;; 'SEXUALIDAD INFANTIL' ;; 'EDUCACION SEXUAL' ;; 'MATERIAL DIDACTICO' ;; 'RELACIONES' ;; 'ABUSO SEXUAL INFANTIL' ;; 'RELACION PADRES-HIJOS | 978-987-21631-6-7
 ###
 004101', '006109 | Czarny, Marcela | Pablo va a tener un hermanito | Buenos Aires | Chicos.Net | 2011 | NINEZ' ;; 'SEXUALIDAD' ;; 'SEXUALIDAD INFANTIL' ;; 'EDUCACION SEXUAL' ;; 'MATERIAL DIDACTICO' ;; 'RELACIONES' ;; 'ABUSO SEXUAL INFANTIL' ;; 'RELACION PADRES-HIJOS | 978-987-21631-7-4
 ###
@@ -9195,7 +9195,7 @@
 ###
 004063 |  | Guía para el desarrollo institucional de la Educación Sexual Integral | Buenos Aires | Ministerio de Educación de la Nación | 2012 | EDUCACION SEXUAL' ;; 'NIVELES DE EDUCACION' ;; 'PROGRAMAS DE EDUCACION' ;; 'CURRICULO' ;; 'ACTIVIDADES DE ENSENANZA' ;; 'CONTENIDOS CURRICULARES' ;; 'ACTIVIDADES DE APRENDIZAJE' ;; 'MALTRATO' ;; 'ABUSO SEXUAL' ;; 'DISCRIMINACION | 978-950-00-0950-8
 ###
-004064', '004254', '004794', '105301', '005301 |  | Lineamientos curriculares para la Educación Sexual Integral | Buenos Aires | Ministerio de Educación de la Nación | 201? | EDUCACION SEXUAL' ;; 'NIVELES DE EDUCACION' ;; 'PROGRAMAS DE EDUCACION' ;; 'CURRICULO' ;; 'NIVEL PRIMARIO' ;; 'CONTENIDOS CURRICULARES' ;; 'NIVEL SECUNDARIO' ;; 'NIVEL INICIAL' ;; 'FORMACION DE DOCENTES' ;; 'CIENCIAS SOCIALES' ;; 'CIENCIAS NATURALES' ;; 'FORMACION ETICA Y CIUDADANA' ;; 'LENGUA' ;; 'EDUCACION FISICA' ;; 'EDUCACION ARTISTICA' ;; 'EDUCACION PARA LA SALUD' ;; 'PSICOLOGIA' ;; 'FILOSOFIA' ;; 'HUMANIDADES | 978-950-00-0695-8
+004064', '004254', '004794', '005301 |  | Lineamientos curriculares para la Educación Sexual Integral | Buenos Aires | Ministerio de Educación de la Nación | 201? | EDUCACION SEXUAL' ;; 'NIVELES DE EDUCACION' ;; 'PROGRAMAS DE EDUCACION' ;; 'CURRICULO' ;; 'NIVEL PRIMARIO' ;; 'CONTENIDOS CURRICULARES' ;; 'NIVEL SECUNDARIO' ;; 'NIVEL INICIAL' ;; 'FORMACION DE DOCENTES' ;; 'CIENCIAS SOCIALES' ;; 'CIENCIAS NATURALES' ;; 'FORMACION ETICA Y CIUDADANA' ;; 'LENGUA' ;; 'EDUCACION FISICA' ;; 'EDUCACION ARTISTICA' ;; 'EDUCACION PARA LA SALUD' ;; 'PSICOLOGIA' ;; 'FILOSOFIA' ;; 'HUMANIDADES | 978-950-00-0695-8
 ###
 004060 | Shua, Ana María | Cuentos de la Patagonia | Buenos Aires | Guadal | 2011 | CUENTOS' ;; 'LITERATURA INFANTIL' ;; 'FAUNA' ;; 'LITERATURA ARGENTINA' ;; 'NARRATIVA INFANTIL' ;; 'NARRATIVA ARGENTINA | 978-987-579-885-4
 ###
@@ -10031,7 +10031,7 @@
 ###
 004996 | Smith, Lane | Es un libro! | España | Océano Travesía | 2010 | LITERATURA' ;; 'LITERATURA INFANTIL' ;; 'CUENTO INFANTIL' ;; 'NARRATIVA INFANTIL' ;; 'LIBROS | 978-84-494-4202-5
 ###
-004995 | Basch, Adela | El reglamento es el reglamento | Buenos Aires | Norma | 2002 | LITERATURA' ;; 'LITERATURA INFANTIL' ;; 'TEATRO' ;; 'LITERATURA ARGENTINA' ;; 'HISTORIAS EN CIUDADES' ;; 'HISTORIAS CON HUMOR | 978-987-545-082-0
+004995', '008676 | Basch, Adela | El reglamento es el reglamento | Buenos Aires | Norma | 2002 | LITERATURA' ;; 'LITERATURA INFANTIL' ;; 'TEATRO' ;; 'LITERATURA ARGENTINA' ;; 'HISTORIAS EN CIUDADES' ;; 'HISTORIAS CON HUMOR | 978-987-545-082-0
 ###
 004994 | Cabal, Graciela | Toby | Buenos Aires | Norma | 1997 | LITERATURA' ;; 'LITERATURA INFANTIL' ;; 'NOVELA' ;; 'LITERATURA ARGENTINA' ;; 'VALORES MORALES' ;; 'LITERATURA JUVENIL | 978-987-545-609-9
 ###
@@ -10143,7 +10143,7 @@
 ###
 005092 | Basch, Adela | Una luna junto a la laguna | Buenos Aires | SM | 2012 | LITERATURA INFANTIL' ;; 'LITERATURA' ;; 'LIBRO PARA NINOS' ;; 'NARRATIVA' ;; 'NARRATIVA INFANTIL' ;; 'NARRATIVA ARGENTINA' ;; 'LIBRO-ALBUM | 978-987-684-120-2
 ###
-005084', '005537 | Czerlowski, Claudia | Mi dragona y yo | Buenos Aires | Ediciones del Eclipse | 2013 | LITERATURA INFANTIL' ;; 'LITERATURA' ;; 'LIBRO PARA NINOS' ;; 'NARRATIVA' ;; 'NARRATIVA INFANTIL | 978-987-1580-27-9
+005537 | Czerlowski, Claudia | Mi dragona y yo | Buenos Aires | Ediciones del Eclipse | 2013 | LITERATURA INFANTIL' ;; 'LITERATURA' ;; 'LIBRO PARA NINOS' ;; 'NARRATIVA' ;; 'NARRATIVA INFANTIL | 978-987-1580-27-9
 ###
 005088 | Briones, Diana | Con papel de chocolate | Buenos Aires | AZ | 2013 | LITERATURA INFANTIL' ;; 'LITERATURA' ;; 'LIBRO PARA NINOS' ;; 'POESIA' ;; 'LIBRO-ALBUM | 978-987-35-0146-3
 ###
@@ -10295,7 +10295,7 @@
 ###
 005027', '005028 | Sacks, Margarita | Vacaciones en polleras | Rawson | Secretaría de Cultura del Chubut | 2012 | LITERATURA ARGENTINA' ;; 'CUENTOS' ;; 'NARRACION' ;; 'NARRATIVA INFANTIL' ;; 'NARRATIVA JUVENIL | 978-987-1412-49-5
 ###
-005161', '005210 | Farias, Marta | El viaje del bisabuelo | Buenos Aires | Iamiqué | 2013 | CUENTOS DE AMOR' ;; 'LIBRO-ALBUM' ;; 'LITERATURA INFANTIL | 978-987-1217-47-2
+005161', '006158 | Farias, Marta | El viaje del bisabuelo | Buenos Aires | Iamiqué | 2013 | CUENTOS DE AMOR' ;; 'LIBRO-ALBUM' ;; 'LITERATURA INFANTIL | 978-987-1217-47-2
 ###
 005162', '005238 | Bodoc, Liliana | Cuando San Pedro viajó en tren | Buenos Aires | SM | 2012 | CUENTO' ;; 'LITERATURA ARGENTINA' ;; 'LITERATURA INFANTIL' ;; 'NARRACION' ;; 'NARRATIVA INFANTIL' ;; 'HISTORIAS EN CIUDADES | 978-987-573-194-3
 ###
@@ -10315,7 +10315,7 @@
 ###
 005190 | Pinkola estés, Clarissa | Mujeres que corren con los lobos | Barcelona | Zeta | 2013 | NARRATIVA' ;; 'LITERATURA' ;; 'RELATOS' ;; 'CUENTOS' ;; 'LITERATURA ARGENTINA | 978-84-9872-077-8
 ###
-005197', '005556', '005569', '005643', '005568', '005670', '006042', '005997', '006094', '006148 |  | Colecciones de Aula | Buenos Aires | Dirección Nacional de políticas Socioeducativas | 2013 | BIBLIOTECA' ;; 'ACTIVIDADES | 
+005197', '005569', '005643', '005568', '005670', '006042', '005997', '006094', '006148 |  | Colecciones de Aula | Buenos Aires | Dirección Nacional de políticas Socioeducativas | 2013 | BIBLIOTECA' ;; 'ACTIVIDADES | 
 ###
 005188 | Nájera Trujillo, Caludia Gabriela | Pero no imposible | México | Océano Travesía | 2008 | BIBLIOTECOLOGIA' ;; 'BIBLIOTECARIOS ESCOLARES' ;; 'REUNIONES' ;; 'FORMACION DE LECTORES' ;; 'PROMOCION DE LA LECTURA' ;; 'FAMILIA' ;; 'BIBLIOGRAFIA | 978-607-400-019-1
 ###
@@ -10415,7 +10415,7 @@
 ###
 005179 | Devetach, Laura | Secretos en un dedal | Buenos Aires | SM | 2010 | LITERATURA ARGENTINA' ;; 'LITERATURA INFANTIL' ;; 'LIBRO-ALBUM' ;; 'POESIA INFANTIL' ;; 'NARRATIVA ARGENTINA | 978-987-573-337-4
 ###
-005183', '005543 | Oram, Hiawyn | En el desván | Buenos Aires | Fondo de Cultura Económica | 2013 | LITERATURA INFANTIL' ;; 'NARRATIVA INFANTIL' ;; 'CUENTO' ;; 'LIBRO-ALBUM' ;; 'NARRATIVA' ;; 'CUENTOS INFANTILES' ;; 'LITERATURA SUDAFRICANA | 978-950-557-889-4
+005183', '005543', '006335', '007978 | Oram, Hiawyn | En el desván | Buenos Aires | Fondo de Cultura Económica | 2013 | LITERATURA INFANTIL' ;; 'NARRATIVA INFANTIL' ;; 'CUENTO' ;; 'LIBRO-ALBUM' ;; 'NARRATIVA' ;; 'CUENTOS INFANTILES' ;; 'LITERATURA SUDAFRICANA | 978-950-557-889-4
 ###
 005147 | Boetto, Aldo | El maravilloso libro de cuentos de hechizos y encantamientos | Buenos Aires | Atlántida | 2013 | LITERATURA INFANTIL' ;; 'NARRATIVA INFANTIL' ;; 'CUENTO' ;; 'LIBRO-ALBUM' ;; 'NARRATIVA' ;; 'CUENTOS INFANTILES' ;; 'LITERATURA ARGENTINA | 978-95-08-4178-8
 ###
@@ -10625,7 +10625,7 @@
 ###
 005623 | No, Laura | Ludópolis, la ciudad de los juguetes | San Isidro | Estrada | 2013 | LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'CUENTOS' ;; 'CUENTOS CON ANIMALES' ;; 'CUENTOS DE AVENTURAS' ;; 'CUENTOS DE CIENCIA FICCION | 978-950-01-1535-3
 ###
-005622', '005264 | Gravett, Emely | Lobos | San Isidro | Macmillan | 2013 | LITERATURA INGLESA' ;; 'LITERATURA INFANTIL' ;; 'TEXTOS NARRATIVOS' ;; 'CUENTOS CON ANIMALES' ;; 'LIBRO-ALBUM | 978-987-672-181-3
+005622', '005264 | Gravett, Emily | Lobos | San Isidro | Macmillan | 2013 | LITERATURA INGLESA' ;; 'LITERATURA INFANTIL' ;; 'TEXTOS NARRATIVOS' ;; 'CUENTOS CON ANIMALES' ;; 'LIBRO-ALBUM | 978-987-672-181-3
 ###
 005641 | Grimm, Jakob Ludwig | Los doce cazadores | Buenos Aires | Además | 2013 | LITERATURA' ;; 'LITERATURA INFANTIL' ;; 'CUENTOS' ;; 'CUENTOS CLASICOS | 978-987-23530-7-0
 ###
@@ -10967,7 +10967,7 @@
 ###
 005673 | Janisch, Heinz | Cuando Ana tiene miedo | Buenos Aires | Edelvives | 2012 | LITERATURA INFANTIL' ;; 'NARRATIVA INFANTIL' ;; 'CUENTO' ;; 'LIBRO-ALBUM' ;; 'NARRATIVA | 978-987-642-203-1
 ###
-005686', '008435', '005081 | Bodoc, Liliana | La mejor luna | Buenos Aires | Norma | 2013 | LITERATURA ARGENTINA' ;; 'LITERATURA INFANTIL' ;; 'LIBRO-ALBUM' ;; 'NARRATIVA' ;; 'NARRATIVA INFANTIL | 978-987-545-626-6
+005686', '008435', '005081', '006165 | Bodoc, Liliana | La mejor luna | Buenos Aires | Norma | 2013 | LITERATURA ARGENTINA' ;; 'LITERATURA INFANTIL' ;; 'LIBRO-ALBUM' ;; 'NARRATIVA' ;; 'NARRATIVA INFANTIL | 978-987-545-626-6
 ###
 005994 |  | Nos miramos | Buenos Aires | A-Z | 2013 | LITERATURA INFANTIL' ;; 'LITERATURA ARGENTINA' ;; 'LIBRO-ALBUM' ;; 'TRABALENGUAS | 978-987-35-0152-4
 ###
@@ -11165,7 +11165,7 @@
 ###
 006184', '001539 | Blanco, Jorge | Geografía mundial contemporánea | Buenos Aires | Aique | 2007 | GEOGRAFIA' ;; 'ENSENANZA' ;; 'LIBROS DE TEXTO' ;; 'GLOBALIZACION | 978-950-701-527-2
 ###
-006185', '002689', '002459 | Blanco, Jorge | Geografía mundial contemporánea | Buenos Aires | Aique  | 2007 | GEOGRAFIA' ;; 'ENSENANZA' ;; 'LIBROS DE TEXTO | 978-950-701-528-0
+006185', '001007', '001540 | Blanco, Jorge | Geografía mundial contemporánea | Buenos Aires | Aique  | 2007 | GEOGRAFIA' ;; 'ENSENANZA' ;; 'LIBROS DE TEXTO | 978-950-701-528-0
 ###
 006122 | Pigna, Felipe | Los mitos de la historia argentina 5 | Buenos Aires | Planeta | 2013 | HISTORIA ARGENTINA' ;; 'BIBLIOGRAFIA | 978-950-49-3211-6
 ###
@@ -11553,7 +11553,7 @@
 ###
 006440 |  | Enciclopedia de la Psicología Océano. Tomo 1 | España | Océano  | 19?? | PSICOLOGIA' ;; 'FAMILIA (UNIDAD SOCIOLOGICA)' ;; 'PSICOLOGIA EVOLUTIVA' ;; 'DESARROLLO DEL NINO' ;; 'ROL DEL PADRE' ;; 'ETAPAS DEL DESARROLLO' ;; 'LENGUAJE' ;; 'SALUD MENTAL | 84-7069-125-2
 ###
-006359 | Vazquez de Tapia, Nelly | Matemática 1 | Buenos Aires | Estrada | 1993 | MATEMATICAS' ;; 'LIBROS DE TEXTO' ;; 'TEORIA DE CONJUNTO' ;; 'NUMERACION' ;; 'SUMA' ;; 'RESTA' ;; 'ADICCION' ;; 'DIVISION' ;; 'POTENCIA' ;; 'RADICACION' ;; 'GEOMETRIA' ;; 'DIVISORES' ;; 'FRACCIONES | 
+006359 | Tapia, Nelly | Matemática 1 | Buenos Aires | Estrada | 1993 | MATEMATICAS' ;; 'LIBROS DE TEXTO' ;; 'TEORIA DE CONJUNTO' ;; 'NUMERACION' ;; 'SUMA' ;; 'RESTA' ;; 'ADICCION' ;; 'DIVISION' ;; 'POTENCIA' ;; 'RADICACION' ;; 'GEOMETRIA' ;; 'DIVISORES' ;; 'FRACCIONES | 
 ###
 006356 |  | Enciclopedia de la Psicología Océano. Tomo 5 | España | Océano  | 19?? | PSICOLOGIA' ;; 'APRENDIZAJE' ;; 'CONDUCTA' ;; 'PERSONALIDAD' ;; 'INTELIGENCIA' ;; 'MITOS' ;; 'FUNCIONALISMO' ;; 'CONDUCTISMO' ;; 'INCONSCIENTE' ;; 'NEUROSIS' ;; 'TEORIAS PSICOLOGICAS' ;; 'TESTS' ;; 'PSICODIAGNOSTICO' ;; 'PSICOMETRIA' ;; 'PSICOANALISIS | 84-7069-140-6
 ###
@@ -11611,7 +11611,7 @@
 ###
 012772 | Brooks, Sue | Atlas de la tierra | Buenos Aires | Sigmar | 1993 | TIERRA | 950-11-0916-X
 ###
-102802 | Steele, Philip | Atlas de los pueblos | Buenos Aires | Sigmar | 1993 | ATLAS | 950-11-0917-8
+012802 | Steele, Philip | Atlas de los pueblos | Buenos Aires | Sigmar | 1993 | ATLAS | 950-11-0917-8
 ###
 006402 |  | Esperando al Doctor | Buenos Aires | Arte gràfico argentino | 1994 | MEDICINA | 950-782-018-3
 ###
@@ -12283,7 +12283,7 @@ CD128 |  | Grandes biografías de los 200 años: José de San Martín | Buenos Aires
 ###
 911232 |  | 12 (ntes) |  |  |  |  | 
 ###
-006469', '007539 | Murugarren, Miguel | Animalario universal del profesor Revillod | México | FCE | 2003 | LITERATURA' ;; 'LITERATURA INFANTIL' ;; 'ORALIDAD' ;; 'IMPRENTA | 986-16-7048-5
+007539', '007899 | Murugarren, Miguel | Animalario universal del profesor Revillod | México | FCE | 2003 | LITERATURA' ;; 'LITERATURA INFANTIL' ;; 'ORALIDAD' ;; 'IMPRENTA | 986-16-7048-5
 ###
 006477 | Doumerc, Beatriz | La línea | Buenos Aires | Ediciones del Eclipse | 2007 | LITERATURA' ;; 'LITERATURA INFANTIL' ;; 'CUENTOS' ;; 'NARRATIVA' ;; 'IMPRENTA' ;; 'LIBRO-ALBUM | 978-987-9011-58-4
 ###
@@ -12525,7 +12525,7 @@ CD241 |  | Colección Zamba |  |  |  | SAN MARTIN' ;; 'INDEPENDENCIA' ;; 'ISLAS M
 ###
 006506 | Recalde, Héctor E. | Historia social de América Latina | Buenos Aires | Aula Taller | 2008 | HISTORIA' ;; 'HISTORIA SOCIAL' ;; 'HISTORIA DE AMERICA' ;; 'PUEBLOS AMERICANOS' ;; 'CULTURA' ;; 'ABORIGENES AMERICANOS' ;; 'EUROPA' ;; 'IMPERIO OTOMANO' ;; 'CONQUISTA AMERICA' ;; 'IGLESIA' ;; 'IDEOLOGIAS' ;; 'DEMOGRAFIA' ;; 'POBLACION ABORIGEN' ;; 'SALUD' ;; 'ESCLAVITUD' ;; 'GOBIERNO COLONIAL' ;; 'ECONOMIA COLONIAL' ;; 'MINERIA' ;; 'AGRICULTURA' ;; 'INDUSTRIA' ;; 'SIGLO DIECIOCHO' ;; 'REVOLUCION NORTEAMERICANA' ;; 'REVOLUCION FRANCESA' ;; 'REVOLUCION INDUSTRIAL' ;; 'REVOLUCIONES LATINOAMERICANAS | 978-987-1086-35-1
 ###
-006606', '006607 |  | Manual 6 | Buenos Aires | Tinta Fresca | 2006 | CIENCIAS NATURALES' ;; 'CIENCIAS SOCIALES' ;; 'LENGUA' ;; 'MATEMATICAS' ;; 'LIBROS DE TEXTO' ;; 'GEOGRAFIA' ;; 'TIERRA' ;; 'ORGANIZACION POLITICA' ;; 'POBLACION' ;; 'RECURSOS NATURALES' ;; 'HISTORIA' ;; 'ORGANIZACION NACIONAL' ;; 'RADICALISMO' ;; 'DICTADURA MILITAR' ;; 'UNIVERSO' ;; 'AIRE' ;; 'ATMOSFERA' ;; 'SERES VIVOS' ;; 'SENTIDOS' ;; 'REPRODUCCION HUMANA' ;; 'SALUD' ;; 'MATERIALES' ;; 'ENERGIAS' ;; 'SALUD' ;; 'TEXTOS' ;; 'MATEMATICA' ;; 'NUMERACION' ;; 'FRACCIONES' ;; 'GEOMETRIA' ;; 'MEDIDAS | 987-576-091-1
+006607 |  | Manual 6 | Buenos Aires | Tinta Fresca | 2006 | CIENCIAS NATURALES' ;; 'CIENCIAS SOCIALES' ;; 'LENGUA' ;; 'MATEMATICAS' ;; 'LIBROS DE TEXTO' ;; 'GEOGRAFIA' ;; 'TIERRA' ;; 'ORGANIZACION POLITICA' ;; 'POBLACION' ;; 'RECURSOS NATURALES' ;; 'HISTORIA' ;; 'ORGANIZACION NACIONAL' ;; 'RADICALISMO' ;; 'DICTADURA MILITAR' ;; 'UNIVERSO' ;; 'AIRE' ;; 'ATMOSFERA' ;; 'SERES VIVOS' ;; 'SENTIDOS' ;; 'REPRODUCCION HUMANA' ;; 'SALUD' ;; 'MATERIALES' ;; 'ENERGIAS' ;; 'SALUD' ;; 'TEXTOS' ;; 'MATEMATICA' ;; 'NUMERACION' ;; 'FRACCIONES' ;; 'GEOMETRIA' ;; 'MEDIDAS | 987-576-091-1
 ###
 006614 |  | Geografía.G2 | Buenos Aires | Tinta Fresca | 2006 | GEOGRAFIA' ;; 'CLIMA' ;; 'SUELOS' ;; 'MORFOLOGIA (GEO)' ;; 'POBLACION' ;; 'POBLACION RURAL' ;; 'POBLACION URBANA' ;; 'AGRICULTURA' ;; 'RECURSOS NATURALES' ;; 'TURISMO' ;; 'ENERGIA' ;; 'ECONOMIA' ;; 'COMERCIO' ;; 'INDUSTRIALIZACION' ;; 'AMBIENTE FISICO' ;; 'REGIONALIZACION' ;; 'ABORIGENES ARGENTINOS | 978-987-576-072-1
 ###
@@ -12561,7 +12561,7 @@ CD241 |  | Colección Zamba |  |  |  | SAN MARTIN' ;; 'INDEPENDENCIA' ;; 'ISLAS M
 ###
 006611 |  | Ciencias naturales 8. EGB 3 | Buenos Aires | Tinta Fresca | 2005 | CIENCIAS NATURALES' ;; 'FICHAS ESCOLARES | 
 ###
-001019 |  | Ensayo | Trelew | Impresora Sur S.A. | 1983 | LITERATURA' ;; 'CHUBUT | 
+001019', '000182 |  | Ensayo | Trelew | Impresora Sur S.A. | 1983 | LITERATURA' ;; 'CHUBUT | 
 ###
 006688 |  | Matemática. M1 | Buenos Aires | Tinta Fresca | 2006 | LIBROS DE TEXTO' ;; 'ACTIVIDADES' ;; 'MATEMATICAS' ;; 'NUMERO' ;; 'NUMERACION' ;; 'FUNCIONES' ;; 'FUNCIONES (LINEALES)' ;; 'ECUACIONES' ;; 'ECUACIONES LINEALES' ;; 'ESTADISTICAS' ;; 'ARITMETICA' ;; 'TRIGONOMETRIA' ;; 'GEOMETRIA | 978-987-576-079-X
 ###
@@ -12665,7 +12665,7 @@ CD241 |  | Colección Zamba |  |  |  | SAN MARTIN' ;; 'INDEPENDENCIA' ;; 'ISLAS M
 ###
 006675 | Channing, Margot | Las horas de los ositos | Ciudad Autónoma de Buenos Aires | Artemisa | 2012 | MAYUSCULA' ;; 'LITERATURA INFANTIL' ;; 'ENSENANZA | 978-987-1707-85-0
 ###
-006668', '008746 | Pujato, Beatriz | El ABC de la alfabetización | Rosario | Homo Sapiens Ediciones | 2012 | ENSENANZA DE LA LECTURA' ;; 'ENSENANZA DE LA ESCRITURA' ;; 'ALFABETIZACION' ;; 'DIDACTICA' ;; 'ACTIVIDADES DE ENSENANZA' ;; 'METODOS DE ENSENANZA' ;; 'LINGUISTICA' ;; 'LECTURA' ;; 'ESCRITURA' ;; 'ENSENANZA DE LA LENGUA' ;; 'ESTRATEGIAS EDUCACIONALES' ;; 'PROCESOS DE ESCRITURA' ;; 'PROYECTOS | 978-950-808-578-8
+006668 | Pujato, Beatriz | El ABC de la alfabetización | Rosario | Homo Sapiens Ediciones | 2012 | ENSENANZA DE LA LECTURA' ;; 'ENSENANZA DE LA ESCRITURA' ;; 'ALFABETIZACION' ;; 'DIDACTICA' ;; 'ACTIVIDADES DE ENSENANZA' ;; 'METODOS DE ENSENANZA' ;; 'LINGUISTICA' ;; 'LECTURA' ;; 'ESCRITURA' ;; 'ENSENANZA DE LA LENGUA' ;; 'ESTRATEGIAS EDUCACIONALES' ;; 'PROCESOS DE ESCRITURA' ;; 'PROYECTOS | 978-950-808-578-8
 ###
 006672 | Paglieta, Silvia |  Construyendo lectores | Montevideo ( República Oriental del Uruguay) | Concepto | 2011 | PEDAGOGIA' ;; 'PROMOCION DE LA LECTURA' ;; 'HERRAMIENTAS DIDACTICAS' ;; 'LITERATURA' ;; 'EXPERIENCIAS PEDAGOGICAS' ;; 'LECTURA | 978-9974-690-96-7
 ###
@@ -13017,7 +13017,7 @@ CD241 |  | Colección Zamba |  |  |  | SAN MARTIN' ;; 'INDEPENDENCIA' ;; 'ISLAS M
 ###
 006963 |  | Matemáticas en la escuela primaria I | Buenos Aires | Paidós | 2013 | ENSENANZA DE LA MATEMATICA' ;; 'EDUCACION PRIMARIA' ;; 'OPERACIONES MATEMATICAS' ;; 'ALGEBRA' ;; 'RECURSOS DIDACTICOS' ;; 'NECESIDADES EDUCATIVAS ESPECIALES' ;; 'INVESTIGACION' ;; 'NUMEROS' ;; 'MATEMATICA' ;; 'EDUCACION DE ADULTOS' ;; 'SISTEMA MONETARIO' ;; 'EDUCACION INICIAL | 978-950-12-6165-3
 ###
-006967 |  | Dilemas del Bullying: de la urgencia a la oportunidad | Buenos Aires  | Centro de publicaciones educativas y material didactico | 2015 | VIOLENCIA' ;; 'RELACIONES ENTRE PARES' ;; 'RELACIONES ENTRE GRUPOS' ;; 'VALORES' ;; 'HOMOFOBIA' ;; 'DISCRIMINACION' ;; 'DINAMICA DE GRUPO' ;; 'MEDIACION' ;; 'XENOFOBIA' ;; 'RACISMO [COMPORTAMIENTO]' ;; 'BIOGRAFIAS' ;; 'BULLYING | 978-987-538-428-6
+006967', '009529 |  | Dilemas del Bullying: de la urgencia a la oportunidad | Buenos Aires  | Centro de publicaciones educativas y material didactico | 2015 | VIOLENCIA' ;; 'RELACIONES ENTRE PARES' ;; 'RELACIONES ENTRE GRUPOS' ;; 'VALORES' ;; 'HOMOFOBIA' ;; 'DISCRIMINACION' ;; 'DINAMICA DE GRUPO' ;; 'MEDIACION' ;; 'XENOFOBIA' ;; 'RACISMO [COMPORTAMIENTO]' ;; 'BIOGRAFIAS' ;; 'BULLYING | 978-987-538-428-6
 ###
 006962 | Brailovsky, Antonio Elio | Proyectos de educación ambiental: la utopía en la escuela | Ciudad Autónoma de Buenos Aires | Centro de publicaciones educativas y material didáctico | 2014 | EDUCACION AMBIENTAL' ;; 'GESTION AMBIENTAL' ;; 'ACTIVIDADES' ;; 'ECOLOGIA' ;; 'CAMBIOS CLIMATICOS' ;; 'RESIDUOS' ;; 'PROYECTOS AMBIENTALES' ;; 'EDUCACION INICIAL' ;; 'EDUCACION PRIMARIA' ;; 'EDUCACION SUPERIOR' ;; 'UTOPIAS  | 978-987-538-418-7
 ###
@@ -13511,7 +13511,7 @@ CD241 |  | Colección Zamba |  |  |  | SAN MARTIN' ;; 'INDEPENDENCIA' ;; 'ISLAS M
 ###
 004491 |  | Cuentos de ciencia ficción | Boulogne | Estrada | 2014 | LITERATURA INFANTIL' ;; 'ANTOLOGIA LITERARIA' ;; 'CUENTOS' ;; 'LITERATURA JUVENIL' ;; 'CIENCIA FICCION | 978-950-01-1647-3
 ###
-007320', '004486 | Sierra i Fabra, Jordi | La biblioteca de los libros vacíos | Ciudad Autónoma de Buenos Aires | Distribuidora Alberto Luongo | 2014 | LITERATURA' ;; 'LITERATURA INFANTIL' ;; 'NOVELA' ;; 'LITERATURA DE ESPANA' ;; 'LITERATURA JUVENIL | 978-987-29036-6-4
+007320', '004486 | Sierra i Fabra, Jordi | La biblioteca de los libros vacios | Ciudad Autónoma de Buenos Aires | Distribuidora Alberto Luongo | 2014 | LITERATURA' ;; 'LITERATURA INFANTIL' ;; 'NOVELA' ;; 'LITERATURA DE ESPANA' ;; 'LITERATURA JUVENIL | 978-987-29036-6-4
 ###
 007322', '004494 | Averbach, Márgara | Puente | Córdoba | Comunic-Arte | 2014 | LITERATURA JUVENIL' ;; 'NARRATIVA ARGENTINA' ;; 'NOVELA | 978-987-602-307-8
 ###
@@ -13997,7 +13997,7 @@ CD241 |  | Colección Zamba |  |  |  | SAN MARTIN' ;; 'INDEPENDENCIA' ;; 'ISLAS M
 ###
 006788 | Salinger, J. D. | Nueve cuentos | Buenos Aires | Edhasa | 2007 | LITERATURA' ;; 'CUENTOS' ;; 'LITERATURA DE ESTADOS UNIDOS' ;; 'NARRATIVA | 978-950-9009-05-9
 ###
-006792', '008621 | Bernasconi, Pablo | El diario del capitán Arsenio | Buenos Aires | Sudamericana | 2013 | LITERATURA INFANTIL' ;; 'NARRATIVA' ;; 'NARRATIVA ARGENTINA' ;; 'CUENTO | 978-950-07-4206-1
+008621 | Bernasconi, Pablo | El diario del capitán Arsenio | Buenos Aires | Sudamericana | 2013 | LITERATURA INFANTIL' ;; 'NARRATIVA' ;; 'NARRATIVA ARGENTINA' ;; 'CUENTO | 978-950-07-4206-1
 ###
 006796', '009492 | Breccia, Alberto | Perramus | Buenos Aires | De la Flor | 2013 | LITERATURA' ;; 'HISTORIETAS' ;; 'BIOGRAFIA | 978-950-515-977-2
 ###
@@ -14175,9 +14175,9 @@ CD241 |  | Colección Zamba |  |  |  | SAN MARTIN' ;; 'INDEPENDENCIA' ;; 'ISLAS M
 ###
 007586 | Jusid, Ana | Cuadernos de la semilla | Buenos Aires | Marea |  | LITERATURA' ;; 'CRONICAS' ;; 'NARRATIVA' ;; 'RELATOS' ;; 'EMBARAZO' ;; 'ADOLESCENTES | 978-987-1307-20-3
 ###
-007619 |  | Temas de arte 1 | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2015 | ARTE' ;; 'TECNOLOGIA' ;; 'MEMORIA [HISTORIA]' ;; 'ARTE ARGENTINO' ;; 'ARTE LATINOAMERICANO | 978-950-00-1102-0
+007619', '007922 |  | Temas de arte 1 | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2015 | ARTE' ;; 'TECNOLOGIA' ;; 'MEMORIA [HISTORIA]' ;; 'ARTE ARGENTINO' ;; 'ARTE LATINOAMERICANO | 978-950-00-1102-0
 ###
-007620 |  | Temas de arte 2 | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2015 | ARTE' ;; 'TECNOLOGIA' ;; 'MEMORIA [HISTORIA]' ;; 'ARTE ARGENTINO' ;; 'ARTE LATINOAMERICANO | 978-950-00-1102-0
+007620', '007924 |  | Temas de arte 2 | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2015 | ARTE' ;; 'TECNOLOGIA' ;; 'MEMORIA [HISTORIA]' ;; 'ARTE ARGENTINO' ;; 'ARTE LATINOAMERICANO | 978-950-00-1102-0
 ###
 007618', '004586 |  | Acompañamiento a escuelas | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2015 | POLITICA EDUCATIVA' ;; 'CALIDAD DE LA EDUCACION' ;; 'INCLUSION' ;; 'MODELO DE ACOMPANAMIENTO' ;; 'POLITICA SOCIOEDUCATIVA' ;; 'ADOLESCENCIA' ;; 'VULNERABILIDAD' ;; 'NIVEL SECUNDARIO' ;; 'NIVEL INICIAL' ;; 'EDUCACION OBLIGATORIA | 978-950-00-1103-7
 ###
@@ -14321,7 +14321,7 @@ CD241 |  | Colección Zamba |  |  |  | SAN MARTIN' ;; 'INDEPENDENCIA' ;; 'ISLAS M
 ###
 007753', '007754', '007755', '007756', '007757', '007758', '007759', '007760', '007761', '006566', '007348', '007317 | Aguirre, Sergio | El misterio de Crantock | Ciudad Autónoma de Buenos Aires | Grupo Editorial Norma | 2014 | LITERATURA JUVENIL' ;; 'NARRATIVA' ;; 'LITERATURA ARGENTINA' ;; 'NARRATIVA ARGENTINA | 978-987-545-663-1
 ###
-007771', '007772', '007773', '007774', '007775', '007776', '007777', '007778', '007779', '007780 | Oesterheld, Héctor Germán | El Eternauta y otras historias | Buenos Aires | Colihue | 2014 | LITERATURA DE ARGENTINA' ;; 'CIENCIA FICCION' ;; 'LITERATURA CONTEMPORANEA' ;; 'HISTORIETAS | 978-987-684-827-5
+007772', '007773', '007774', '007775', '007776', '007777', '007778', '007779', '007780', '007456 | Oesterheld, Héctor Germán | El Eternauta y otras historias | Buenos Aires | Colihue | 2014 | LITERATURA DE ARGENTINA' ;; 'CIENCIA FICCION' ;; 'LITERATURA CONTEMPORANEA' ;; 'HISTORIETAS | 978-987-684-827-5
 ###
 007791', '007792', '007793', '007794', '007795', '007796', '007797', '007798', '007799', '007800 | Siemens, Sandra | El grito | Buenos Aires | Colihue | 2014 | LITERATURA ARGENTINA' ;; 'CONTEMPORANEA' ;; 'NOVELA | 978-987-684-837-4
 ###
@@ -14505,7 +14505,7 @@ CD241 |  | Colección Zamba |  |  |  | SAN MARTIN' ;; 'INDEPENDENCIA' ;; 'ISLAS M
 ###
 007923', '004593', '004592 |  | Escuelas por el cambio | Buenos Aires | Granica | 2007 | EDUCACION PRIMARIA' ;; 'PLANIFICACION DE LA EDUCACION' ;; 'ESCUELAS PRIMARIAS' ;; 'PLAN DE ESTUDIOS' ;; 'EVALUACION' ;; 'MODELOS-ENCUESTAS ESCOLARES | 978-950-641-432-0
 ###
-007883 | Chanti | Las aventuras de Facu y Cafë con Leche | Buenos Aires | Sudamericana | 2014 | HUMOR GRAFICO' ;; 'HISTORIETAS' ;; 'LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'LITERATURA ARGENTINA | 978-950-07-4699-1
+007883 | Chanti | Las aventuras de Facu y Cafë con Leche 3 | Buenos Aires | Sudamericana | 2014 | HUMOR GRAFICO' ;; 'HISTORIETAS' ;; 'LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'LITERATURA ARGENTINA | 978-950-07-4699-1
 ###
 007916 | Cuetos Vega, Fernando | Psicología de la escritura | España | Wolters Kluwer España | 2009 |  APRENDIZAJE DE LA ESCRITURA' ;; 'ENSENANZA DE LA ESCRITURA' ;; 'SISTEMA DE ESCRITURA' ;; 'LECTOESCRITURA' ;; 'ESTRUCTURAS SINTACTICAS' ;; 'NEUROLOGIA' ;; 'TRASTORNOS DE ESCRITURA' ;; 'DISGRAFIA' ;; 'RETRASO EN LA ESCRITURA' ;; 'DISGRAFIA' ;; 'PSICOLOGIA DE LA ESCRITURA' ;; 'TESTS ESCRITURA' ;; 'CEREBRO | 978-84-7197-916-2
 ###
@@ -14513,7 +14513,7 @@ CD241 |  | Colección Zamba |  |  |  | SAN MARTIN' ;; 'INDEPENDENCIA' ;; 'ISLAS M
 ###
 007928 | Dahl, Roald | Las brujas | Buenos Aires | Aguilar, Altea, Taurus, Alfaguara | 2009 | NARRATIVA INFANTIL' ;; 'LITERATURA INGLESA' ;; 'NOVELA CORTA' ;; 'NARRATIVA JUVENIL' ;; 'LITERATURA' ;; 'LITERATURA JUVENIL' ;; 'LITERATURA INFANTIL | 978-987-04-0133-9
 ###
-007930 |  | Murales que hablan | Buenos Aires | Ministerio de Educació, Ciencia y Tecnología de la Nación | 2008 | ARTE' ;; 'MURALES' ;; 'CATALOGO' ;; 'PINTURAS' ;; 'POLITICAS PUBLICAS' ;; 'OBRAS DE ARTE' ;; 'PLASTICA | 978-950-00-0681-1
+007930', '009531 |  | Murales que hablan | Buenos Aires | Ministerio de Educació, Ciencia y Tecnología de la Nación | 2008 | ARTE' ;; 'MURALES' ;; 'CATALOGO' ;; 'PINTURAS' ;; 'POLITICAS PUBLICAS' ;; 'OBRAS DE ARTE' ;; 'PLASTICA | 978-950-00-0681-1
 ###
 007950 | Cuentos Vega, Fernando | Psicología de la lectura | España | Wolters Kluwer España, S.A. | 2010 | SISTEMA DE LECTURA' ;; 'LECTOESCRITURA' ;; 'NEUROCIENCIAS' ;; 'LECTURA COMPRENSIVA' ;; 'LEXICO' ;; 'SINTAXIS' ;; 'RETRASO EN LA LECTURA' ;; 'DISLEXIA' ;; 'APRENDIZAJE DE LA LECTURA' ;; 'METODOS DE ENSENANZA' ;; 'TESTS' ;; 'AFASIA' ;; 'DIASQUISIS' ;; 'PERCEPCION VISUAL' ;; 'GRAFEMA' ;; 'FONEMA | 978-84-7197-900-1
 ###
@@ -14681,7 +14681,7 @@ CD241 |  | Colección Zamba |  |  |  | SAN MARTIN' ;; 'INDEPENDENCIA' ;; 'ISLAS M
 ###
 007984 | Fernández, paula | El cumpleaños de Mona Lisa | Ciudad Autónoma de Buenos Aires | Arte a Babor | 2015 | ARTE' ;; 'ARTES VISUALES' ;; 'PINTURA' ;; 'ARTES PLASTICAS' ;; 'NARRATIVA' ;; 'ARTES PARA NINOS' ;; 'LIBRO-ALBUM | 978-987-29025-6-8
 ###
-007881 | Roldan, Gustavo | El vuelo del sapo | Buenos Aires | Ministerio de Educación de la Nación | 2005 | LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'CUENTOS | 
+007881', '008685', '008686 | Roldan, Gustavo | El vuelo del sapo | Buenos Aires | Ministerio de Educación de la Nación | 2012 | LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'CUENTOS | 
 ###
 007978 | Oram, Hiawyn | En el desván | Ciudad Autónoma de Buenos Aires | Fondo de Cultura Económica | 2015 | LITERATURA INFANTIL' ;; 'NARRATIVA INFANTIL' ;; 'CUENTO' ;; 'LIBRO-ALBUM' ;; 'NARRATIVA' ;; 'CUENTOS INFANTILES' ;; 'LITERATURA SUDAFRICANA | 978-950-557-889-4
 ###
@@ -14723,19 +14723,19 @@ CD241 |  | Colección Zamba |  |  |  | SAN MARTIN' ;; 'INDEPENDENCIA' ;; 'ISLAS M
 ###
 007995 | Brasseur, Philippe | El pequeño libro rojo | Mexico  | Oceano | 2011 | NARRATIVA INFANTIL | 978-607-400-305-5
 ###
-007880 | Mariño, Ricardo | Los cuatro increibles | Buenos Aires | Ministerio  de Educación de la Nación | 2012 | LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'CUENTOS | 
+007880', '008687 | Mariño, Ricardo | Los cuatro increibles | Buenos Aires | Ministerio  de Educación de la Nación | 2012 | LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'CUENTOS | 
 ###
-007875 | Devetach, Laura | La planta de Bartolo | Buenos Aires | Ministerio de Educación de la Nación | 2012 | LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'CUENTOS | 
+007875', '008693 | Devetach, Laura | La planta de Bartolo | Buenos Aires | Ministerio de Educación de la Nación | 2012 | LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'CUENTOS | 
 ###
-007874 | Califa, Oche | Cuentos para los más chicos | Buenos Aires | Ministerio de Educación de la Nación | 2012 | LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'CUENTOS | 
+007874', '008689 | Califa, Oche | Cuentos para los más chicos | Buenos Aires | Ministerio de Educación de la Nación | 2012 | LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'CUENTOS | 
 ###
-007879 | Schujer, Silvia | El esqueleto de la biblioteca | Buenos Aires | Ministerio de Educación de la Nación | 2012 | LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'CUENTOS | 
+007879', '008678 | Schujer, Silvia | El esqueleto de la biblioteca | Buenos Aires | Ministerio de Educación de la Nación | 2012 | LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'CUENTOS | 
 ###
 007873 | Basch, Adela | El reglamento es el reglamento | Buenos Aires | Ministerio de Educación de la Nación | 2012 | LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'CUENTOS | 
 ###
 007872 | Repún, Graciela | Leyenda del otoño y el loro | Buenos Aires | Ministerio de Educación de la Nación | 2012 | LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'CUENTOS | 
 ###
-007871 | Bornemann, Elsa | Un elefante ocupa mucho espacio | Buenos Aires | Ministerio de Educación de la Nacion | 2012 | LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'CUENTOS | 
+008692', '008677 | Bornemann, Elsa | Un elefante ocupa mucho espacio | Buenos Aires | Ministerio de Educación de la Nacion | 2012 | LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'CUENTOS | 
 ###
 008043 | Kasza, keiko | Choco encuentra una mama | Buenos Aires | Norma | 2015 | LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'CUENTOS CON ANIMALES | 978-958-04-9392-1
 ###
@@ -14771,7 +14771,7 @@ CD241 |  | Colección Zamba |  |  |  | SAN MARTIN' ;; 'INDEPENDENCIA' ;; 'ISLAS M
 ###
 007849 | Sáez, Gabriel | Cuatro descubridores y un conejo | México | Fondo de Cultura Económica | 2001 | LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'CUENTOS | 968-16-6318-7
 ###
-007852 | Mozart, Wolfgang Amadeus | La flauta mágica | Buenos Aires | Atlántida | 2006 | LITERATURA JUVENIL' ;; 'LITERATURA INFANTIL' ;; 'CUENTOS | 950-08-3005-1
+007852 | Mozart, Wolfgang Amadeus | La flauta mágica- Sueño de una noche de verano | Buenos Aires | Atlántida | 2006 | LITERATURA JUVENIL' ;; 'LITERATURA INFANTIL' ;; 'CUENTOS | 950-08-3005-1
 ###
 007857 | Bradbury, Ray | La bruja de abril y otros cuentos | Buenos Aires | SM | 2005 | LITERATURA JUVENIL' ;; 'LITERATURA INFANTIL' ;; 'CUENTOS | 84-348-8588-3
 ###
@@ -15295,7 +15295,7 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 004342 | Cía, Alfredo Horacio | Trastorno de ansiedad social | Buenos Aires | el autor | 2008 | ANSIEDAD' ;; 'ANGUSTIA' ;; 'MIEDO' ;; 'NEUROSIS' ;; 'CASOS PSICOANALITICOS' ;; 'FOBIAS' ;; 'NEUROBIOLOGIA | 978-987-05-5498-1
 ###
-005280', '006636 |  | Cuentos + cuentos | Buenos Aires | Letra Impresa Grupo Editor | 2013 | LITERATURA UNIVERSAL' ;; 'LITERATURA JUVENIL' ;; 'ANTOLOGIA' ;; 'CUENTOS FANTASTICOS' ;; 'ACTIVIDADES DE APRENDIZAJE' ;; 'CUENTOS REALISTAS' ;; 'CUENTOS DE CIENCIA FICCION | 978-987-1565-43-6
+005280 |  | Cuentos + cuentos | Buenos Aires | Letra Impresa Grupo Editor | 2013 | LITERATURA UNIVERSAL' ;; 'LITERATURA JUVENIL' ;; 'ANTOLOGIA' ;; 'CUENTOS FANTASTICOS' ;; 'ACTIVIDADES DE APRENDIZAJE' ;; 'CUENTOS REALISTAS' ;; 'CUENTOS DE CIENCIA FICCION | 978-987-1565-43-6
 ###
 005281 | Martin, George | El caballero de los siete reinos | Buenos Aires | P y J | 2015 | LITERATURA ESTADOUNIDENSE' ;; 'NOVELAS' ;; 'CIENCIA FICCION' ;; 'AVENTURAS' ;; 'FANTASIA' ;; 'NARRATIVA | 978-950-644-661-3
 ###
@@ -15763,7 +15763,7 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 004409', '004408', '009221 |  | Grandes pensadores | Buenos Aires | Papers  | 2005 | HISTORIA DE LA EDUCACION' ;; 'PEDAGOGIA' ;; 'PEDAGOGOS' ;; 'REALISMO' ;; 'IDEALISMO' ;; 'MARCOS TEORICOS' ;; 'TEORIA DE LA EDUCACION' ;; 'PRACTICA PEDAGOGICA' ;; 'ORGANIZACION DE LA ENSENANZA' ;; 'SISTEMA EDUCATIVO' ;; 'CONTENIDO DE LOS LIBROS DE TEXTO' ;; 'FORMACION DE DOCENTES | 987-1274-00-9
 ###
-004415 |  | Diseño argentino | Buenos Aires | Papers | 2007 | DISENO' ;; 'ARTE ARGENTINO' ;; 'CREATIVIDAD' ;; 'INDUSTRIA' ;; 'FOTOGRAFIAS' ;; 'ARTISTAS' ;; 'BIOGRAFIAS | 978-987-1274-07-9
+004414 |  | Diseño argentino | Buenos Aires | Papers | 2007 | DISENO' ;; 'ARTE ARGENTINO' ;; 'CREATIVIDAD' ;; 'INDUSTRIA' ;; 'FOTOGRAFIAS' ;; 'ARTISTAS' ;; 'BIOGRAFIAS | 978-987-1274-07-9
 ###
 911401 | Gansel, Dennis | La Ola | Buenos Aires, Argentina | Ministerio de educación de la Nación | 2014 | AUTORITARISMO' ;; 'LIDERAZGO | 
 ###
@@ -15831,7 +15831,7 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 004423', '004422', '009222 | Dupuy, Natalia Catalano | 2000-2015 Lo hecho y lo aprendido | Buenos Aires | Papers | 2016 | EDUCACION' ;; 'ESCUELAS' ;; 'ARTE' ;; 'INCLUSION' ;; 'TECNOLOGIA DE LA INFORMACION' ;; 'PRACTICA EDUCATIVA' ;; 'EVALUACION DE PROYECTOS' ;; 'EXPERIENCIA PEDAGOGICA | 987-987-1274-22-2
 ###
-004418', '009217 | Aguerrondo, Inés | Escuelas del futuro en sistemas educativos | Buenos Aires | Papers | 2009 | ESCUELA' ;; 'SISTEMA EDUCATIVO' ;; 'FORMACION DE DOCENTES | 987-20570-11
+004418', '009217', '004419 | Aguerrondo, Inés | Escuelas del futuro en sistemas educativos | Buenos Aires | Papers | 2009 | ESCUELA' ;; 'SISTEMA EDUCATIVO' ;; 'FORMACION DE DOCENTES | 987-20570-11
 ###
 004420', '004421', '009219 |  | Formar docentes : una alternativa multidisciplinar | Buenos Aires | Papers | 2005 | FORMACION DE DOCENTES | 987-220570-9-5
 ###
@@ -15855,13 +15855,13 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 004467 | Bibian, Diego | Gestionar una escuela secundaria posible | Buenos Aires | Noveduc | 2015 | GESTION EDUCATIVA' ;; 'PEDAGOGIA | 978-987-538-446-0
 ###
-004424', '009213', '009214', '003874 | Aguerrondo, Inés | La escuela del futuro I | Buenos Aires  | Papers | 2006 | EDUCACION ARTISTICA' ;; 'METODOS DE ENSENANZA' ;; 'PROGRAMAS DE EDUCACION | 987-98271-6-3
+004424', '009213', '009214', '003874', '001623 | Aguerrondo, Inés | La escuela del futuro I | Buenos Aires  | Papers | 2006 | EDUCACION ARTISTICA' ;; 'METODOS DE ENSENANZA' ;; 'PROGRAMAS DE EDUCACION | 987-98271-6-3
 ###
-004404', '004405', '009215 |  | Cómo planifican las escuelas que innovan | Buenos Aires | Papers | 2006 | PLANIFICACION INSTITUCIONAL' ;; 'ENSENANZA | 987-98271-7-1
+004404', '004405', '009215', '001620 |  | Cómo planifican las escuelas que innovan | Buenos Aires | Papers | 2006 | PLANIFICACION INSTITUCIONAL' ;; 'ENSENANZA | 987-98271-7-1
 ###
 004448', '007273 |  | Historias de una literatura  | Los Polvorines | Universidad Nacional de General Sarmiento | 2015 | LITERATURA' ;; 'ENSENANZA SECUNDARIA | 978-987-630-208-1
 ###
-004406', '004407', '009216 |  | Qué hacen las escuelas que innovan | Buenos Aires | Papers | 2006 | PLANIFICACION INSTITUCIONAL' ;; 'ENSENANZA | 987-98271-8
+004406', '004407', '009216', '001621 |  | Qué hacen las escuelas que innovan | Buenos Aires | Papers | 2006 | PLANIFICACION INSTITUCIONAL' ;; 'ENSENANZA | 987-98271-8
 ###
 004386 |  | Contar lo que nos sucede en la escuela | Buenos Aires | Noveduc | 2017 | INVESTIGACION' ;; 'EDUCACION' ;; 'FORMACION DE DOCENTES' ;; 'DOCENTES' ;; 'DOCUMENTACION SOBRE EDUCACION' ;; 'PEDAGOGIA | 978-987-538-551-1
 ###
@@ -15955,7 +15955,7 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 004570 | Istvansch | La ciudad | Buenos Aires | AZ | 2012 | LITERATURA INFANTIL' ;; 'ARTE' ;; 'ACTIVIDADES PRACTICAS | 978-987-35-0038-1
 ###
-004569 | Avegno, María Cecilia | Los tehuelches | Buenos Aires | Edebé | 2017 | TEHUELCHES' ;; 'PUEBLOS ORIGINARIOS | 978-987-689-142-4
+004569', '009499 | Avegno, María Cecilia | Los tehuelches | Buenos Aires | Edebé | 2017 | TEHUELCHES' ;; 'PUEBLOS ORIGINARIOS | 978-987-689-142-4
 ###
 004568 | Morales, Marina | A la lata, al latero, creo y juego | Buenos Aires | Hola chicos | 2016 | RECICLAJE' ;; 'JUEGO' ;; 'MEDIO AMBIENTE | 978-987-4007-05-6
 ###
@@ -16073,7 +16073,7 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 004637 |  | Convivencia |  | Clasa | 1994 | EDUCACION PARA LA CONVIVENCIA | 950-771-067-1
 ###
-004636 |  | El cuerpo humano  | Buenos Aires | Clasa | 1994 | FISIOLOGIA HUMANA' ;; 'SISTEMA DIGESTIVO' ;; 'SISTEMA ENDOCRINO' ;; 'SISTEMA LINFATICO' ;; 'SISTEMA LOCOMOTOR' ;; 'SISTEMA NERVIOSO' ;; 'SISTEMA RESPIRATORIO' ;; 'SISTEMAS SENSORIALES' ;; 'SISTEMA UROGENITAL | 950-771-061-2
+004636', '008688 |  | El cuerpo humano  | Buenos Aires | Clasa | 1994 | FISIOLOGIA HUMANA' ;; 'SISTEMA DIGESTIVO' ;; 'SISTEMA ENDOCRINO' ;; 'SISTEMA LINFATICO' ;; 'SISTEMA LOCOMOTOR' ;; 'SISTEMA NERVIOSO' ;; 'SISTEMA RESPIRATORIO' ;; 'SISTEMAS SENSORIALES' ;; 'SISTEMA UROGENITAL | 950-771-061-2
 ###
 004638', '009361 | Pigna, Felipe | Mujeres insolentes de la historia 2 | Ciudad Autónoma de Buenos Aires | Emece | 2018 | BIOGRAFIAS' ;; 'MUJERES' ;; 'HISTORIA DE LA MUJER' ;; 'HISTORIA LATINOAMERICANA | 978-950-04-3980-0
 ###
@@ -16161,13 +16161,13 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 007290 |  | GPS + guías para saber más | Buenos Aires | Puerto de palos | 2015 | LIBROS DE TEXTO' ;; 'CIENCIAS SOCIALES | 978-987-547-636-3
 ###
-007291 |  | GPS + guías para saber más | Buenos Aires | Puerto de palos | 2015 | LIBROS DE TEXTO' ;; 'CIENCIAS SOCIALES | 978-987-547-637-0
+007291', '004462 |  | GPS + guías para saber más | Buenos Aires | Puerto de palos | 2015 | LIBROS DE TEXTO' ;; 'CIENCIAS SOCIALES | 978-987-547-637-0
 ###
-007292 |  | GPS + guías para saber más. Ciencias sociales 5 | Buenos Aires | Puerto de palos | 2015 | LIBROS DE TEXTO' ;; 'CIENCIAS SOCIALES | 978-987-547-638-7
+007292', '004559 |  | GPS + guías para saber más. Ciencias sociales 5 | Buenos Aires | Puerto de palos | 2015 | LIBROS DE TEXTO' ;; 'CIENCIAS SOCIALES | 978-987-547-638-7
 ###
 007295 | Maltz, Liliana | Educación sexual integral | Buenos Aires | Novedades educativas | 2018 | EDUCACION EN LA DIVERSIDAD' ;; 'EDUCACION INICIAL' ;; 'ESTUDIOS DE GENERO' ;; 'EDUCACION SEXUAL | 978-987-538-594-8
 ###
-007293 | Benadiba, Laura | Ciencias sociales 6 | Buenos Aires | Edelvives | 2014 | LIBROS DE TEXTO' ;; 'CIENCIAS SOCIALES | 978-987-642-036-5
+007293', '008383 | Benadiba, Laura | Ciencias sociales 6 | Buenos Aires | Edelvives | 2014 | LIBROS DE TEXTO' ;; 'CIENCIAS SOCIALES | 978-987-642-036-5
 ###
 007293', '008383 | Benadiba, Laura | Banco de datos sociales 6 | Buenos Aires | Edelvives | 2014 | LIBROS DE TEXTO' ;; 'CIENCIAS SOCIALES | 978-987-642-036-5
 ###
@@ -16249,7 +16249,7 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 008082 | Perelman, Flora | Herramientas para enseñar a leer y producir en medios digitales | Buenos Aires | Aique | 2014 | ALFABETIZACION | 978-987-06-0635-2
 ###
-008095', '009166 |  | Programa leer para comprender II para 1er, 2° y 3er curso de la escuela secundaria | Buenos Aires | Paidós | 2017 | ACTIVIDADES DE ENSENANZA' ;; 'NIVEL SECUNDARIO' ;; 'DOMINIO DEL IDIOMA' ;; 'USO DEL LENGUAJE' ;; 'ENSENANZA DE LA LECTURA' ;; 'LENGUA' ;; 'CAMPANAS DE ALFABETIZACION | 978-950-12-2920-2
+008095 |  | Programa leer para comprender II para 1er, 2° y 3er curso de la escuela secundaria | Buenos Aires | Paidós | 2017 | ACTIVIDADES DE ENSENANZA' ;; 'NIVEL SECUNDARIO' ;; 'DOMINIO DEL IDIOMA' ;; 'USO DEL LENGUAJE' ;; 'ENSENANZA DE LA LECTURA' ;; 'LENGUA' ;; 'CAMPANAS DE ALFABETIZACION | 978-950-12-2920-2
 ###
 008252 | Dedé; María Laura | Deslenguados | Ciudad Autónoma de Buenos Aires | Albatros | 2018 | DICCIONARIO' ;; 'LENGUAJE | 978-950-24-1643-4
 ###
@@ -16263,7 +16263,7 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 008112 | Ferreres, Aldo | Neurociencias y educación | Ciudad Autónoma de Buenos Aires | Paidós | 2019 | EDUCACION' ;; 'NEUROCIENCIAS' ;; 'DISLEXIA' ;; 'DISCALCULIA' ;; 'TRASTORNOS DE APRENDIZAJE' ;; 'MEMORIA' ;; 'CEREBRO' ;; 'AFASIA | 978-950-12-9803-1
 ###
-008094 |  | Programa: Leer para comprender II. Libro teórico | Ciudad Autónoma de Buenos Aires | Paidós | 2017 | ANALISIS DE TEXTOS' ;; 'SEMANTICA' ;; 'SINTAXIS | 978-950-12-2920-2
+008094', '009166 |  | Programa: Leer para comprender II. Libro teórico | Ciudad Autónoma de Buenos Aires | Paidós | 2017 | ANALISIS DE TEXTOS' ;; 'SEMANTICA' ;; 'SINTAXIS | 978-950-12-2920-2
 ###
 008118 | Falconi, María Inés | De cómo Romeo se transó a Julieta | Buenos Aires | Quipu | 2017 |  | 978-987-504-018-2
 ###
@@ -16273,7 +16273,7 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 008125', '008124', '008123', '008122 | Bayer, Osvaldo | La patagonia rebelde  | Buenos Aires | Booket | 2017 | HISTORIA NACIONAL' ;; 'HISTORIA | 978-987-1144-70-9
 ###
-008131', '008130 | Murillo Madrigal, Alexandra | Introducción bibliotecológica | Buenos Aires | Biblioteca Nacional de Maestros | 2003 |  | 1668-5695
+008131', '008130', '001477', '007943 | Murillo Madrigal, Alexandra | Introducción bibliotecológica | Buenos Aires | Biblioteca Nacional de Maestros | 2003 |  | 1668-5695
 ###
 008100', '002233 |  | Teoría y práctica en filosofía con niños y jóvenes | Buenos Aires | Novedades Educativas | 2017 | FILOSOFIA PARA NINOS' ;; 'ENSENANZA DE LA FILOSOFIA | 978-987-538-174-2
 ###
@@ -16429,7 +16429,7 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 005412 |  |  | Buenos Aires | el colegio | 2017 | LEY DE TELECOMUNICACIONES' ;; 'CONTROL DE CONSTITUCIONALIDAD' ;; 'JURISPRUDENCIA' ;; 'SOBERANIA' ;; 'ESTADO DE DERECHO' ;; 'REPUBLICA' ;; 'DIVISION DE PODERES | 
 ###
-011255', '011256 | Mantovani, Juan | La educación y sus tres problemas | Buenos Aires | El ateneo |  | PEDAGOGIA' ;; 'PROBLEMAS EDUCATIVOS | 1981 c.
+011255', '011256', '011253', '010241', '011254 | Mantovani, Juan | La educación y sus tres problemas | Buenos Aires | El ateneo |  | PEDAGOGIA' ;; 'PROBLEMAS EDUCATIVOS | 1981 c.
 ###
 008384', '007294 | Benadiba, Laura | Banco de datos sociales 6 | Buenos Aires | Edelvives | 2014 | LIBROS DE TEXTO' ;; 'CIENCIAS SOCIALES | 978-987-642-036-5
 ###
@@ -16525,7 +16525,7 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 008366 | Ramos, María Cristina | La casa del aire | Neuquén | Ruedamares | 2018 | TALLER LITERARIO | 978-987-1755-54-7
 ###
-008276', '008837', '008837 | Singer, Laura | Espacios, territorios y entornos de aprendizaje  | Ciudada Autónoma de Buenos Aires | Novedades Educativas | 2019 | TECNOLOGIA' ;; 'JUEGO' ;; 'ARTE | 978-987-538-681-5
+008837 | Singer, Laura | Espacios, territorios y entornos de aprendizaje  | Ciudada Autónoma de Buenos Aires | Novedades Educativas | 2019 | TECNOLOGIA' ;; 'JUEGO' ;; 'ARTE | 978-987-538-681-5
 ###
 008317 | Candia, María René | Enseñar y aprender en el jardín maternal | Ciudada Autónoma de Buenos Aires | Novedades Educativas | 2020 | CONDUCTA DEL GRUPO' ;; 'DINAMICA DE GRUPO | 978-987-538-682-2
 ###
@@ -16561,7 +16561,7 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 008365 | Richhart, Ron | Hacer visible el pensamiento | Ciudada Autónoma de Buenos Aires | Paidós | 2019 |  | 978-950-12-1546-5
 ###
-008309', '009014', '009013', '009012', '009011', '008308 |  | Mapuche piwke | Rawson | Ministerio de Educación de la Provincia del Chubut | 2018 | EDUCACION' ;; 'FORMACION DE DOCENTES' ;; 'CULTURA' ;; 'EDUCACION MULTICULTURAL' ;; 'COSTUMBRES' ;; 'FLORA' ;; 'RELATOS' ;; 'VOCABULARIO' ;; 'PUEBLOS ORIGINARIOS' ;; 'TRADICIONES' ;; 'TEHUELCHES' ;; 'MAPUCHES' ;; 'EDUCACION BILINGUE | en trámite
+008309', '009014', '009013', '009012', '009011', '008308', '004736 |  | Mapuche piwke | Rawson | Ministerio de Educación de la Provincia del Chubut | 2018 | EDUCACION' ;; 'FORMACION DE DOCENTES' ;; 'CULTURA' ;; 'EDUCACION MULTICULTURAL' ;; 'COSTUMBRES' ;; 'FLORA' ;; 'RELATOS' ;; 'VOCABULARIO' ;; 'PUEBLOS ORIGINARIOS' ;; 'TRADICIONES' ;; 'TEHUELCHES' ;; 'MAPUCHES' ;; 'EDUCACION BILINGUE | en trámite
 ###
 008250', '008249 |  | Marco Nacional para la mejora del aprendizaje en matemática | Ciudad autónoma de Buenos Aires | el Ministerio | 2019 | ENSENANZA DE LA MATEMATICA | 978-987-47076-2-8
 ###
@@ -16761,7 +16761,7 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 003956 |  | Dispositivo de acompañamiento a los aspirantes a concursar cargos de Gestión Directa y de Supervisión | Rawson | Ministerio de Educación | 2011 | PEDAGOGIA' ;; 'CAPACITACION' ;; 'ENSENANZA' ;; 'FORMACION PROFESIONAL' ;; 'CAPACITACION DEL PERSONAL DE EDUCACION' ;; 'NIVEL INICIAL' ;; 'NIVEL PRIMARIO' ;; 'EDUCACION ESPECIAL' ;; 'DIRECTORES' ;; 'SUPERVISORES' ;; 'INNOVACION EDUCATIVA | 
 ###
-103074', '001324', '002778', '003901 |  | Diseño curricular nivel inicial | [Rawson] | Ministerio de Cultura y Educación  | 1997 |  | 
+013074', '002778 |  | Diseño curricular nivel inicial | [Rawson] | Ministerio de Cultura y Educación  | 1997 |  | 
 ###
 008439 | Maggio, Mariana | Educación en pandemia | Ciudad Autónoma de Buenos Aires | Paidós | 2021 | RELACION FAMILIA ESCUELA' ;; 'NECESIDADES DEL NINO' ;; 'NECESIDADES DEL ALUMNO | 978-950-12-0328-8
 ###
@@ -17043,7 +17043,7 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 008612', '008811 | Roggio Andrea | Pequeños: Cuentos, poemas, canciones y mucho más | Ciudad Autónoma de Buenos Aires | Letra Impresa | 2021 | POESIA INFANTIL Y JUVENIL' ;; 'CANCIONERO' ;; 'ADIVINANZAS' ;; 'CUENTOS INFANTILES | 978-987-4419-39-2
 ###
-008609 | Saracino, Luciano | Te quiero m´sa que la sal | Ciudad Autónoma de Buenos Aires | La Bohemia | 2021 | LITERATURA  INFANTIL Y JUVENIL ARGENTINA' ;; 'NARRATIVA INFANTIL Y JUVENIL ARGENTINA' ;; 'LEYENDA | 978-987-1019-78-6
+008609 | Saracino, Luciano | Te quiero mas que la sal | Ciudad Autónoma de Buenos Aires | La Bohemia | 2021 | LITERATURA  INFANTIL Y JUVENIL ARGENTINA' ;; 'NARRATIVA INFANTIL Y JUVENIL ARGENTINA' ;; 'LEYENDA | 978-987-1019-78-6
 ###
 008605 | Patacrúa | La princesa de trujillo | Córdoba [Argentina] | Ediciones de la Magnolia | 2021 | LITERATURA  INFANTIL Y JUVENIL' ;; 'NARRATIVA INFANTIL Y JUVENIL | 978-987-1823-23-9
 ###
@@ -17525,7 +17525,7 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 008899 | Woolf, Virginia | Un cuarto propio | Buenos Aires | Lumen | 2021 | ENSAYO' ;; 'LITERATURA DE INGLATERRA | 978-84-264-0851-8
 ###
-008900 | Levin, Esteban | Las infancias y el tiempo | Ciudad Autónoma de Buenos Aires | Noveduc | 2020 | PSICOLOGIA DEL  NINO' ;; 'TERAPIA LUDICA | 978-987-538-748-5
+009520 | Levin, Esteban | Las infancias y el tiempo | Ciudad Autónoma de Buenos Aires | Noveduc | 2020 | PSICOLOGIA DEL  NINO' ;; 'TERAPIA LUDICA | 978-987-538-748-5
 ###
 008900 | Anijovich, Rebeca | Una introducción a la enseñanza para la diversidad | Buenos Aires | Fondo de Cultura Económica | 2012 | DIVERSIDAD' ;; 'ENSENANZA' ;; 'APRENDIZAJE' ;; 'PEDAGOGIA' ;; 'DIDACTICA | 978-950-557-618-0
 ###
@@ -17585,33 +17585,33 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 009059 | Indart, María Inés | Lengua 3: Prácticas del lenguaje 3 | Ciudada Autónoma de Buenos Aires | Mandioca | 2018 | LIBROS DE TEXTO' ;; 'LENGUA' ;; 'LITERATURA | 978-987-1651-28-3
 ###
-009051 | Drennen, Olga | Está allí todavía | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL | 978-950-00-1599-8
+009051', '009615', '009614 | Drennen, Olga | Está allí todavía | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTO | 978-950-00-1599-8
 ###
-009050 | Roldán Gustavo | Como si el ruido pudiera molestar | Ciudada Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL | 978-950-00-1598-1
+009050', '009611', '009610 | Roldán, Gustavo | Como si el ruido pudiera molestar | Ciudada Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTO | 978-950-00-1598-1
 ###
-009053 | Rocha, Silvina | El sueño del pibe | Ciudada Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL | 978-950-00-1601-8
+009053', '009622', '009623 | Rocha, Silvina | El sueño del pibe | Ciudada Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL' ;; 'CUENTO' ;; 'LITERATURA ARGENTINA | 978-950-00-1601-8
 ###
-009049 | Repún, Graciela | Un plan maestro | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL | 978-950-00-1597-4
+009049', '009608', '009609 | Repún, Graciela | Un plan maestro | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL' ;; 'CUENTO' ;; 'LITERATURA ARGENTINA | 978-950-00-1597-4
 ###
-009043 | Sevilla, Fabián | Carnaval en el zoo | Ciudada Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL | 978-950-00-1591-2
+009043', '009628', '009629 | Sevilla, Fabián | Carnaval en el Zoo | Ciudada Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTOS DE ANIMALES | 978-950-00-1591-2
 ###
-009048 | Comino, Sandra | Lobo está? | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL | 978-950-00-1596-7
+009048', '009620', '009621 | Comino, Sandra | Lobo está? | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTOS | 978-950-00-1596-7
 ###
-009047 | Valentino, Esteban | El ombúlobo | Ciudada Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL | 978-950-00-1330-8
+009047', '009613', '009612 | Valentino, Esteban | El ombúlobo | Ciudada Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL' ;; 'CUENTO' ;; 'LITERATURA ARGENTINA' ;; 'MIEDO' ;; 'AMIGOS' ;; 'MONSTRUOS | 978-950-00-1330-8
 ###
-009045 | Montes, Graciela | Bicho raro | Ciudada Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL | 978-950-00-1592-9
+009045', '009627', '009626 | Montes, Graciela | Bicho raro | Ciudada Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTO | 978-950-00-1592-9
 ###
-009044 | Villafañe, Javier | La vuelta al mundo | Ciudada Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL | 978-950-00-1590-5
+009044', '009604', '009605 | Villafañe, Javier | La vuelta al mundo | Ciudada Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL' ;; 'CUENTO' ;; 'LITERATURA ARGENTINA' ;; 'IMPRENTA MAYUSCULA | 978-950-00-1590-5
 ###
-009052 | Bodoc, Liliana | Un decreto incomprendido | Ciudada Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL | 978-950-00-1600-1
+009052', '009617', '009616 | Bodoc, Liliana | Un decreto incomprendido | Ciudada Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTO | 978-950-00-1600-1
 ###
-009054 | Durini, Angeles | Lorenzo Horizonte | Ciudada Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL | 978-950-00-1602-5
+009054', '009619', '009618', '009607', '009606 | Durini, Angeles | Lorenzo Horizonte | Ciudada Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTO | 978-950-00-1602-5
 ###
-009056 | Sasturain, Juan | El último entrenador | Ciudada Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL | 978-950-00-1604-9
+009056 | Sasturain, Juan | El último entrenador | Ciudada Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL' ;; 'CUENTO' ;; 'LITERATURA ARGENTINA | 978-950-00-1604-9
 ###
 009065 |  | Padres de la patria | [Ciudad Autónoma de Buenos Aires] | Editora Nacional Braille y Libro Parlante | [2022?] | HISTORIA  ARGENTINA' ;; 'BRAILLE | 
 ###
-009072 | Pigna, Felipe | Los cuentos del abuelo José | Ciudada Autónoma de Buenos Aires | Planeta | 2019 | HISTORIA  ARGENTINA | 978-950-49-6725-5
+009072', '009637 | Pigna, Felipe | Los cuentos del abuelo José | Ciudada Autónoma de Buenos Aires | Planeta | 2019 | HISTORIA  ARGENTINA | 978-950-49-6725-5
 ###
 009176 |  | Educar hasta la ternura siempre | Ciudad Autónoma de Buenos Aires | Chirimbote | 2023 | EDUCACION COMUNITARIA | 978-987-8432-09-0
 ###
@@ -17621,9 +17621,9 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 009493 | Piaget, Jean | Inteligencia y afectividad | Ciudada Autónoma de Buenos Aires | Aique | 2001 |  | 950-701-779-x
 ###
-009055 | Schweblin, Samanta | Perdiendo velocidad | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL | 978-950-00-1603-2
+009055 | Schweblin, Samanta | Perdiendo velocidad | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL' ;; 'CUENTO' ;; 'LITERATURA ARGENTINA | 978-950-00-1603-2
 ###
-009046 | Rivera, Iris | La casa del árbol | Ciudada Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL | 978-950-00-1593-6
+009046', '009624', '009625 | Rivera, Iris | La casa del árbol | Ciudada Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | LITERATURA  INFANTIL Y JUVENIL' ;; 'CUENTO' ;; 'LITERATURA ARGENTINA | 978-950-00-1593-6
 ###
 009079 | Cesca, Patricia | Los alumnos inmigrantes | Ciudad Autónoma de Buenos Aires | Mandioca | 2016 | FORMACION  DOCENTE' ;; 'INMIGRACION EN ARGENTINA | 978-987-3709-82-1
 ###
@@ -17691,7 +17691,7 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 009074 | Castillo, Abelardo ...[et al.] | Hombres de palabra | Buenos Aires | La estacion | 2012 | ANTOLOGIA | 978-987-1652-96-9
 ###
-009075 |  | El camino de los Juicios: la lucha por Memoria, Verdad y Justicia en la Aegentina | Ciudada Autónoma de Buenos Aires |  |  | DERECHOS HUMANOS' ;; 'TERRORISMO DE ESTADO' ;; 'DEMOCRACIA | 978-950-00-1700-8
+009521 |  | El camino de los Juicios: la lucha por Memoria, Verdad y Justicia en la Aegentina | Ciudada Autónoma de Buenos Aires |  |  | DERECHOS HUMANOS' ;; 'TERRORISMO DE ESTADO' ;; 'DEMOCRACIA | 978-950-00-1700-8
 ###
 009070 |  | Los Tun Tunes 1 | Ciudad Autónoma de Buenos Aires | Estación Mandioca | 2014 | LIBROS DE TEXTO' ;; 'MANUALES ESCOLARES | 978-987-1651-70-2
 ###
@@ -17713,27 +17713,27 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 009109 |  | Proyectos para la educación sexual integral: conocimiento y cuidado del cuerpo | Ciudad Autónoma de Buenos Aires | Centro de publicaciones educativas y material didáctico | 2015 | NIVEL INICIAL' ;; 'RELACION FAMILIA-ESCUELA' ;; 'JARDINES DE INFANCIA' ;; 'EDUCACION SEXUAL' ;; 'DESARROLLO DEL NINO' ;; 'MUSICA' ;; 'EDUCACION FISICA' ;; 'TALLERES' ;; 'IDENTIDAD' ;; 'FAMILIA' ;; 'DIARIOS' ;; 'INTEGRACION' ;; 'DIVERSIDAD' ;; 'LITERATURA' ;; 'VALORES' ;; 'SENTIDOS | 978-987-538-441-5
 ###
-009129 | Bodoc, Liliana | N'olhenek ta n'oknitäfwelache | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | NARRATIVA  INFANTIL | 978-950-00-1665-0
+009129 | Bodoc, Liliana | N'olhenek ta n'oknitäfwelache | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | NARRATIVA  INFANTIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTOS' ;; 'WICHI' ;; 'EIB | 978-950-00-1665-0
 ###
-009135 | Durini, Angeles | Lorenzo Horizonte | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | NARRATIVA  INFANTIL | 978-950-00-1674-2
+009135 | Durini, Angeles | Lorenzo Horizonte | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | NARRATIVA  INFANTIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTO' ;; 'LENGUA INDIGENA' ;; 'EIB' ;; 'MAPUDUNGUM | 978-950-00-1674-2
 ###
-009130 | Montes, Graciela | Vícho ojehecharamóva | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | NARRATIVA  INFANTIL | 978-950-00-1694-0
+009130 | Montes, Graciela | Vícho ojehecharamóva | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | NARRATIVA  INFANTIL' ;; 'CUENTO' ;; 'ANIMALES FANTASTICOS' ;; 'LITERATURA ARGENTINA' ;; 'GUARANI' ;; 'EIB | 978-950-00-1694-0
 ###
-009132 | Villafañe, Javier | Tiqsi Muyuta Muyuspa | Ciudad Autónoma de Buenos Aires | Ministerio  de Educación de la Nación | 2022 | NARRATIVA  INFANTIL | 978-950-00-1666-7
+009132 | Villafañe, Javier | Tiqsi Muyuta Muyuspa | Ciudad Autónoma de Buenos Aires | Ministerio  de Educación de la Nación | 2022 | NARRATIVA  INFANTIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTO | 978-950-00-1666-7
 ###
-009128 | Roldán Gustavo | Tet Hap Chi Niwoya Latamseka | Ciudad Autónoma de Buenos Aires |  |  | NARRATIVA  INFANTIL | 978-950-00-1664-3
+009128 | Roldán Gustavo | Tet Hap Chi Niwoya Latamseka | Ciudad Autónoma de Buenos Aires |  |  | NARRATIVA  INFANTIL' ;; 'CUENTO' ;; 'LITERATURA ARGENTINA' ;; 'WICHI | 978-950-00-1664-3
 ###
-009134 | Valentino, Esteban | Ti ombulobo | Ciudad Autónoma de Buenos Aires | Ministerio de educación de educación de la Nación | 2022 | NARRATIVA  INFANTIL | 978-950-00-1772-8
+009134 | Valentino, Esteban | Ti ombulobo | Ciudad Autónoma de Buenos Aires | Ministerio de educación de educación de la Nación | 2022 | NARRATIVA  INFANTIL' ;; 'CUENTO' ;; 'LITERATURA ARGENTINA' ;; 'MAPUDUNGUM | 978-950-00-1772-8
 ###
 009209 | Cervantes Saavedra, Miguel de | Don Quijote de la Mancha |  | Planeta | 2000 |  | 84-08-03600-9
 ###
-009138 | Valentino, Esteban | Umbuatuq | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | NARRATIVA  INFANTIL | 978-950-00-1685-8
+009138 | Valentino, Esteban | Umbuatuq | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | NARRATIVA  INFANTIL' ;; 'CUENTO' ;; 'LITERATURA ARGENTINA' ;; 'QUECHUA | 978-950-00-1685-8
 ###
-009133 | Durini, Angeles | Lorenzo Horizonte | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | NARRATIVA  INFANTIL | 978-950-00-1688-9
+009133 | Durini, Angeles | Lorenzo Horizonte | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | NARRATIVA  INFANTIL' ;; 'CUENTO' ;; 'LITERATURA ARGENTINA' ;; 'QUECHUA' ;; 'EIB | 978-950-00-1688-9
 ###
-009137 | Montes, Graciela | Kullin Penongekelu | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | NARRATIVA  INFANTIL | 978-950-00-1670-4
+009137 | Montes, Graciela | Kullin Penongekelu | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | NARRATIVA  INFANTIL' ;; 'CUENTO' ;; 'ANIMALES FANTASTICOS' ;; 'LITERATURA ARGENTINA' ;; 'MAPUDUNGUM' ;; 'EIB | 978-950-00-1670-4
 ###
-009139 | Bodoc, Liliana | Kiñe az zungun azümükenulu | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | NARRATIVA  INFANTIL | 978-950-00-1675-9
+009139 | Bodoc, Liliana | Kiñe az zungun azümükenulu | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2022 | NARRATIVA  INFANTIL' ;; 'CUENTO' ;; 'LITERATURA ARGENTINA' ;; 'MAPUZUNGUN | 978-950-00-1675-9
 ###
 009150 |  | Manual de cuidados domiciliarios : aprendiendo estrategias para cuidar mejor | Buenos Aires | Secretaría Nacional de Niñez, Adolescencia y Familia | 2010 | GERENTOLOGIA | 978-987-25954-4-9
 ###
@@ -17931,7 +17931,7 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 001180 | Vieta, Carina | Sistema electoral y representación política | Buenos Aires | Biblioteca del Congreso de la Nación | 1998 | DERECHO' ;; 'DERECHO CIVICOS' ;; 'ELECCIONES' ;; 'POLITICA SOCIAL | 950-961-044-8
 ###
-000096 | Vazquez de Tapia, Nelly | Aprendex matemática 7 | Buenos Aires | Estrada | 1986 | MATEMATICAS' ;; 'ENSENANZA PRIMARIA' ;; 'LIBROS DE TEXTO | 950-01-0183-1
+000096', '009306 | Vazquez de Tapia, Nelly | Aprendex matemática 7 | Buenos Aires | Estrada | 1986 | MATEMATICAS' ;; 'ENSENANZA PRIMARIA' ;; 'LIBROS DE TEXTO | 950-01-0183-1
 ###
 009265 | Darwin, Charles | Diario del viaje de un naturalista alrededor del mundo | Buenos Aires | El Elefante Blanco | 1998 | NARRACION EN PRIMERA PERSONA' ;; 'DESCRIPCION GEOGRAFICA' ;; 'NOVELA HISTORICA | 
 ###
@@ -18197,7 +18197,7 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 003040 |  | Asistencia a la víctima de delitos | Buenos Aires | Artes Gráficas Rioplatense S.A. | 2005 | DERECHOS HUMANOS | 9879496-32-9
 ###
- |  |  |  |  |  |  | 
+009494', '009557 | Avila, Laura | Historia de tres banderas | CABA | Santillana | 2026 | NOVELA HISTORICA' ;; 'LITERATURA  INFANTIL Y JUVENIL' ;; 'LITERATURA ARGENTINA | 978-950-46-6205-1
 ###
 008512', '008511 |  | Leer x leer. Libro 1- Primer ciclo de la escuela primaria | Ciudad Autónoma de Buenos Aires | Ministerio de Educación de la Nación | 2021 | ANTOLOGIA | 978-950-00-1227-0
 ###
@@ -18311,23 +18311,23 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 000457 | Barba Ruíz, Lucio |  | Rawson |  | 1995 |  | 
 ###
- |  |  |  |  |  |  | 
+009432 |  | El libro de 1° | CABA | Santillana | 2019 | LIBRO DE TEXTO' ;; 'PRACTICAS DEL LENGUAJE' ;; 'PRIMER GRADO | 978-950-46-3876-6
 ###
 009431 |  |  |  |  |  | HUEMUL' ;; 'BIOSFERA' ;; 'PATAGONIA' ;; 'FAUNA' ;; 'CONSERVACION DE LA NATURALEZA | 
 ###
 000192 | Barletta, Ana | El placer de unos versos | Chubut |  | 1993 | POESIA' ;; 'PATAGONIA | 
 ###
-009432 | Correa, Raquel | Camarones | Rawson |  |  | CAMARONES' ;; 'PATAGONIA' ;; 'SAN MARTIN' ;; 'HISTORIA  ARGENTINA | 
+009495 | Correa, Raquel | Camarones | Rawson |  |  | CAMARONES' ;; 'PATAGONIA' ;; 'SAN MARTIN' ;; 'HISTORIA  ARGENTINA | 
 ###
 002292 |  | Las otras palabras | Esquel |  | 2007 | POESIA' ;; 'CHUBUT' ;; 'PATAGONIA' ;; 'CUENTOS | 
 ###
-009433 |  | Como investigamos el pasado de Piedra Parada | Rawson | Dirección de Impresiones Oficiales | 1993 | ARQUEOLOGIA' ;; 'PATAGONIA' ;; 'CHUBUT' ;; 'PIEDRA PARADA | 
+009497 |  | Como investigamos el pasado de Piedra Parada | Rawson | Dirección de Impresiones Oficiales | 1993 | ARQUEOLOGIA' ;; 'PATAGONIA' ;; 'CHUBUT' ;; 'PIEDRA PARADA | 
 ###
 009417 | Fink, Nadia | Frida Khalo | Buenos AIres | Sudestada  | 2015 | LITERATURA INFANTIL' ;; 'PINTORES' ;; 'ARTE DE AMERICA LATINA' ;; 'LITERATURA JUVENIL' ;; 'ARTE | 978-987-45021-8-6
 ###
 009420 | Liliana Edith Kurzrok...[et al] | Matemática 2 | Buenos Aiires | Arte Gráfico Editorial Argentino | 2023 | MATEMATICA | 978-987-07-5584-5
 ###
-004176 |  | Concurso de poesía y relato testimonial sobre malvinas | Rawson | Secretaría de Cultura del Chubut | 2007 | POESIA' ;; 'RELATOS | 
+010836 | Novillo Pauli, Enrique | Los fenómenos parapsicológicos | Buenos Aires | Kapelusz | 1976 | PSICOLOGIA' ;; 'PARAPSICOLOGIA' ;; 'PERCEPCION ' ;; 'PERSONALIDAD' ;; 'HIPNOSIS | 
 ###
 009418 |  | Avanza | Ciudad Autónoma de Buenos Aires | Kapelusz | 2022 | LITERATURA' ;; 'LENGUA' ;; 'LEYENDA' ;; 'TEXTOS EXPOSITIVOS' ;; 'CUENTOS CIENCIA FICCION' ;; 'NOTICIA' ;; 'TEATRO' ;; ' | 978-950-13-1721-3
 ###
@@ -18359,10 +18359,222 @@ DVD 268 |  | Materiales y materias primas |  |  |  |  |
 ###
 009471 | Mastrogiulio, Eva | Te regalo | Buenos Aires | Gerbera | 2023 | LITERATURA | 978-987-4071-31-6
 ###
-009470 | Reynolds, Peter | El punto | Buenos Aires | Calibroscopio | 2024 | LITERATURA | 978-631-6606-07-5
+009470 | Reynolds, Peter | El punto | Buenos Aires | Calibroscopio | 2024 | LITERATURA' ;; 'EMOCIONES' ;; 'LIBRO ALBUM | 978-631-6606-07-5
 ###
 010897 | Filloux, Jean Claude | La personalidad | Buenos Aires | Eudeba | 1960 | PSICOLOGIA' ;; 'PERSONALIDAD' ;; 'CONDUCTA' ;; 'DESARROLLO DE LA INDIVIDUALIDAD' ;; 'CULTURA | 
 ###
 002359 | Mussen, Paul Henry | Desarrollo de la personalidad en el niño | México | Trillas | 1982 | DESARROLLO DE LA PERSONALIDAD' ;; 'LENGUAJE DEL NINO' ;; 'BIOLOGIA' ;; 'PSICOLOGIA' ;; 'ADOLESCENCIA' ;; 'PERSONALIDAD | 968-24-1147-5
+###
+010827', '010818', '010821', '010824 | Molina de Costallat, Dalila M. | Psicomotricidad III | Buenos Aires | Losada | 1979 | DESTREZAS PSICOMOTRICES' ;; 'COORDINACION SENSOMOTRIZ' ;; 'DESARROLLO DEL NINO' ;; 'EXPRESION CORPORAL' ;; 'EDUCACION ESPECIAL' ;; 'DEFICIENTES MENTALES' ;; 'JUEGOS EDUCATIVOS' ;; 'EDUCACION GESTUAL | 
+###
+010944', '010945 | Piaget, Jean | Introducción a la epistemología genética  | Buenos Aires | Paidós | 1978 | GENETICA | 
+###
+ |  |  |  |  |  |  | 
+###
+000141 | Taragano, Fernando | Psicoanalisis gestaltico | Buenos Aires | Paidós | 1974 | PSICOANALISIS GESTALTICO' ;; 'PSICOANALISIS' ;; 'TEORIAS DE LA PERSONALIDAD | 
+###
+010822', '010825', '010828 | Molina de Costallat, Dalila M. | Psicomotricidad  | Buenos Aires | Losada | 1981 | DESTREZAS PSICOMOTRICES' ;; 'COORDINACION SENSOMOTRIZ' ;; 'DESARROLLO DEL NINO' ;; 'EXPRESION CORPORAL' ;; 'EDUCACION ESPECIAL' ;; 'DEFICIENTES MENTALES' ;; 'JUEGOS EDUCATIVOS | 
+###
+012987', '012986', '012988 | Bertoni, Lilia Ana | Así empezó nuestra historia | Buenos Aires | Colihue | 1995 | HISTORIA ARGENTINA | 987-9069-02-1
+###
+008691 | Repún, Graciela | Leyenda del otoño y el loro | Buenos Aires | Ministerio de Educación de la Nación | 2006 | LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'CUENTOS | 
+###
+008679 | Repún, Graciela | Leyenda del otoño y el loro | Buenos Aires | Ministerio de Educación de la Nación | 2012 | LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'CUENTOS | 
+###
+ | Mariño, Ricardo | Los cuatro increibles | Buenos Aires | Ministerio  de Educación de la Nación | 2012 | LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'CUENTOS | 
+###
+000123 | Nuñez, Blanca | El niño sordo y su familia | CABA | Troquel | 1991 | PSICOLGIA DEL NINO' ;; 'PSICOLOGIA CLINICA' ;; 'FAMILIA | 950-16-3055-2
+###
+000254 | Molina de Costallat, Dalila M. | Psicomotricidad  | Buenos Aires | Losada | 1985 | DESTREZAS PSICOMOTRICES' ;; 'COORDINACION SENSOMOTRIZ' ;; 'DESARROLLO DEL NINO' ;; 'EXPRESION CORPORAL' ;; 'EDUCACION ESPECIAL' ;; 'DEFICIENTES MENTALES' ;; 'JUEGOS EDUCATIVOS' ;; 'TEST DE EXAMEN DE COORDINACION | 950-03-6710-6
+###
+009518 | Niripil, Elsa Beatriz | Neuroeducacion para educadores | CABA | Bonum | 2021 | NEUROEDUCACION' ;; 'APRENDIZAJE' ;; 'DISLEXIA' ;; 'DISCALCULIA | 978-987-667-102-6
+###
+009505 | Falconi, Maria Ines | Leyendo leyendas | Buenos Aires | Alfaguara | 2013 | LITERATURA  INFANTIL Y JUVENIL' ;; 'LEYENDAS ARGENTINAS' ;; 'PUEBLOS ORIGINARIOS | 978-987-04-1480-3
+###
+009509 | Dickens, Charles | Oliver Twist | Buenos Aires | Centauro Ediciones | 2012 | LITERATURA  INFANTIL Y JUVENIL' ;; 'LITERATURA DE INGLATERRA' ;; 'NOVELA | 978-987-1258-36-9
+###
+009525 |  | Fabulas con Mayor y menor 2 | CABA | Sudamericana | 2025 | FABULAS' ;; 'LITERATURA INFANTIL Y JUVENIL | 978-950-07-7001-9
+###
+009504 | Sevilla, Fabian | Yo, Sancho Panza. El, don Quijote | Buenos Aires | Aique | 2019 | LITERATURA ARGENTINA' ;; 'LITERATURA INFANTIL Y JUVENIL | 978-987-06-0296-5
+###
+009526 |  | Fabulas con Mayor y menor 4 | CABA | Sudamericana | 2025 | FABULAS' ;; 'NARRATIVA INFANTIL Y JUVENIL | 978-950-07-7140-5
+###
+009527 |  | Fabulas con Mayor y menor 1 | CABA | Sudamericana | 2025 | FABULAS' ;; 'LITERATURA INFANTIL Y JUVENIL | 978-950-07-6946-4
+###
+009507 | Maine, Margarita | Soy Manuel | CABA | Norma | 2024 | LITERATURA INFANTIL Y JUVENIL' ;; 'LITYERATURA ARGENTINA | 978-987-545-867-3
+###
+009508 | Mendez, Mario | Patriotas | CABA | Norma | 2020 | LITERATURA INFANTIL Y JUVENIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTO | 978-987-545-866-6
+###
+009506', '009546 | Basch, Adela | Las empanadas criollas son una joya | CABA | Santillana | 2017 | LITERATURA INFANTIL Y JUVENIL' ;; 'TEATRO' ;; 'LITERATURA ARGENTINA | 978-950-46-4395-1
+###
+009517 | Moreno, Alberto | Leyendas Mapuche | CABA | Artemisa | 2018 | LITERATURA ABORIGEN' ;; 'LITERATURA INFANTIL Y JUVENIL' ;; 'LEYENDAS | 978-987-674-600-7
+###
+009528 | Pisos, Cecilia | Urcielago | CABA | Del Naranjo | 2024 | LITERATURA INFANTIL Y JUVENIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTO | 978-987-3854-88-0
+###
+000034 |  | La Leyenda de Temistocles Grislieri | Viedma | s/e | 1992 |  | 
+###
+009512 | Sevilla, Ariel | San Martín  | CABA | Quipu | 2017 | HISTORIA  ARGENTINA | 978-987-504-189-9
+###
+009511 | Sevilla, Ariel | Belgrano | CABA | Quipu | 2017 | HISTORIA ARGENTINA | 978-987-504-193-6
+###
+009513 | Sevilla, Ariel | Revolucion 25 de Mayo | CABA | Quipu | 2017 | HISTORIA ARGENTINA | 978-987-504-188-2
+###
+009514 | Sevilla, Ariel | Independencia:9 de julio de 1816 | CABA | Quipu | 2017 | HISTORIA ARGENTINA | 978-987-504-190-5
+###
+009501 |  | Los Animales | Buenos Aires | Librum | 2024 | ENCICLOPEDIA' ;; 'ANIMALES' ;; 'MATERIAL DE REFERENCIA | 978-946-476-683-7
+###
+009502 |  | Los dinosaurios | Buenos Aires | Librum | 2024 | ENCICLOPEDIA' ;; 'ANIMALES' ;; 'DINOSAURIOS | 978-946476-565-6
+###
+009503 |  | El sistema solar | Buenos Aires | Librum | 2024 | ENCICLOPEDIA' ;; 'SISTEMA SOLAR | 978-946-476-684-4
+###
+009498 | Arce, Ana Rosa Matilde | Genealogia de una huella | Trelew | Remitente Patagonia | 2021 | BIOGRAFIAS ARGENTINAS | 978-987-8664-17-6
+###
+009524 | Borsani, Maria Jose | Aulas inclusivas | Rosario | Homo Sapiens | 2022 | EDUCACION' ;; 'INCLUSION ESCOLAR' ;; 'TRABAJO DOCENTE' ;; 'APRENDIZAJE SIGNIFICATIVO | 978-987-771-058-8
+###
+009523 | Diaz, Marisa | La dirección y la supervisión escolar | Rosario | Homo Sapiens | 2026 | EDUCACION' ;; 'GESTION EDUCATIVA' ;; 'POLITICAS DE FORMACION' ;; 'INSTITUCIONES EDUCATIVAS | 978987-771-322-0
+###
+009540 | Llenas, Anna | Vacio | España | Penguin Rando, House | 2025 | LITERATURA INFANTIL' ;; 'EMOCIONES' ;; 'ESI' ;; 'RESILENCIA | 978-84-264-5159-0
+###
+009545 | Perez, Sebasien | Las Brujas de Venecia | España | Contempla | 2025 | LITERATURA JUVENIL' ;; 'NOVELA | 978-84-140-6403-0
+###
+009552 | Stoker, Bram | Drácula | Buenos Aires | Estrada | 2015 | LITERATURA INFANTIL' ;; 'LITERATURA JUVENIL' ;; 'NOVELA' ;; 'CUENTOS DE TERROR' ;; 'LITERATURA IRLANDESA' ;; 'NARRATIVA | 978-950-01-1082-2
+###
+009551 | Pescetti, Luis Maria | Unidos contra Drácula | Buenos Aires | Santillana | 2013 | LITERATURA INFANTIL' ;; 'POESIA' ;; 'HUMOR | 978-950-46-3354-9
+###
+009549 | Frankl, Victor .E. | El hombre en busca de sentido | España | Herder | 2025 | NARRATIVA' ;; 'EXPERIENCIA EMOCIONAL' ;; 'LOGOTERAPIA' ;; 'EXISTENCIA' ;; 'RESILENCIA | 978-84-254-3202-6
+###
+009537', '009578 | Cinetto, Liliana | Cielito d emi bandera | CABA | Santillana | 2025 | LITERATURA INFANTIL Y JUVENIL' ;; 'LITERATURA ARGENTINA' ;; 'NOVELA HISTORICA' ;; 'HISTORIA | 978-950-46-5913-6
+###
+009547 | Comino, Sandra | La enamorada del muro | Buenos Aires | Alfaguara | 2011 | LITERATURA INFANTIL Y JUVENIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTO | 978-987-04-1300-4
+###
+009543 | Moreno, Eloy | Invisible | Buenos Aires | Nube de Tinta | 2025 | LITERATURA JUVENIL' ;; 'NARRATIVA ESPANOLA' ;; 'NOVELA | 978-987-1997-53-4
+###
+009541 |  | Fabulas con Mayor y menor 3 | CABA | Sudamericana | 2024 | FABULAS' ;; 'LITERATURA INFANTIL Y JUVENIL | 978-950-07-7048-4
+###
+009516 | Siemens, Sandra | La tortilla de papas | CABA | Del Naranjo | 2022 | LITERATURA' ;; 'LIBRO-ALBUM' ;; 'LITERATURA INFANTIL' ;; 'NARRATIVA' ;; 'LITERATURA ARGENTINA' ;; 'IMPRENTA MAYUSCULA | 978-987-3854-12-5
+###
+009542 | Llenas, Anna | La joya interior | Buenos Aires | Penguin Random House | 2025 | LITERATURA INFANTIL' ;; 'EMOCIONES' ;; 'ESI' ;; 'LIBRO ALBUM | 978-84-488-5927-5
+###
+009558 | Califa, Oche | Monstruario sentimental | Buenos Aires | Alfaguara | 2013 | LITERATURA INFANTIL Y JUVENIL' ;; 'LITERATURA ARGENTINA' ;; 'POESIAS' ;; 'CANCIONES DE CUNA | 978-987-04-2881-7
+###
+009579 | Demarco, Magela | Acá estoy | CABA | La Brujita de Papel | 2026 | LITERATURA INFANTIL Y JUVENIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTO' ;; 'LIBRO ALBUM' ;; 'EMOCIONES | 978-631-6633-07-1
+###
+009569 | Vera, Edith | Ratita gris y ratita azul | CABA | Secretaría de Educación | 2024 | LITERATURA INFANTIL' ;; 'LITTERATURA ARGENTINA' ;; 'CUENTO' ;; 'IMPRENTA MAYUSCULA | 978-631-90726-0-0
+###
+009560 | Yunque, Alvaro | Mocho y el espantapájaros | CABA | Secretaría de Educación | 2024 | LITERATURA INFANTIL Y JUVENIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTO CORTO | 978-631-90726-8-6
+###
+009561 | Muñoz Lascano, Pilar | Una noche dde muchos días | CABA | Secretaría de Educación | 2024 | LITERATURA INFANTIL Y JUVENIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTO CORTO | 978-631-90726-3-1
+###
+009562 | Vaccarini, Franco | Lobo hambriento | CABA | Secretaría de Educación | 2024 | LITERATURA INFANTIL Y JUVENIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTO CORTO' ;; 'HISTORIAS CON ANIMALES | 978-631-90726-4-8
+###
+009563 | Maine, Margarita | El jardín del abuelo | CABA | Secretaría de Educación | 2024 | LITERATURA INFANTIL Y JUVENIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTO CORTO | 978-631-90726-2-4
+###
+009565', '009591 | Mariño, Ricardo | El avispon Mobuto salva la vida | CABA | Secretaría De Educación | 2024 | LITERATURA INFANTIL Y JUVENIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTO CORTO | 978-631-90726-1-7
+###
+009566 | Andruetto, Maria Teresa | La piedra de hacer sopa | CABA | Secretaría de Educación | 2024 | LITERATURA INFANTIL Y JUVENIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTO POPULAR | 978-631-90726-5-5
+###
+009568 |  | El robo del fuego | CABA | Secretaría de Educación | 2024 | LITERATURA ARGENTINA' ;; 'LEYENDAS' ;; 'PUEBLOS ORIGINARIOS | 978-631-90730-0-3
+###
+009564 |  | Amor imposible | CABA | Secretaría de Educación | 2024 | LITERATURA ARGENTINA' ;; 'LEYENDAS' ;; 'PUEBLOS ORIGINARIOS | 978-631-90726-7-9
+###
+009567 | Macjus, Cristina | Mal día para ser mala | CABA | Secretaría de Educación | 2024 | LITERATURA INFANTIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTO CORTO | 978-631-90726-6-2
+###
+009587 | Saint-Exupéry, Antoine de | El principito  | Ciudad Autonoma de buenos Aires | Salamandra | 2026 | CUENTOS' ;; 'CUENTOS MARAVILLOSOS' ;; 'LITERATURA INFANTIL' ;; 'LITERATURA FRANCESA | 978-987-800-274-3
+###
+009532 | Paglieta, Silvia | Territorios de lectura | Rosario | Homo Sapiens  | 2021 | LECTURA' ;; 'COMPRENSION LECTORA' ;; 'MEDIACION' ;; 'PRACTICAS LECTORAS | 978-987-771-047-2
+###
+009536 |  | Juego corporal | CABA | Miño y Davila Editores | 2025 | EDUCACION' ;; 'EXPRESION CORPORAL' ;; 'EDUCACION PSICOMOTRIZ' ;; 'APRENDIZAJE | 979-13-87546-34-2
+###
+009550 | Lewin, Laura | El aula afectiva | CABA | Santillana | 2022 | EDUCACION' ;; 'PSICOLOGIA' ;; 'PEDAGOGIA' ;; 'INTELIGENCIA EMOCIONAL | 978-950-46-4826-0
+###
+009434 | Camilloni, Alicia W. De | La enseñanza de los saberes profesionales, cuestiones curriculares, didacticas y politicas | Rosario | Homo Sapiens | 2026 | EDUCACION' ;; 'FORMACION DOCENTE' ;; 'EDUCACION SUPERIOR' ;; 'DIDACTICA' ;; 'ENSENANZA-APRENDIZAJE | 978-987-771-316-9
+###
+009577 | Celi, Mauricio | Jugar para enseñar, o enseñar para jugar? | Trelew | Remitente Patagonia | 2023 | EDUCACION' ;; 'JUEGO' ;; 'APRENDIZAJE | 978-987-8464-94-7
+###
+009538 |  | De la violencia a la convivencia | CABA | Noveduc | 2016 | EDUCACION' ;; 'VIOLENCIA ESCOLAR' ;; 'BULLYING' ;; 'ACOSO ESCOLAR | 978-987-538-476-7
+###
+009539 | Coronado, Monica | Orientacion,. tutorias y acompañamiento en educacion superior | CABA | Noveduc | 2016 | CIENCIAS DE LA EDUCACION' ;; 'ENSENANZA SUPERIOR' ;; 'EDUCACION | 978-987-538-436-1
+###
+009533 |  | Niños y maestros por el camino de la alfabetización | Buenos Aires | Novedades Educativas | 2011 | EDUCACION' ;; 'FORMACION DOCENTE' ;; 'LECTURA' ;; 'ALFABETIZACION' ;; 'ENSENANZA' ;; 'APRENDIZAJE' ;; 'ESCRITURA' ;; 'ESTRATEGIAS | 978-987-538-281-7
+###
+009559 | Santis, Pablo De | Ultimo piso | CABA | Secretaría de Educación | 2024 | LITERATURA INFANTIL' ;; 'CUENTO CORTO' ;; 'LITERATURTA ARGENTINA | 978-631-90726-9-3
+###
+009576 | Kukso, Federico | Dinosaurios de America del Sur | CABA | Ediciones B | 2023 | DINOSAURIOS | 978-987-780-444-7
+###
+009530 | Brailovsky, Daniel | Educacion digital critica | CABA | Novedades Educativas | 2026 | EDUCACION' ;; 'PERFECCIONAMIENTO DOCENTE' ;; 'EDUCACION DIGITAL' ;; 'PLANIFICACION AULICA | 978-931-6828-11-8
+###
+009585 | Nesis, Jose | De familia en familia | CABA | Iamiqué | 2020 | LITERATURA INFANTIL Y JUVENIL' ;; 'ESI' ;; 'COSTUMBRES' ;; 'DIVERSIDAD | 978-987-1217-75-5
+###
+009590 | Bernasconi, Pablo | Burundi torre animal | CABA | Catapulta | 2025 | LITERATURA INFANTIL Y JUVENIL' ;; 'LITERATURA ARGENTINA' ;; 'DISCRIMINACION' ;; 'CUENTO | 978-987-815-044-4
+###
+009581 | Rampon, Mike | No hay preguntas tontas | Chile | Contrapunto  | 2024 | ENCICLOPEDIA | 978-956-257-579-9
+###
+009586 | Aguado, Sole | El pais en Tero | CABA | Area de Picnic | 2025 | LITERATURA INFANTIL Y JUVENIL' ;; 'CUENTO' ;; 'ANIMALES AUTOCTONOS' ;; 'PATAGONIA' ;; 'PUERTO MADRYN | 978-987-48914-7-1
+###
+009584 |  | Las promesas incumplidas de la inclusión | CABA | Noveduc | 2020 | INCLUSION ESCOLAR' ;; 'PEDAGOGIA' ;; 'ACCESO A LA EDUCACION' ;; 'EXCLUSION  | 978-987-538-779-9
+###
+009582 | Goldin, Andrea | Neurociencia en la escuela | CABA | Siglo XXI | 2022 | NEUROCIENCIAS' ;; 'EDUCACION' ;; 'ESCUELA' ;; 'APRENDIZAJE' ;; 'ENSENANZA' ;; 'FORMACION DOCENTE | 978-987-801-147-9
+###
+009574 | Villegas, Azucena | Los actos escolares en los proyectos de enseñanza | CABA | Colihue | 2023 | EDUCACION' ;; 'FORMACION DOCENTE' ;; 'ACTOS ESCOLARES' ;; 'ESTRATEGIAS PEDAGOGICAS' ;; 'DISENOS CURRICULARES | 978-987-684-721-6
+###
+009583 | Cwi, Mario | La inteligencia artificial llegó a la escuela | CABA | Novedades Educativas | 2024 | EDUCACION' ;; 'DIDACTICA DE LA TECNOLOGIA' ;; 'EDUCACION TECNOLOGICA' ;; 'ALGORITMO' ;; 'AUTOMATIZACION' ;; 'ChatGPT | 978-631-6603-08-1
+###
+009535 | Arata, Nicolás | La educación en la Argentina | CABA | Novedades Educativas | 2016 | EUCACION' ;; 'HISTORIA DE LA EDUCACION' ;; 'HISTORIA ARGENTINA' ;; 'ACTIVIDADES AULICAS | 978-987-538-377-7
+###
+009553 | Kaplan, Andrea | Violencia en las escuelas | Buenos Aires | Ateneo | 2026 | EDUCACION' ;; 'VIOLENCIA EN LA ESCUELA' ;; 'BULLYING' ;; 'RELACIONES HUMANAS' ;; 'NORMATIVA VIGENTE' ;; 'CONVIVENCIA ESCOLAR | 978-950-02-1743-9
+###
+009554 | Taboada, Maria Beatriz | Consignas didacticas | Buenos Aires | Ateneo | 2026 | EDUCACION' ;; 'BASES DE LA EDUCACION' ;; 'MATERIAL DIDACTICO | 978-950-02-1732-3
+###
+009555 | Taboada, Maria Beatriz | Enseñanza virtual | CABA | Ateneo | 2021 | EDUCACION' ;; 'DIDACTICA' ;; 'EDUCACION VIRTUAL' ;; 'TECNOLOGIA DE LA INFORMACION' ;; 'COMUNICACION' ;; 'PERFECCIONAMIENTO DOCENTE' ;; 'VIRTUALIDAD | 978-950-02-1153-6
+###
+009572 | Dewey, Jhon | Experiencia y educacion | CABA | Losada | 2025 | EDUCACION' ;; 'PEDAGOGIA' ;; 'FILOSOFIA DE LA EDUCAION | 978-950-03-8406-3
+###
+009556 | Abdala, Veronica | Cafe Literario | CABA | Factotum Ediciones | 2021 | LITERATURATURA ARGENTINA' ;; 'LITERATURA HISPANOAMERICANA' ;; 'ANECDOTAS DE ESCRITORES | 978-987-4198-22-8
+###
+009573 | Merlin, Nora | Pensar la educacion en la era del algoritmo | CABA | Continente | 2026 | EDUCACION' ;; 'POLITICAS DE EDUCACION' ;; 'PUNTOS DE VISTA SOCIAL' ;; 'DEMOCRATIZACION | 978-950-754-800-0
+###
+009570 |  | Policiales Argentinos | Buenos Aires | Andrés Bello Argentina | 2005 | LITERATURA ARGENTINA' ;; 'CUENTOS' ;; 'POLICIALES | 987-22269-1-1
+###
+009571 | Perez Gordillo, Vanessa | La dictadura del couching | España | Akal | 2019 | COUCHING EDUCATIVO' ;; 'FILOSOFIA DE LA EDUCACION' ;; 'INTELIGENCIA EMOCIONAL' ;; 'CONOCIMIENTO | 978-84-460-4795-7
+###
+009575 | Covelo, Laura | Abrir en caso de emergencia | Buenos Aires | Maipue | 2022 | EDUCACION' ;; 'MATEMATICA' ;; 'ARITMETICA | 978-987-8461-62-5
+###
+009580 | Diuk, Beatriz | Enseñar a leer y escribir | CABA | SXXI Editores Argentina | 2026 | EDUCACION' ;; 'PEDAGOGIA' ;; 'EDUCACION INICIAL' ;; 'ALFABETIZACION INICIAL' ;; 'LECTURA' ;; 'ESCRITURA' ;; 'COMPRENSION LECTORA' ;; 'PRODUCCION DE TEXTOS | 978-987-801-263-6
+###
+009484 | Chaina, Gustavo | Mr. Lewis en Dolavon | Trelew | Gustavo salim Jordan Chaina López | 2023 | LITERATURA ARGENTINA' ;; 'CUENTOS DE AVENTURAS | 978-987-88-9467-6
+###
+009485 | Chaina, Gustavo | Mr. Lewis en Isla Escondida | Trelew | Gustavo salim Jordan Chaina López | 2023 | LITERATURA ARGENTINA' ;; 'CUENTOS DE AVENTURAS | 978-987-88-9467-6
+###
+009483 | Chaina, Gustavo | Mr. Lewis en Gaiman | Trelew | Gustavo Salim Jordan Chaina López | 2023 | LITERATURA ARGENTINA' ;; 'CUENTOS DE AVENTURAS' ;; 'GAIMAN | 978-987-88-9467-6
+###
+009588 | Román, Eugenia | Limericks | CABA | Albatros | 2025 | POESIA INFANTIL' ;; 'LITERATURA' ;; 'LIMERICKS | 978-950-24-1819-3
+###
+009589 | Oram, Hiawyn | Alex quiere un dinosaurio | México | FCE | 2022 | LITERATURA INFANTIL' ;; 'CUENTO | 978-968-16-4114-6
+###
+009136 | Villafañe Javier | Millawun wallpa mapu mew | CABA | Ministerio de Educación | 2022 | LITERATURA INFANTIL' ;; 'CUENTO' ;; 'LITERATURA ARGENTINA' ;; 'MAPUDUNGUM | 978-950-00-1673-5
+###
+009630 | Eilidh, Rose | La hipopótama Lila | CABA | Guadal | 2012 | LITERATURA INFANTIL' ;; 'IMPRENTA MAYUSCULA' ;; 'CUENTO | 978-987-668-426-2
+###
+009427 | Ministerio de Educacion | Cartilla Informativa N°06: Recuperar el saber hecer de las escuelas en relaion con la convivencia y el cuidado comunitario. Parte II | Trelew | Ministerio de Educación | 2014 | CARTILLA INFORMATIVA' ;; 'RESOLUCION N° 217/14' ;; 'MALTRATO INFANTIL' ;; 'SITUACIONES DE ABUSO SEXUAL | 
+###
+009465 |  | Cartas a mi abuelo Dalar | Trelew | Biblioteca Popular Agustín Alvarez | 1996 | CARTAS | 
+###
+009633 | Giorgi, Sergio De | Donde duermen los gatos | CABA | RiderChail | 2023 | LITERATURA INFANTIL' ;; 'CUENTO DE ANIMALES' ;; 'IMPRENTA MAYUSCULA' ;; 'LITERATURA ARGENTINA | 978-987-788-055-7
+###
+009631 | Luca, Luciana De | Nunca vi una bruja | CABA | Periplo Ediciones | 2023 | LITERATURA INFANTIL Y JUVENIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTO DE BRUJAS | 978-987-4975-64-5
+###
+009510 | Strady, Sophie |  | España | Barbara Fiore | 2015 | LITERATURA INFANTIL' ;; 'CUENTO | 978-84-15208-67-9
+###
+009632 | Garriga, Eleonora | Todo lo que pasa | General Pueyrredón | Lecturita | 2023 | LITERATURA INFANTIL' ;; 'IMPRENTA MAYUSCULA' ;; 'CUENTO' ;; 'PRIMEROS LECTORES | 978-987-8455-41-9
+###
+009634 | Bernasconi, Pablo | Burundi | CABA | Catapulta | 2023 | LITERATURA INFANTIL' ;; 'LITERATURA ARGENTINA' ;; 'CUENTO DE ANIMALES | 978-987-815-193-9
+###
+009636 | Dieckmann, Sandra | Leaf |  |  |  | LITERATURA INFANTIL' ;; 'CUENTO DE ANIMALES' ;; 'OSOS POLARES | 978-631-300-065-4
+###
+009639 | Crichton, Michael | Parque Jurásico | Ciudad Autónoma de Buenos Aires | Debolsillo | 2026 |  | 978-987-725-607-9
+###
+009638 | Lewin, Laura | Como gestionar tu aula sin gritar (ni enloquecer) | Ciudad Autonoma de Buenos Aires | Santillana | 2026 | CONVIVENCIA ESCOLAR' ;; 'APRENDIZAJE ESCOLAR' ;; 'EDUCACION | 978-950-46-7812-0
+###
+ |  |  |  |  |  |  | 
 ###
 
